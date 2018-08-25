@@ -1,0 +1,1375 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  MLR  58N1255  M5K    A   ORD  0.00   4.45  KANMAIPATTI         
+
+
+   2  MLR  58N1015  M1C    B   ORD  0.00   4.50  VELLIMALAIPATTI     
+
+
+   3  MLR  58N0615  M1     A   ORD  0.00   5.00  ALAGARKOVIL         
+
+
+   4  MLR  58N0574  M3E    A   ORD  0.00   5.00  MANAPPACHERI        
+
+
+   5  MLR  58N1847  M6     A   ORD  0.00   5.00  SIVAGANGAI          
+
+
+   6  MLR  67N0574  M9     A   EXP  0.00   5.00  SINGAMPUNARI        
+
+
+   7  MLR  58N0589  M11    A   ORD  0.00   5.00  PANANGADI           
+
+
+   8  MLR  58N1138  M10K   B   EXP  0.00   5.15  KADAMUTHANPATTI     
+
+
+   9  MLR  58N1864  M8P    A   ORD  0.00   5.20  PONKUNDUPATTI       
+
+
+  10  MLR  58N1017  M4A    A   ORD  0.00   5.20  SARUKUVALAYAPATTI   
+
+
+  11  MLR  58N0621  M13    A   ORD  0.00   5.25  SINGAMPUNARI        
+
+
+  12  MLR  58N0977  M7A    A   ORD  0.00   5.30  THIRUPPUVANAM       
+
+
+  13  MLR  58N0590  M6H    A   ORD  0.00   5.30  THAMARAKKI          
+
+
+  14  MLR  58N1269  M7F    C   ORD  0.00   5.35  P.MEENAKSHIPURAM    
+
+
+  15  MLR  58N1237  M14    A   ORD  0.00   5.35  OKKUR               
+
+
+  16  MLR  58N1204  M5U    A   ORD  0.00   5.40  UDAPPANPATTI        
+
+
+  17  MLR  58N1220  M8A    A   ORD  0.00   5.40  ERIYUR              
+
+
+  18  MLR  58N1930  M6     B   ORD  0.00   5.45  SIVAGANGAI          
+
+
+  19  MLR  58N0933  M10    A   ORD  0.00   5.45  MADHAGUPATTI        
+
+
+  20  MLR  58N0834  M12B   B   EXP  0.00   5.45  SEMBUR              
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  MLR  58N1270  M1     A   EXP  0.00   5.45  ALAGARKOVIL         
+
+
+  22  MLR  58N0842  M3S    A   ORD  0.00   5.50  SIRUKUDI            
+
+
+  23  MLR  58N0721  M10N   A   ORD  0.00   5.50  AYYAMUTHANPATTI     
+
+
+  24  MLR  58N1255  M5A    A   ORD  5.50   5.55  SAMUTHIRAPATTI      
+
+
+  25  MLR  58N1245  M1D    A   ORD  0.00   5.55  KALLANDHIRI         
+
+
+  26  MLR  58N1199  M1     C   ORD  5.40   6.00  ALAGARKOVIL         
+
+
+  27  MLR  58N1886  M19    A   ORD  0.00   6.00  KEELAPOONGUDI       
+
+
+  28  MLR  58N1092  M5F    A   ORD  0.00   6.00  SIRUKUDI            
+
+
+  29  MLR  58N1216  M10M   A   EXP  0.00   6.00  MADHAGUPATTI        
+
+
+  30  MLR  58N1247  M1G    P   EXP  0.00   6.00  ALANGANALLUR        
+
+
+  31  MLR  58N0979  M4C    A   ORD  0.00   6.05  MUTHAMPATTI         
+
+
+  32  MLR  58N0589  M11    A   ORD  6.02   6.05  PANANGADI           
+
+
+  33  MLR  58N1252  M8     A   EXP  0.00   6.10  THIRUKOSHTIYUR      
+
+
+  34  MLR  58N1015  M3L    B   ORD  6.15   6.20  PALGUDI             
+
+
+  35  MLR  58N1197  M7     A   ORD  0.00   6.20  THIRUPPUVANAM       
+
+
+  36  MLR  58N0588  M9A    A   ORD  0.00   6.25  SINGAMPUNARI        
+
+
+  37  MLR  58N0542  M7P    T   ORD  0.00   6.30  J J NAGAR           
+
+
+  38  MLR  58N0910  M15    A   ORD  0.00   6.30  SINGAMPUNARI        
+
+
+  39  MLR  58N1942  M7V    S   ORD  0.00   6.40  T.VELLALAPATTI      
+
+
+  40  MLR  58N0615  M1     A   ORD  6.25   6.40  ALAGARKOVIL         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  MLR  58N1017  M4B    A   ORD  6.35   6.40  VADAKKUVALAPATTI    
+
+
+  42  MLR  58N1656  M1V    D   EXP  0.00   6.40  VELLIMALAIPATTI     
+
+
+  43  MLR  58N0707  M6     A   ORD  6.35   6.40  SIVAGANGAI          
+
+
+  44  MLR  67N0574  M9E    A   EXP  6.40   6.45  SINGAMPUNARI        
+
+
+  45  MLR  58N0834  M12A   B   EXP  6.40   6.45  MARUTHUR            
+
+
+  46  MLR  58N0574  M3G    A   ORD  6.40   6.50  VELLIMALAI          
+
+
+  47  MLR  58N0705  M2E    B   ORD  0.00   6.50  S.S.KOTTAI          
+
+
+  48  MLR  58N1864  M5K    A   ORD  6.50   6.55  KANMAIPATTI         
+
+
+  49  MLR  58N1138  M9K    B   EXP  6.45   7.00  ATTAPATTI           
+
+
+  50  MLR  58N1261  M10C   B   EXP  0.00   7.00  SURATHUPATTI        
+
+
+  51  MLR  58N1636  M7F    C   SLF  0.00   7.05  P.MEENAKSHIPURAM    
+
+
+  52  MLR  58N0731  M10E   A   ORD  0.00   7.05  PERIAKOTTAIPATTI    
+
+
+  53  MLR  58N0724  M5T    N   EXP  0.00   7.05  ETTIMANGALAM        
+
+
+  54  MLR  58N1895  M3T    U   EXP  0.00   7.05  THENAGUDIPATTI      
+
+
+  55  MLR  58N1847  M6     A   ORD  6.55   7.10  SIVAGANGAI          
+
+
+  56  MLR  58N1244  M3V    A   ORD  6.50   7.10  MELA VANNAYIRUPPU   
+
+
+  57  MLR  58N1256  M3M    A   EXP  0.00   7.15  MANGALAMPATTI       
+
+
+  58  TPM  58N1273  M7     B   ORD  7.00   7.15  THIRUPPUVANAM       
+
+
+  59  MLR  58N0589  M11    A   ORD  7.07   7.15  PANANGADI           
+
+
+  60  MLR  58N0932  M12K   A   ORD  7.10   7.20  S.KALLAMPATTI COLONY
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  MLR  58N1003  M5J    B   SLF  0.00   7.20  VEERASINGAMPATTI    
+
+
+  62  MLR  58N1199  M1C    C   ORD  7.25   7.30  VELLIMALAIPATTI     
+
+
+  63  MLR  58N1204  M5     A   ORD  7.20   7.30  SEKKIPATTI H.S      
+
+
+  64  MLR  58N1269  M10    C   ORD  7.15   7.30  MADHAGUPATTI        
+
+
+  65  MLR  58N1434  M7G    A   SLF  0.00   7.30  AMOOR               
+
+
+  66  MLR  58N0721  M6X    A   ORD  7.05   7.30  AATTUKULAM          
+
+
+  67  MLR  58N1270  M3U    A   EXP  7.15   7.30  UDAIYAMPATTI        
+
+
+  68  MLR  58N1220  M8E    A   ORD  7.20   7.35  E.VALAYAPATTI       
+
+
+  69  MLR  58N0977  M3P    A   ORD  7.35   7.40  PAARAI AMMAPATTI    
+
+
+  70  MLR  58N0590  M2     A   ORD  7.25   7.40  E.MALAMPATTI        
+
+
+  71  MLR  58N0933  M7C    A   ORD  7.35   7.45  KONARPATTI          
+
+
+  72  MLR  58N1010  M5X    A   ORD  0.00   7.45  SENNAKARAMPATTI     
+
+
+  73  MLR  58N1138  M8S    B   EXP  7.45   7.50  SITHAMALLIPATTI     
+
+
+  74  MLR  58N1015  M11X   B   ORD  7.45   7.50  KOTTAKUDI           
+
+
+  75  MLR  58N1245  M6P    A   ORD  7.35   7.50  PALAYA OKKUPATTI    
+
+
+  76  MLR  58N0621  M4D    A   ORD  7.30   7.50  NADUPATTI           
+
+
+  77  MLR  58N1930  M11X   B   ORD  7.50   7.55  KOTTAKUDI           
+
+
+  78  MLR  58N0932  M12    A   ORD  7.50   7.55  ARITTAPATTI         
+
+
+  79  MLR  58N1942  M13A   S   ORD  7.55   8.00  SINGAMPUNARI        
+
+
+  80  MLR  58N1864  M5E    A   ORD  7.55   8.00  KAVATTAYAMPATTI     
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  MLR  58N1237  M14    A   ORD  7.30   8.00  OKKUR               
+
+
+  82  MLR  58N1656  M5P    D   EXP  8.00   8.05  PATTUR              
+
+
+  83  MLR  58N0615  M1     A   ORD  8.05   8.10  ALAGARKOVIL         
+
+
+  84  MLR  58N1886  M7D    A   ORD  8.05   8.10  T.KOVILPATTI        
+
+
+  85  MLR  58N0842  M9F/   A   ORD  8.05   8.10  KODUKKAMPATTI       
+
+
+  86  MLR  58N0834  M7X    B   EXP  8.05   8.10  PATHINETTANGUDI     
+
+
+  87  MLR  58N0721  M6M    A   ORD  8.00   8.10  MUDIKONDAM          
+
+
+  88  MLR  58N0724  M7S    N   EXP  7.55   8.10  SAKKUDI             
+
+
+  89  MLR  58N1197  M7     A   ORD  8.15   8.20  THIRUPPUVANAM       
+
+
+  90  MLR  58N1216  M3K    A   EXP  8.15   8.20  KATTUKUDIPATTI      
+
+
+  91  MLR  58N1017  M4B    A   ORD  8.05   8.25  VADAKKUVALAPATTI    
+
+
+  92  MLR  58N1255  M8X    A   ORD  8.20   8.25  ARALIKKOTTAI        
+
+
+  93  MLR  58N0588  M9     A   ORD  8.20   8.25  SINGAMPUNARI        
+
+
+  94  MLR  58N0979  M4V    A   ORD  8.10   8.30  VELLANAYAGAMPATTI   
+
+
+  95  MLR  58N0910  M15    A   ORD  8.25   8.30  SINGAMPUNARI        
+
+
+  96  MLR  58N1270  M1B    A   EXP  8.20   8.30  PULIPATTI           
+
+
+  97  MLR  58N1261  75K/   B   EXP  8.25   8.30  KUNNAKKUDIPATTI     
+
+
+  98  MLR  58N0707  M12K   A   ORD  8.25   8.30  S.KALLAMPATTI       
+
+
+  99  MLR  58N1015  M10K   B   ORD  8.30   8.35  KADAMUTHANPATTI     
+
+
+ 100  MLR  67N0574  M10J   A   EXP  8.30   8.35  KEELAPOONGUDI       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  MLR  58N0589  M11    A   ORD  8.25   8.40  PANANGADI           
+
+
+ 102  MLR  58N0834  M6M    B   EXP  8.35   8.40  MATTANGIPATTI       
+
+
+ 103  MLR  58N1010  M3X    A   ORD  8.35   8.40  SEKKIPATTI          
+
+
+ 104  MLR  58N1636  M6J    C   SLF  8.40   8.45  KATTAKALAIPATTI     
+
+
+ 105  MLR  58N1930  M6     B   ORD  8.40   8.50  SIVAGANGAI          
+
+
+ 106  MLR  58N1252  M8     A   EXP  8.45   8.50  THIRUKOSHTIYUR      
+
+
+ 107  MLR  58N0590  M10    A   ORD  8.45   8.55  MADHAGUPATTI        
+
+
+ 108  MLR  58N0932  M5K    A   ORD  8.50   8.55  KANMAIPATTI         
+
+
+ 109  MLR  58N1247  M1F    P   EXP  8.50   8.55  PALAMADU            
+
+
+ 110  MLR  58N1864  M2E    A   ORD  8.45   9.00  S.S.KOTTAI          
+
+
+ 111  MLR  58N1003  M6J    B   SLF  8.55   9.00  KATTAKALAIPATTI     
+
+
+ 112  MLR  58N1245  M6     A   ORD  9.00   9.05  SIVAGANGAI          
+
+
+ 113  MLR  58N1434  M6G    A   SLF  9.05   9.10  GOVT.POLYTECHNIC    
+
+
+ 114  MLR  58N0542  M7     T   ORD  9.10   9.15  THIRUPPUVANAM       
+
+
+ 115  MLR  58N1199  M1A    C   ORD  8.55   9.15  A.VALAYAPATTI       
+
+
+ 116  MLR  58N1092  M5G    A   ORD  8.50   9.15  NATHAM              
+
+
+ 117  MLR  58N0621  M13    A   ORD  8.58   9.15  SINGAMPUNARI        
+
+
+ 118  MLR  58N1656  M6J    D   EXP  9.10   9.15  KATTAKALAIPATTI     
+
+
+ 119  MLR  58N0707  M3E    A   ORD  8.55   9.15  MANAPPACHERI        
+
+
+ 120  MLR  58N1138  M3F    B   EXP  9.15   9.20  UDAPPANPATTI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 121  MLR  58N1847  M6     A   ORD  9.15   9.20  SIVAGANGAI          
+
+
+ 122  MLR  58N0842  M15    A   ORD  9.15   9.20  SINGAMPUNARI        
+
+
+ 123  TPM  58N1273  M7     B   ORD  9.20   9.25  THIRUPPUVANAM       
+
+
+ 124  MLR  58N0731  M17    A   ORD  9.10   9.30  SINGAMPUNARI        
+
+
+ 125  MLR  58N0933  M10    A   ORD  9.10   9.30  MADHAGUPATTI        
+
+
+ 126  MLR  58N1886  M2C    A   ORD  9.15   9.45  MARUTHIPATTI        
+
+
+ 127  MLR  58N0977  M7A    A   ORD  9.25   9.45  THIRUPPUVANAM       
+
+
+ 128  MLR  58N0705  M3G    B   ORD  9.15   9.45  VELLIMALAI          
+
+
+ 129  MLR  58N1270  M4X    A   EXP  9.35   9.45  MADHAGUPATTI        
+
+
+ 130  MLR  58N1269  M4B    C   ORD  9.45   9.50  VADAKKUVALAYAPATTI  
+
+
+ 131  MLR  58N1220  M8A    A   ORD  9.45   9.50  ERIYUR              
+
+
+ 132  MLR  58N1017  M6D    A   ORD  9.50   9.55  PUDUPATTI           
+
+
+ 133  MLR  58N0589  M11    A   ORD  9.52   9.55  PANANGADI           
+
+
+ 134  MLR  58N1237  M6     A   ORD  9.50   9.55  SIVAGANGAI          
+
+
+ 135  MLR  58N0615  M1     A   ORD  9.45  10.00  ALAGARKOVIL         
+
+
+ 136  MLR  58N1204  M5     A   ORD  9.50  10.00  SEKKIPATTI          
+
+
+ 137  MLR  58N0574  M3N    A   ORD 10.00  10.05  AYYUTHANPATTI       
+
+
+ 138  MLR  58N1244  M3A    A   ORD 10.05  10.10  AMMANKOVILPATTI     
+
+
+ 139  MLR  58N0834  M7     B   EXP  9.50  10.15  THIRUPPUVANAM       
+
+
+ 140  BCB  58N0796  75CX   A   EXP  0.00  10.15  THAMARAIPATTI       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 141  MLR  58N1015  M16    B   ORD 10.10  10.20  SINGAMPUNARI        
+
+
+ 142  MLR  58N0979  M4U    A   ORD 10.15  10.30  URANGANPATTI        
+
+
+ 143  MLR  58N1197  M7     A   ORD 10.25  10.45  THIRUPPUVANAM       
+
+
+ 144  MLR  58N0588  M1B    A   ORD 10.30  10.45  PULIPATTI           
+
+
+ 145  MLR  67N0574  M6K    A   EXP 10.30  10.45  KALLAMPATTI         
+
+
+ 146  MLR  58N0721  M5X    A   ORD 10.35  10.45  SENNAGARAMPATTI     
+
+
+ 147  MLR  58N1255  M5     A   ORD 10.45  10.50  SEKKIPATTI          
+
+
+ 148  MLR  58N0932  M12    A   ORD 10.20  10.50  ARITTAPATTI         
+
+
+ 149  MLR  58N1010  9      A   ORD 10.45  10.50  SINGAMPUNARI        
+
+
+ 150  MLR  58N0590  M10K   A   ORD 10.55  11.00  KADAMUTHANPATTI     
+
+
+ 151  MLR  58N1017  M4A    A   ORD 10.50  11.05  SARUKUVALAYAPATTI   
+
+
+ 152  MLR  58N1895  M1     U   EXP  8.50  11.05  ALAGARKOVIL         
+
+
+ 153  MLR  58N1864  M8D    A   ORD 11.05  11.10  ERIYUR              
+
+
+ 154  MLR  58N1245  M6R    A   ORD 11.05  11.10  PALAYURPATTI        
+
+
+ 155  MLR  58N0910  M15A   A   ORD 10.45  11.10  SINGAMPUNARI        
+
+
+ 156  MLR  58N0621  M13    A   ORD 11.10  11.15  SINGAMPUNARI        
+
+
+ 157  MLR  58N0731  M5B    A   ORD 11.15  11.20  KUNNARAMPATTI       
+
+
+ 158  MLR  58N1847  M6     A   ORD 11.15  11.20  SIVAGANGAI          
+
+
+ 159  MLR  58N1269  M7G    C   ORD 11.15  11.20  AMOOR               
+
+
+ 160  MLR  58N0589  M11    A   ORD 11.02  11.20  PANANGADI           
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 161  MLR  58N1216  M10M   A   EXP 11.15  11.20  MADHAGUPATTI        
+
+
+ 162  MLR  58N0542  M15P   T   ORD 11.20  11.25  SINAGAMPUNARI       
+
+
+ 163  MLR  58N0615  M1     A   ORD 11.25  11.30  ALAGARKOVIL         
+
+
+ 164  MLR  58N1252  M8     A   EXP 11.20  11.30  THIRUKOSHTIYUR      
+
+
+ 165  MLR  58N1256  M6T    A   EXP  9.00  11.40  THAMARAKKI          
+
+
+ 166  MLR  58N0933  M7B    A   ORD 11.35  11.40  KILATHIRI           
+
+
+ 167  MLR  58N0721  M10    A   ORD 11.30  11.40  MADHAGUPATTI        
+
+
+ 168  MLR  58N1930  M6     B   ORD 10.55  11.45  SIVAGANGAI          
+
+
+ 169  TPM  58N1273  M7     B   ORD 11.30  11.50  THIRUPPUVANAM       
+
+
+ 170  MLR  58N1220  M8A    A   ORD 11.45  11.50  ERIYUR              
+
+
+ 171  MLR  58N1886  M1     A   ORD 11.50  11.55  ALAGARKOVIL         
+
+
+ 172  MLR  58N1237  M14    A   ORD 11.50  11.55  OKKUR               
+
+
+ 173  MLR  58N0574  M4E    A   ORD 11.45  12.00  ELAIKATHAMMANKOIL   
+
+
+ 174  MLR  58N1092  M5G    A   ORD 11.55  12.00  NATHAM              
+
+
+ 175  MLR  58N0842  M2     A   ORD 11.25  12.00  E.MALAMPATTI        
+
+
+ 176  MLR  58N0932  M12K   A   ORD 11.45  12.00  S.KALLAMPATTI COLONY
+
+
+ 177  MLR  58N0979  M4C    A   ORD 11.55  12.05  MUTHAMPATTI         
+
+
+ 178  MLR  58N0588  M9     A   ORD 11.50  12.05  SINGAMPUNARI        
+
+
+ 179  MLR  58N1261  M3D    B   EXP  9.35  12.05  KADAMPATTI          
+
+
+ 180  MLR  58N0977  M3F    A   ORD 12.10  12.15  UDAPPANPATTI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 181  MLR  58N1245  M6     A   ORD 12.15  12.20  SIVAGANGAI          
+
+
+ 182  MLR  58N1270  M10X   A   EXP 11.50  12.20  PULIMALAIPATTI      
+
+
+ 183  MLR  58N1244  M3A    A   ORD 12.15  12.20  AMMANKOVILPATTI     
+
+
+ 184  MLR  58N1204  M5     A   ORD 12.05  12.25  SEKKIPATTI          
+
+
+ 185  MLR  58N1199  M1C    C   ORD 11.10  12.30  VELLIMALAIPATTI     
+
+
+ 186  MLR  58N1247  M1     P   EXP 11.50  12.30  ALAGARKOVIL         
+
+
+ 187  MLR  58N0705  M3G    B   ORD 12.20  12.35  VELLIMALAI          
+
+
+ 188  MLR  58N1017  M4B    A   ORD 12.20  12.35  VADAKKUVALAYAPATTI  
+
+
+ 189  MLR  58N0589  M11    A   ORD 12.32  12.35  PANANGADI           
+
+
+ 190  MLR  58N1015  M6E    B   ORD 12.25  12.40  OKKAPATTI           
+
+
+ 191  MLR  58N0590  M2     A   ORD 12.35  12.40  E.MALAMPATTI        
+
+
+ 192  MLR  58N1003  M1     B   SLF  9.55  12.40  ALAGARKOVIL         
+
+
+ 193  MLR  58N1255  M5A    A   ORD 12.40  12.50  SAMUTHIRAPATTI      
+
+
+ 194  MLR  58N0933  M10E   A   ORD 12.55  13.00  PERIAKOTTAIPATTI    
+
+
+ 195  MLR  58N0834  M6X    B   EXP 12.20  13.00  AATTUKULAM          
+
+
+ 196  MLR  58N0615  M1     A   ORD 12.55  13.05  ALAGARKOVIL         
+
+
+ 197  MLR  58N1197  M7     A   ORD 12.50  13.05  THIRUPPUVANAM       
+
+
+ 198  MLR  58N1269  M7F    C   ORD 12.55  13.10  P.MEENAKSHIPURAM    
+
+
+ 199  MLR  67N0574  M9E    A   EXP 12.10  13.10  SINGAMPUNARI        
+
+
+ 200  MLR  58N1138  M5K    B   EXP 11.15  13.15  KANMAIPATTI         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 201  MLR  58N0621  M4D    A   ORD 13.10  13.15  NADUPATTI           
+
+
+ 202  MLR  58N1895  M5K    U   EXP 12.35  13.15  KAMMAPATTI          
+
+
+ 203  MLR  58N1010  M3J    A   ORD 12.45  13.20  ALANGAMPATTI        
+
+
+ 204  MLR  58N1847  M6     A   ORD 13.15  13.30  SIVAGANGAI          
+
+
+ 205  MLR  58N1216  M7     A   EXP 13.25  13.30  THIRUPPUVNAM        
+
+
+ 206  MLR  58N1270  M1     A   EXP 13.25  13.30  ALAGARKOVIL         
+
+
+ 207  MLR  58N0707  M6     A   ORD 11.10  13.35  SIVAGANGAI          
+
+
+ 208  MLR  58N0574  M3G    A   ORD 13.35  13.40  VELLIMALAI          
+
+
+ 209  MLR  58N1886  M6F    A   ORD 13.20  13.45  ELAIKATHAMMANKOIL   
+
+
+ 210  MLR  58N1864  M2C    A   ORD 13.15  13.45  MARUTHIPATTI        
+
+
+ 211  MLR  58N0979  M4V    A   ORD 13.40  13.45  VELLANAYAGAMPATTI   
+
+
+ 212  MLR  58N0977  M7A    A   ORD 13.40  13.50  THIRUPPUVANAM       
+
+
+ 213  MLR  58N0731  M17    A   ORD 13.35  13.50  SINGAMPUNARI        
+
+
+ 214  MLR  58N0590  M10    A   ORD 13.45  13.50  MADHAGUPATTI        
+
+
+ 215  MLR  58N0842  M12K   A   ORD 13.15  13.50  S.KALLAMPATTI       
+
+
+ 216  MLR  58N1237  M6     A   ORD 13.47  13.50  SIVAGANGAI          
+
+
+ 217  MLR  58N1220  M8A    A   ORD 13.45  13.55  ERIYUR              
+
+
+ 218  MLR  58N0589  M11    A   ORD 13.48  13.55  PANANGADI           
+
+
+ 219  MLR  58N0910  M15    A   ORD 13.15  13.55  SINGAMPUNARI        
+
+
+ 220  MLR  58N1199  M1D    C   ORD 13.55  14.00  KALLANDHIRI         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 221  MLR  58N0588  M9     A   ORD 13.55  14.00  SINGAMPUNARI        
+
+
+ 222  MLR  58N1015  M6P    B   ORD 14.05  14.10  PALAYA OKKUPATTI    
+
+
+ 223  MLR  58N1930  M6     B   ORD 13.40  14.10  SIVAGANGAI          
+
+
+ 224  MLR  58N0932  M7E    A   ORD 12.25  14.10  ELUPAKKUDI          
+
+
+ 225  MLR  58N1247  M1     P   EXP 13.55  14.15  ALAGARKOVIL         
+
+
+ 226  MLR  58N1245  M3L    A   ORD 14.05  14.18  PALGUDI             
+
+
+ 227  MLR  58N0842  M15P   A   ORD 14.15  14.20  SINGAMPUNARI        
+
+
+ 228  MLR  58N0621  M13    A   ORD 14.13  14.20  SINGAMPUNARI        
+
+
+ 229  MLR  58N1138  M1     B   EXP 14.20  14.25  ALAGARKOVIL         
+
+
+ 230  MLR  58N1204  M5     A   ORD 14.10  14.25  SEKKIPATTI H.S.     
+
+
+ 231  TPM  58N1273  M7     B   ORD 14.05  14.25  THIRUPPUVANAM       
+
+
+ 232  MLR  58N1252  M8     A   EXP 14.10  14.30  THIRUKOSHTIYUR      
+
+
+ 233  MLR  58N0721  M5X    A   ORD 14.05  14.30  SENNAGARAMPATTI     
+
+
+ 234  MLR  58N0615  M1     A   ORD 14.30  14.35  ALAGARKOVIL         
+
+
+ 235  MLR  58N1895  M3     U   EXP 14.30  14.35  KOTTAMPATTI         
+
+
+ 236  MLR  58N1017  M4B    A   ORD 14.00  14.40  VADAKKUVALAYAPATTI  
+
+
+ 237  MLR  58N1092  M5G    A   ORD 14.35  14.45  NATHAM              
+
+
+ 238  MLR  58N1434  M7G    A   SLF 10.10  14.45  AMOOR               
+
+
+ 239  MLR  58N1270  M1     A   EXP 14.55  15.00  ALAGARKOVIL         
+
+
+ 240  MLR  58N0542  M7P    T   ORD 14.00  15.10  J J NAGAR           
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 241  MLR  58N1197  M7     A   ORD 15.10  15.15  THIRUPPUVANAM       
+
+
+ 242  MLR  58N1269  M15    C   ORD 14.55  15.15  SINGAMPUNARI        
+
+
+ 243  MLR  67N0574  M10J   A   EXP 15.00  15.15  KEELAPOONGUDI       
+
+
+ 244  MLR  58N0933  M10    A   ORD 15.15  15.20  MADHAGUPATTI        
+
+
+ 245  MLR  58N0589  M11    A   ORD 15.08  15.21  PANANGADI           
+
+
+ 246  MLR  58N1255  M5A    A   ORD 15.05  15.25  SAMUTHIRAPATTI      
+
+
+ 247  MLR  58N0721  M6M    A   ORD 15.15  15.25  MUDIKONDAM          
+
+
+ 248  MLR  58N0979  M4U    A   ORD 15.20  15.30  URANGANPATTI        
+
+
+ 249  MLR  58N1010  M3R    A   ORD 15.15  15.30  VEERASINGAMPATTI    
+
+
+ 250  MLR  58N1138  M10K   B   EXP 15.30  15.35  KADAMUTHANPATTI     
+
+
+ 251  MLR  58N0707  M3N    A   ORD 15.30  15.35  AYYUTHANPATTI       
+
+
+ 252  MLR  58N1015  M8X    B   ORD 15.25  15.40  ARALIKKOTTAI        
+
+
+ 253  MLR  58N1886  M5K    A   ORD 15.25  15.40  KANMAIPATTI         
+
+
+ 254  MLR  58N1847  M6     A   ORD 15.30  15.40  SIVAGANGAI          
+
+
+ 255  MLR  58N1216  M5E    A   EXP 15.35  15.40  KAVATTAYAMPATTI     
+
+
+ 256  MLR  58N0705  M3C    B   ORD 15.00  15.50  KARUNKALAKKUDI      
+
+
+ 257  MLR  58N0590  M2     A   ORD 15.45  15.50  E.MALAMPATTI        
+
+
+ 258  MLR  58N1244  M3A    A   ORD 14.25  15.50  AMMANKOVILPATTI     
+
+
+ 259  MLR  58N1942  M13A   S   ORD  9.50  16.00  SINGAMPUNARI        
+
+
+ 260  MLR  58N1199  M1     C   ORD 15.55  16.00  ALAGARKOVIL         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 261  MLR  58N0731  M10E   A   ORD 15.35  16.00  PERIAKOTTAIPATTI    
+
+
+ 262  MLR  58N1245  M6P    A   ORD 15.35  16.00  PALAYA OKKUPATTI    
+
+
+ 263  MLR  58N0588  M9     A   ORD 15.55  16.00  SINGAMPUNARI        
+
+
+ 264  MLR  58N1237  M14A   A   ORD 15.45  16.00  KALAYARMANGALAM     
+
+
+ 265  MLR  58N1247  M3K    P   EXP 15.40  16.05  KATTUKUDIPATTI      
+
+
+ 266  MLR  58N1930  M6     B   ORD 16.05  16.10  SIVAGANGAI          
+
+
+ 267  MLR  58N0977  M3P    A   ORD 16.00  16.15  PAARAI AMMAPATTI    
+
+
+ 268  MLR  58N1434  M4/    A   SLF 16.10  16.15  THANIYAMANGALAM     
+
+
+ 269  MLR  58N1256  M9X    A   EXP 13.30  16.20  ATTAPATTI           
+
+
+ 270  MLR  58N1220  M8E    A   ORD 15.50  16.20  E.VALAYAPATTI       
+
+
+ 271  MLR  58N0621  M13    A   ORD 16.15  16.20  SINGAMPUNARI        
+
+
+ 272  MLR  58N0910  M15K   A   ORD 16.00  16.20  KAYAMPATTI          
+
+
+ 273  MLR  58N0834  M7J    B   EXP 13.35  16.20  ELUVAKKARAYANPATTI  
+
+
+ 274  MLR  58N1895  M3T    U   EXP 16.10  16.20  THENAGUDIPATTI      
+
+
+ 275  MLR  58N0932  M12K   A   ORD 16.15  16.25  S.KALLAMPATTI COLONY
+
+
+ 276  MLR  58N0724  M7S    N   EXP 10.00  16.25  SAKKUDI             
+
+
+ 277  MLR  58N0615  M1     A   ORD 16.00  16.30  ALAGARKOVIL         
+
+
+ 278  MLR  58N1864  M5L    A   ORD 16.20  16.30  KAILAMPATTI         
+
+
+ 279  MLR  58N1204  M5     A   ORD 16.15  16.30  SEKKIPATTI          
+
+
+ 280  MLR  58N1216  M7A    A   EXP 16.25  16.30  THIRUPPUVANAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 281  MLR  58N1270  M3U    A   EXP 16.25  16.30  UDAIYAMPATTI        
+
+
+ 282  MLR  58N1261  M6J    B   EXP 13.50  16.30  KATTAKALAIPATTI     
+
+
+ 283  MLR  58N0574  M3G    A   ORD 16.05  16.35  VELLIMALAI          
+
+
+ 284  MLR  58N1017  M4B    A   ORD 16.20  16.35  VADAKKUVALAYAPATTI  
+
+
+ 285  TPM  58N1273  M7     B   ORD 16.30  16.35  THIRUPPUVANAM       
+
+
+ 286  MLR  58N0589  M11    A   ORD 16.35  16.37  PANANGADI           
+
+
+ 287  MLR  58N1886  M5K    A   ORD 16.55  17.00  KANMAIPATTI         
+
+
+ 288  MLR  58N0590  M10K   A   ORD 16.55  17.00  KADAMUTHANPATTI     
+
+
+ 289  MLR  58N0842  M9F/   A   ORD 16.55  17.00  KODUKKAMPATTI       
+
+
+ 290  MLR  58N0932  M12    A   ORD 16.55  17.00  ARITTAPATTI         
+
+
+ 291  MLR  58N1434  M7G    A   SLF 17.00  17.05  AMOOR               
+
+
+ 292  MLR  58N1003  M7F    B   SLF 17.00  17.05  P.MEENAKSHIPURAM    
+
+
+ 293  MLR  58N0979  M4C    A   ORD 16.55  17.10  MUTHAMPATTI         
+
+
+ 294  MLR  58N1252  M8     A   EXP 17.00  17.10  THIRUKOSHTIYUR      
+
+
+ 295  MLR  67N0574  M9E    A   EXP 17.05  17.15  SINGAMPUNARI        
+
+
+ 296  MLR  58N1270  M1     A   EXP 17.15  17.20  ALAGARKOVIL         
+
+
+ 297  MLR  58N0707  M1     A   ORD 17.20  17.22  ALAGARKOVIL         
+
+
+ 298  MLR  58N1197  M7     A   ORD 17.20  17.25  THIRUPPUVANAM       
+
+
+ 299  MLR  58N1269  M3D    C   ORD 17.20  17.25  KADAMPATTI          
+
+
+ 300  MLR  58N1245  M6     A   ORD 17.15  17.30  SIVAGANGAI          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 301  MLR  58N1010  M16    A   ORD 17.25  17.30  SINGAMPUNARI        
+
+
+ 302  MLR  58N1138  M8S    B   EXP 17.10  17.35  SITHAMALLIPATTI     
+
+
+ 303  MLR  58N1199  M1C    C   ORD 17.30  17.35  VELLIMALAIPATTI     
+
+
+ 304  MLR  58N1864  M2E    A   ORD 17.30  17.35  S.S.KOTTAI          
+
+
+ 305  MLR  58N1092  M5F    A   ORD 17.25  17.40  SIRUKUDI            
+
+
+ 306  MLR  58N0933  M7C    A   ORD 17.35  17.40  KONARPATTI          
+
+
+ 307  MLR  58N1847  M11X   A   ORD 17.40  17.45  KOTTAKUDI           
+
+
+ 308  MLR  58N1656  M1V    D   EXP 10.00  17.45  VELLIMALAIPATTI     
+
+
+ 309  MLR  58N0910  M15A   A   ORD 17.45  17.50  SINGAMPUNARI        
+
+
+ 310  MLR  58N1261  M10C   B   EXP 16.30  17.50  SURATHUPATTI        
+
+
+ 311  MLR  58N0589  M11    A   ORD 17.50  17.52  PANANGADI           
+
+
+ 312  MLR  58N1255  M7D    A   ORD 17.50  17.55  T.KOVILPATTI        
+
+
+ 313  MLR  58N0721  M10    A   ORD 17.50  17.55  MADHAGUPATTI        
+
+
+ 314  MLR  58N1942  M7V    S   ORD 17.50  18.00  T.VELLALAPATTI      
+
+
+ 315  MLR  58N0542  M6M    T   ORD 17.55  18.00  MATTANGIPATTI       
+
+
+ 316  MLR  58N1015  M3L    B   ORD 17.55  18.00  PALGUDI             
+
+
+ 317  MLR  58N0834  M12B   B   EXP 17.55  18.00  SEMBUR              
+
+
+ 318  MLR  58N0977  M12K   A   ORD 18.00  18.05  S.KALLAMPATTI       
+
+
+ 319  MLR  58N0615  M1     A   ORD 18.05  18.10  ALAGARKOVIL         
+
+
+ 320  MLR  58N0705  M3G    B   ORD 18.05  18.10  VELLIMALAI          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 321  MLR  58N1017  M4B    A   ORD 18.05  18.10  VADAKKUVALAYAPATTI  
+
+
+ 322  MLR  58N0731  M5     A   ORD 18.05  18.10  SEKKIPATTI          
+
+
+ 323  MLR  58N0842  M15    A   ORD 18.05  18.15  SINGAMPUNARI        
+
+
+ 324  MLR  58N0932  M5K    A   ORD 17.55  18.15  KANMAIPATTI         
+
+
+ 325  MLR  58N1237  M6     A   ORD 18.00  18.17  SIVAGANGAI          
+
+
+ 326  MLR  58N1886  M2C    A   ORD 18.15  18.20  MARUTHIPATTI        
+
+
+ 327  MLR  58N1244  M3A    A   ORD 18.00  18.25  AMMANKOVILPATTI     
+
+
+ 328  MLR  58N0977  M7A    A   ORD 18.30  18.35  THIRUPPUVANAM       
+
+
+ 329  MLR  58N1204  M5B    A   ORD 18.15  18.40  KUNNURAMPATTI       
+
+
+ 330  MLR  58N1220  M8A    A   ORD 18.35  18.40  ERIYUR              
+
+
+ 331  MLR  58N0588  M9A    A   ORD 18.00  18.40  SINGAMPUNARI        
+
+
+ 332  MLR  58N0707  M19    A   ORD 18.35  18.40  KEELAPOONGUDI       
+
+
+ 333  MLR  58N1930  M6     B   ORD 18.10  18.50  SIVAGANGAI          
+
+
+ 334  MLR  58N0724  M10C   N   EXP 18.25  18.50  SURATHUPATTI        
+
+
+ 335  TPM  58N1273  M7     B   ORD 18.40  18.55  THIRUPPUVANAM       
+
+
+ 336  MLR  58N1269  M7G    C   ORD 18.50  18.55  AMOOR               
+
+
+ 337  MLR  58N0834  M12A   B   EXP 18.50  18.55  MARUTHUR            
+
+
+ 338  MLR  58N0590  M6H    A   ORD 18.40  19.00  THAMARAKKI          
+
+
+ 339  MLR  58N0621  M4D    A   ORD 18.35  19.00  NADUPATTI           
+
+
+ 340  MLR  58N1216  M10M   A   EXP 18.45  19.00  MADHAGUPATTI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 341  MLR  58N1270  M1B    A   EXP 18.45  19.00  PULIPATTI           
+
+
+ 342  MLR  58N1199  M1A    C   ORD 19.00  19.05  A.VALAYAPATTI       
+
+
+ 343  MLR  58N1138  M3F    B   EXP 19.00  19.10  UDAPPANPATTI        
+
+
+ 344  MLR  58N0574  M3G    A   ORD 19.05  19.10  VELLIMALAI          
+
+
+ 345  MLR  67N0574  M7T    A   EXP 19.00  19.10  THAMARAKKI          
+
+
+ 346  MLR  58N0933  M10    A   ORD 19.05  19.10  MADHAGUPATTI        
+
+
+ 347  MLR  58N0589  M11    A   ORD 19.05  19.10  PANANGADI           
+
+
+ 348  MLR  58N1847  M6     A   ORD 18.30  19.25  SIVAGANGAI          
+
+
+ 349  MLR  58N1015  M4X    B   ORD 19.25  19.30  MADHAGUPATTI        
+
+
+ 350  MLR  58N0979  M4H    A   ORD 19.00  19.30  PULIMALAIPATTI      
+
+
+ 351  MLR  58N1245  M1D    A   ORD 19.25  19.40  KALLANDHIRI         
+
+
+ 352  MLR  58N1247  M9     P   EXP 18.50  19.40  SINGAMPUNARI        
+
+
+ 353  MLR  58N1864  M3H    A   ORD 19.40  19.45  MELAVALAVU          
+
+
+ 354  MLR  58N0932  M12K   A   ORD 19.40  19.45  S.KALLAMPATTI COLONY
+
+
+ 355  MLR  58N0615  M1     A   ORD 19.45  19.50  ALAGARKOVIL         
+
+
+ 356  MLR  58N1017  M6D    A   ORD 19.35  19.50  PUDUPATTI           
+
+
+ 357  MLR  58N1252  M8     A   EXP 19.40  19.50  THIRUKOSHTIYUR      
+
+
+ 358  MLR  58N1010  M5X    A   ORD 19.40  19.50  SENNAKARAMPATTI     
+
+
+ 359  MLR  58N1256  M6E    A   EXP 17.15  19.55  OKKAPATTI           
+
+
+ 360  MLR  58N1197  M7     A   ORD 19.40  20.00  THIRUPPUVANAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 361  MLR  58N1255  M5A    A   ORD 19.00  20.10  SAMUTHIRAPATTI      
+
+
+ 362  MLR  58N0932  M12    A   ORD 20.10  20.15  ARITTAPATTI         
+
+
+ 363  MLR  58N1237  M14    A   ORD 20.10  20.15  OKKUR               
+
+
+ 364  MLR  58N0721  M6E    A   ORD 20.10  20.15  OKKUPATTI           
+
+
+ 365  MLR  58N0589  M11    A   ORD 20.15  20.20  PANANGADI           
+
+
+ 366  MLR  58N0621  M13    A   ORD 20.08  20.20  SINGAMPUNARI        
+
+
+ 367  MLR  58N0910  M15    A   ORD 19.55  20.20  SINGAMPUNARI        
+
+
+ 368  MLR  58N1270  M3U    A   EXP 20.05  20.20  UDAIYAMPATTI        
+
+
+ 369  MLR  58N1886  M1     A   ORD 20.25  20.30  ALAGARKOVIL         
+
+
+ 370  MLR  58N1269  M4B    C   ORD 20.20  20.30  VADAKKUVALAYAPATTI  
+
+
+ 371  MLR  58N0834  M7     B   EXP 20.10  20.30  THIRUPPUVANAM       
+
+
+ 372  MLR  58N0842  M5E    A   ORD 20.20  20.35  KAVATTAYAMPATTI     
+
+
+ 373  MLR  58N1220  M8A    A   ORD 20.30  20.35  ERIYUR              
+
+
+ 374  MLR  58N1895  M3K    U   EXP 18.05  20.35  KACHRAYANPATTI      
+
+
+ 375  MLR  58N1244  M3B    A   ORD 20.30  20.35  THONDHILINGAPURAM   
+
+
+ 376  MLR  58N0731  M10E   A   ORD 20.00  20.40  PERIAKOTTAIPATTI    
+
+
+ 377  MLR  58N1092  M5G    A   ORD 20.25  20.40  NATHAM              
+
+
+ 378  MLR  58N1930  M6     B   ORD 20.50  20.55  SIVAGANGAI          
+
+
+ 379  MLR  58N1864  M5E    A   ORD 20.50  21.00  KAVATTAYAMPATTI     
+
+
+ 380  MLR  58N1204  M5U    A   ORD 20.40  21.00  UDAPPANPATTI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          MELUR TOWN               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 381  MLR  58N0707  M3J    A   ORD 20.45  21.00  ALANGAMPATTI        
+
+
+ 382  MLR  58N1138  M1B    B   EXP 21.00  21.05  PULIPATTI           
+
+
+ 383  MLR  58N0588  M9     A   ORD 21.00  21.05  SINGAMPUNARI        
+
+
+ 384  MLR  58N0977  M12K   A   ORD 20.50  21.10  S.KALLAMPATTI       
+
+
+ 385  MLR  58N1270  M10N   A   EXP 21.05  21.10  AYYAMUTHANPATTI     
+
+
+ 386  MLR  58N0932  M7E    A   ORD 21.10  21.15  ELUPPAKKUDI         
+
+
+ 387  MLR  58N0979  M4     A   ORD 21.00  21.20  VELLALUR            
+
+
+ 388  MLR  58N1017  M5K    A   ORD 20.55  21.25  KANMAIPATTI         
+
+
+ 389  TPM  58N1273  M7     B   ORD 21.15  21.30  THIRUPPUVANAM       
+
+
+ 390  MLR  58N0589  M11    A   ORD 21.25  21.30  PANANGADI           
+
+
+ 391  MLR  58N1199  M1     C   ORD 21.00  21.40  ALAGARKOVIL         
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

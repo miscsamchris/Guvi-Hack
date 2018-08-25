@@ -1,0 +1,532 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          VIA TP.KUNDRAM           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  MCB  58N1624  7X     A   SLF  0.00   4.45  PALANGANATHAM       
+
+
+   2  TPK  58N0810  53     A   ORD  5.55   6.00  THIRUMANGALAM       
+
+
+   3  TPK  58N1621  5Y     C   SLF  6.05   6.10  SEENIVASA COLONY    
+
+
+   4  TPK  58N1378  52A    A   EXP  6.08   6.20  KARADIKKAL          
+
+
+   5  TPK  58N1329  5C     A   ORD  6.20   6.25  HARVEYPATTI         
+
+
+   6  TPK  58N1366  5L     A   EXP  6.23   6.25  THIRUVALLUVAR NAGAR 
+
+
+   7  TPK  58N2049  22/    A   ORD  6.25   6.30  THIRUNAGAR          
+
+
+   8  TPK  58N0815  19J/   B   EXP  6.34   6.36  MADAKULAM           
+
+
+   9  TPK  58N1777  5E     A   ORD  6.30   6.40  SAMBAKULAM          
+
+
+  10  TPK  58N2071  5A     B   ORD  6.54   6.56  THENPALANJI         
+
+
+  11  TPK  58N0814  5D     A   ORD  6.55   7.00  KARUVELAMPATTI      
+
+
+  12  TPK  58N1395  52     A   EXP  6.47   7.05  AUSTINPATTI         
+
+
+  13  TPK  58N0811  15P    A   EXP  0.00   7.20  PASIYAPURAM         
+
+
+  14  TPK  58N1141  10T    B   SLF  7.20   7.22  THOPPUR             
+
+
+  15  TPK  58N1329  5A/    A   ORD  7.20   7.25  VEDARPULIYANKULAM   
+
+
+  16  PON  58N1688  9C/    B   SLF  7.30   7.45  ALAGAPPA NAGAR      
+
+
+  17  TPK  58N1366  5L     A   EXP  7.27   7.47  THIRUVALLUVAR NAGAR 
+
+
+  18  TPK  58N0815  19J/   B   EXP  7.26   7.48  MADAKULAM           
+
+
+  19  ENR  58N1380  5CS    C   EXP  7.35   7.50  CHINNA SAKKILIPATTI 
+
+
+  20  TPK  58N1621  52     C   SLF  7.45   7.55  AUSTINPATTI         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA TP.KUNDRAM           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  TPK  58N1312  5G     A   ORD  7.55   8.00  VELLAIPARAIPATTI    
+
+
+  22  TPK  58N2067  7X     C   EXP  8.10   8.15  PALANGANATHAM       
+
+
+  23  TPK  58N1400  19C/   C   EXP  8.15   8.20  VILLAPURAM COLONY   
+
+
+  24  TPK  58N1378  52     A   EXP  8.07   8.20  AUSTINPATTI         
+
+
+  25  TPK  58N1395  9A/    A   EXP  8.25   8.30  VILACHERI           
+
+
+  26  TPK  58N2071  5L     B   ORD  8.18   8.35  THIRUVALLUVAR NAGAR 
+
+
+  27  TPK  58N1329  5E     A   ORD  8.30   8.35  SAMBAKULAM          
+
+
+  28  TPK  58N0810  5J     A   ORD  8.40   8.45  CHECKANURANI        
+
+
+  29  TPK  58N0811  29C    A   EXP  8.45   8.50  SAMAYANALLUR        
+
+
+  30  TPK  58N2049  11A    A   ORD  8.45   8.50  K.P.COLONY          
+
+
+  31  TPK  58N1366  5L     A   EXP  8.53   8.55  THIRUVALLUVAR NAGAR 
+
+
+  32  TMG  58N2210  52     A   EXP  9.05   9.10  AUSTINPATTI         
+
+
+  33  TPK  58N1508  22/    C   SLF  9.10   9.15  MAHALAKSHMI COLONY  
+
+
+  34  TPK  58N1395  9A/    A   EXP  9.25   9.30  VILACHERI           
+
+
+  35  TPK  58N0814  5D     A   ORD  9.40   9.45  KARUVELAMPATTI      
+
+
+  36  TPK  58N1312  5H     A   ORD  9.45  10.00  MAVILIPATTI         
+
+
+  37  TPK  58N0811  29C    A   EXP  8.50  10.00  SAMAYANALLUR        
+
+
+  38  TPK  58N1378  52     A   EXP  9.52  10.15  AUSTINPATTI         
+
+
+  39  TPK  58N1329  5BX    A   ORD 10.15  10.20  KAITHARI NAGAR      
+
+
+  40  TPK  58N1366  5L     A   EXP 10.03  10.30  THIRUVALLUVAR NAGAR 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA TP.KUNDRAM           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  TPK  58N1395  9A/    A   EXP 10.35  10.40  VILACHERI           
+
+
+  42  TPK  58N1343  9B/    B   EXP 10.50  10.55  MUTHUPATTI          
+
+
+  43  TPK  58N0739  5Y     A   ORD 11.05  11.10  SEENIVASA COLONY    
+
+
+  44  TPK  58N0811  5EA    A   EXP 11.05  11.15  O.ALANGULAM         
+
+
+  45  TPK  58N1329  5BX    A   ORD 11.20  11.25  KAITHARI NAGAR      
+
+
+  46  TPK  58N1777  5E     A   ORD 11.30  11.35  SAMBAKULAM          
+
+
+  47  TPK  58N0814  5D     A   ORD 11.20  11.40  KARUVELAMPATTI      
+
+
+  48  TPK  58N1366  5L     A   EXP 11.38  11.40  THIRUVALLUVAR NAGAR 
+
+
+  49  TPK  58N1312  5A     A   ORD 11.35  11.50  MAVILIPATTI         
+
+
+  50  TPK  58N1395  9A/    A   EXP 11.50  11.55  VILACHERI           
+
+
+  51  TPK  58N1378  52A    A   EXP 11.47  12.05  KARADIKKAL          
+
+
+  52  TPK  58N1329  5E     A   ORD 12.20  12.25  SAMBAKULAM          
+
+
+  53  TPK  58N2071  5A     B   ORD 12.35  12.45  THENPALANJI         
+
+
+  54  TPK  58N1366  5L     A   EXP 12.48  12.52  THIRUVALLUVAR NAGAR 
+
+
+  55  TPK  58N1395  52     A   EXP 12.50  12.55  AUSTINPATTI         
+
+
+  56  TPK  58N1346  5/     A   EXP 13.00  13.05  TPKUNDRAM           
+
+
+  57  TPK  58N1777  5B     A   ORD 13.00  13.15  NILAIYUR            
+
+
+  58  TPK  58N1638  5/     A   ORD 13.11  13.16  TPKUNDRAM           
+
+
+  59  TPK  58N0814  5D     A   ORD 13.15  13.20  KARUVELAMPATTI      
+
+
+  60  TPK  58N1392  5\     A   EXP 13.00  13.20  MANNAR COLLEGE      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA TP.KUNDRAM           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  TPK  58N1312  5H     A   ORD 13.25  13.30  MAVILIPATTI         
+
+
+  62  TPK  58N0752  19A/   A   EXP 13.35  13.40  MADAKULAM           
+
+
+  63  TPK  58N1345  9B/    A   EXP 13.30  13.45  MUTHUPATTI          
+
+
+  64  TPK  58N1329  5E     A   ORD 13.50  14.00  SAMBAKULAM          
+
+
+  65  TPK  58N1366  5L     A   EXP 14.00  14.05  THIRUVALLUVAR NAGAR 
+
+
+  66  TPK  58N1378  52     A   EXP 14.00  14.05  AUSTINPATTI         
+
+
+  67  TPK  58N1317  19/    A   EXP 13.54  14.14  MUTHURAMALINGAPURAM 
+
+
+  68  TPK  58N1320  5/     A   EXP 14.10  14.15  TPKUNDRAM           
+
+
+  69  TPK  58N1375  11B    B   EXP 14.05  14.15  M.G.NAGAR           
+
+
+  70  TPK  58N2071  5A     B   ORD 14.10  14.20  THENPALANJI         
+
+
+  71  TPK  58N0815  19J/   B   EXP 14.26  14.30  MADAKULAM           
+
+
+  72  TPK  58N1395  9A/    A   EXP 14.20  14.30  VILACHERI           
+
+
+  73  TPK  58N1343  9B/    B   EXP 14.00  14.40  MUTHUPATTI          
+
+
+  74  TPK  58N1777  5E     A   ORD 14.20  14.45  SAMBAKULAM          
+
+
+  75  TPK  58N1396  19/    B   EXP 14.46  14.58  MUTHURAMALINGAPURAM 
+
+
+  76  TPK  58N2049  52     A   ORD 14.55  15.00  AUSTINPATTI         
+
+
+  77  TPK  58N0814  5D     A   ORD 15.00  15.20  KARUVELAMPATTI      
+
+
+  78  TPK  58N1312  5H     A   ORD 15.10  15.25  MAVILIPATTI         
+
+
+  79  TPK  58N1366  5L     A   EXP 15.07  15.25  THIRUVALLUVAR NAGAR 
+
+
+  80  TPK  58N1329  5C     A   ORD 15.25  15.40  HARVEYPATTI         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA TP.KUNDRAM           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  TPK  58N0810  14D/   A   ORD 15.35  15.40  MAHALAKSHMI COLONY  
+
+
+  82  TPK  58N1395  9A/    A   EXP 15.35  15.40  VILACHERI           
+
+
+  83  TPK  58N1141  700    B   SLF 15.50  15.55  M.G.R.BUSSTAND      
+
+
+  84  TPK  58N2071  5L     B   ORD 15.45  16.00  THIRUVALLUVAR NAGAR 
+
+
+  85  TPK  58N1378  52A    A   EXP 15.45  16.00  KARADIKKAL          
+
+
+  86  TPK  58N0811  15P    A   EXP 16.05  16.10  PASIYAPURAM         
+
+
+  87  TPK  58N1777  5E     A   ORD 16.10  16.15  SAMBAKULAM          
+
+
+  88  TPK  58N0752  19A/   A   EXP 16.20  16.30  MADAKULAM           
+
+
+  89  TPK  58N1366  5L     A   EXP 16.33  16.35  THIRUVALLUVAR NAGAR 
+
+
+  90  TMG  58N0571  52     A   EXP 16.30  16.45  AUSTINPATTI         
+
+
+  91  ENR  58N1380  5CS    C   EXP  7.50  16.45  CHINNA SAKKILIPATTI 
+
+
+  92  TPK  58N1395  9A/    A   EXP 16.40  16.45  VILACHERI           
+
+
+  93  TPK  58N1329  9X     A   ORD 16.35  16.50  PASUMALAI           
+
+
+  94  TPK  58N0810  5H     A   ORD 16.55  17.00  MAVILIPATTI         
+
+
+  95  TPK  58N1312  5G     A   ORD 17.02  17.15  VELLAIPARAIPATTI    
+
+
+  96  TPK  58N0752  19A/   A   EXP 17.15  17.20  MADAKULAM           
+
+
+  97  TPK  58N1329  5C     A   ORD 17.20  17.25  HARVEYPATTI         
+
+
+  98  TPK  58N0811  5EA    A   EXP 17.35  17.50  O.ALANGULAM         
+
+
+  99  TPK  58N1777  5E     A   ORD 17.40  17.55  SAMBAKULAM          
+
+
+ 100  TPK  58N1366  5L     A   EXP 17.53  17.55  THIRUVALLUVAR NAGAR 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA TP.KUNDRAM           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  TPK  58N1395  9A/    A   EXP 17.40  17.55  VILACHERI           
+
+
+ 102  TPK  58N1378  52     A   EXP 17.52  18.02  AUSTINPATTI         
+
+
+ 103  TPK  58N0814  5D     A   ORD 18.05  18.10  KARUVELAMPATTI      
+
+
+ 104  TPK  58N1329  5E     A   ORD 18.20  18.35  SAMBAKULAM          
+
+
+ 105  TPK  58N1395  9A/    A   EXP 18.50  18.55  VILACHERI           
+
+
+ 106  TPK  58N0810  31/    A   ORD 18.45  19.00  CHINNA KANMAI       
+
+
+ 107  TPK  58N1312  5H     A   ORD 19.03  19.05  MAVILIPATTI         
+
+
+ 108  TPK  58N1366  5L     A   EXP 19.03  19.25  THIRUVALLUVAR NAGAR 
+
+
+ 109  TPK  58N0739  5Y     A   ORD 19.10  19.30  SEENIVASA COLONY    
+
+
+ 110  TPK  58N1334  5E     M   ORD 19.35  19.40  SAMBAKULAM          
+
+
+ 111  TPK  58N0811  5EA    A   EXP 19.35  19.45  O.ALANGULAM         
+
+
+ 112  TPK  58N1395  9A/    A   EXP 19.50  19.55  VILACHERI           
+
+
+ 113  TPK  58N0814  5D     A   ORD 19.40  20.00  KARUVELAMPATTI      
+
+
+ 114  TPK  58N1378  52A    A   EXP 19.35  20.00  KARADIKKAL          
+
+
+ 115  TPK  58N2071  5A     B   ORD 20.00  20.05  THENPALANJI         
+
+
+ 116  TPK  58N1329  5BX    A   ORD 20.20  20.25  KAITHARI NAGAR      
+
+
+ 117  TPK  58N1366  5L     A   EXP 20.30  20.32  THIRUVALLUVAR NAGAR 
+
+
+ 118  TPK  58N1395  9A/    A   EXP 20.50  20.55  VILACHERI           
+
+
+ 119  TPK  58N1416  5/     B   EXP  0.00  21.00  TPKUNDRAM           
+
+
+ 120  TPK  58N1312  5H     A   ORD 20.50  21.05  MAVILIPATTI         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA TP.KUNDRAM           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 121  TPK  58N1329  5E     A   ORD 21.10  21.25  SAMBAKULAM          
+
+
+ 122  TPK  58N0814  5D     A   ORD 21.25  21.30  KARUVELAMPATTI      
+
+
+ 123  TPK  58N0811  5/     A   EXP 21.30  21.35  TPKUNDRAM           
+
+
+ 124  TPK  58N1366  5L     A   EXP 21.37  21.40  THIRUVALLUVAR NAGAR 
+
+
+ 125  TPK  58N1446  22X    C   SLF 21.25  21.40  MAHALAKSHMI COLONY  
+
+
+ 126  TPK  58N1398  5/     A   EXP 21.35  21.40  TPKUNDRAM           
+
+
+ 127  TPK  58N2071  5A     B   ORD 21.20  21.45  THENPALANJI         
+
+
+ 128  TPK  58N2056  5/     A   EXP  0.00  21.45  TPKUNDRAM           
+
+
+ 129  TPK  58N1318  5/     A   EXP 21.30  21.45  TPKUNDRAM           
+
+
+ 130  TPK  58N1508  5/     C   SLF 21.45  21.50  TPKUNDRAM           
+
+
+ 131  TPK  58N1346  5/     A   EXP 21.45  21.50  TPKUNDRAM           
+
+
+ 132  TPK  58N1401  5/     A   EXP 21.45  21.50  TPKUNDRAM           
+
+
+ 133  TPK  58N1395  52     A   EXP 21.47  21.50  AUSTINPATTI         
+
+
+ 134  TPK  58N0779  5/     A   EXP 21.50  21.52  TPKUNDRAM           
+
+
+ 135  TPK  58N1378  5/     A   EXP 21.50  21.55  TPKUNDRAM           
+
+
+ 136  TPK  58N1285  5/     D   EXP 21.55  22.00  TPKUNDRAM           
+
+
+ 137  TPK  58N1392  5/     A   EXP 22.00  22.05  TPKUNDRAM           
+
+
+ 138  TPK  58N1375  5/     B   EXP 22.00  22.05  TPKUNDRAM           
+
+
+ 139  TPK  58N1777  5B     A   ORD 22.05  22.10  NILAIYUR            
+
+
+ 140  TPK  58N1370  22/    A   EXP 22.15  22.20  THIRUNAGAR          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA TP.KUNDRAM           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 141  TPK  58N1320  5/     A   EXP 22.20  22.25  TPKUNDRAM           
+
+
+ 142  TPK  58N2049  22/    A   ORD 20.55  22.25  THIRUNAGAR          
+
+
+ 143  TPK  58N2054  5/     A   EXP 22.30  22.30  TPKUNDRAM           
+
+
+ 144  TPK  58N2054  5/     A   EXP 22.25  22.30  TPKUNDRAM           
+
+
+ 145  TPK  58N1638  5/     A   ORD 22.25  22.30  TPKUNDRAM           
+
+
+ 146  TPK  58N1400  5/     C   EXP 22.30  22.35  TPKUNDRAM           
+
+
+ 147  TPK  58N1334  5/     M   ORD 22.30  22.35  TPKUNDRAM           
+
+
+ 148  TPK  58N1453  5/     D   SLF 22.35  22.40  TPKUNDRAM           
+
+
+ 149  TPK  58N2212  5/     J   EXP  0.00  22.57  TPKUNDRAM           
+
+
+ 150  TPK  58N2062  5/     A   ORD  5.50  23.10  TPKUNDRAM           
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

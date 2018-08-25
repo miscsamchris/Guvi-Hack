@@ -1,0 +1,58 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+11/07/2016  Vehicle Timing details           VIA ARAPPALAYAM&CHECKANAM
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+No   Br. Bus No.  Rou.No     Dep.time  From              Arr.time  To
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  1  T5  58N1834  27B   A EXP   5.50  KINNIMANGALAM      6.50   INTEGRATED B.S.
+
+  2  T5  58N1341  27D   A EXP   5.55  NADUMUDALAIKULA    7.05   INTEGRATED B.S.
+
+  3  T5  58N1834  27B   A EXP   7.00  INTEGRATED B.S.    8.00   KINNIMANGALAM  
+
+  4  T5  58N1341  27C   A EXP   7.20  INTEGRATED B.S.    8.10   MELAKUILKUDI   
+
+  5  T5  58N1949  27E   A EXP   7.50  INTEGRATED B.S.    8.55   A.KOKKULAM     
+
+  6  T5  58N1834  27B/  A EXP   8.05  KINNIMANGALAM      9.10   ABS            
+
+  7  T5  58N1341  27C   A EXP   8.15  MELAKUILKUDI       9.10   INTEGRATED B.S.
+
+  8  T5  58N1949  27E   A EXP   9.00  A.KOKKULAM        10.10   INTEGRATED B.S.
+
+  9  T5  58N1834  27B/  A EXP   9.15  ABS               10.15   KINNIMANGALAM  
+
+ 10  T5  58N1341  27D   A EXP  10.55  INTEGRATED B.S.   12.10   NADUMUDALAIKULA
+
+ 11  T5  58N1341  27D   A EXP  12.15  NADUMUDALAIKULA   13.30   INTEGRATED B.S.
+
+ 12  T5  58N1341  27D   A EXP  13.45  INTEGRATED B.S.   15.00   NADUMUDALAIKULA
+
+ 13  T5  58N1834  27B   A EXP  14.15  INTEGRATED B.S.   15.10   KINNIMANGALAM  
+
+ 14  T5  58N1341  27D   A EXP  15.05  NADUMUDALAIKULA   16.20   INTEGRATED B.S.
+
+ 15  T5  58N1949  27E   A EXP  15.20  INTEGRATED B.S.   16.25   A.KOKKULAM     
+
+ 16  T5  58N1341  27C   A EXP  16.25  INTEGRATED B.S.   17.10   MELAKUILKUDI   
+
+ 17  T5  58N1949  27E   A EXP  16.30  A.KOKKULAM        17.35   INTEGRATED B.S.
+
+ 18  T5  58N1341  27C   A EXP  17.15  MELAKUILKUDI      18.00   INTEGRATED B.S.
+
+ 19  T5  58N1834  27B/  A EXP  17.25  KINNIMANGALAM     18.25   ABS            
+
+ 20  T5  58N1834  27B/  A EXP  18.30  ABS               19.30   KINNIMANGALAM  
+
+ 21  T5  58N1341  27D   A EXP  19.30  INTEGRATED B.S.   20.45   NADUMUDALAIKULA
+
+ 22  T5  58N1834  27B   A EXP  19.35  KINNIMANGALAM     20.35   INTEGRATED B.S.
+
+ 23  T5  58N1949  27E   A EXP  20.15  INTEGRATED B.S.   21.20   A.KOKKULAM     
+
+ 24  T5  58N1834  27B   A EXP  20.45  INTEGRATED B.S.   21.50   KINNIMANGALAM  
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+G:\SECTIME\CITYTIM1.PRG
+

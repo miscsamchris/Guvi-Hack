@@ -1,0 +1,331 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          PARK TOWN                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  TMG  58N1632  48P    K   SLF  5.25   5.33  THIRUMANGALAM       
+
+
+   2  TPK  58N0779  11     A   EXP  5.35   5.40  PBS                 
+
+
+   3  TMG  58N1537  48P    B   SLF  5.40   5.45  THIRUMANGALAM       
+
+
+   4  TMG  58N1505  48P    E   SLF  5.57   6.02  THIRUMANGALAM       
+
+
+   5  PON  58N2053  16J    A   SLF  6.05   6.10  AIRPORT             
+
+
+   6  TMG  58N1473  48P    H   SLF  6.14   6.19  THIRUMANGALAM       
+
+
+   7  TPK  58N1554  22     B   SLF  6.15   6.30  THIRUNAGAR          
+
+
+   8  TMG  58N1454  48P    A   SLF  6.31   6.36  THIRUMANGALAM       
+
+
+   9  TPK  58N1346  14P    A   EXP  6.45   6.50  NILAIYUR            
+
+
+  10  TMG  58N1442  48P    G   SLF  6.48   6.53  THIRUMANGALAM       
+
+
+  11  TPK  58N1561  22     A   SLF  7.05   7.10  THIRUNAGAR          
+
+
+  12  TMG  58N1596  48P    J   SLF  7.05   7.10  THIRUMANGALAM       
+
+
+  13  TMG  58N1471  48P    C   SLF  7.22   7.27  THIRUMANGALAM       
+
+
+  14  TMG  58N1498  48P    F   SLF  7.39   7.44  THIRUMANGALAM       
+
+
+  15  TMG  58N1480  48P    D   SLF  7.56   8.01  THIRUMANGALAM       
+
+
+  16  PON  58N2053  16J    A   SLF  8.05   8.10  AIRPORT             
+
+
+  17  TMG  58N1632  48P    K   SLF  8.23   8.28  THIRUMANGALAM       
+
+
+  18  TMG  58N1537  48P    B   SLF  8.40   8.45  THIRUMANGALAM       
+
+
+  19  TPK  58N1346  14P    A   EXP  8.55   9.00  NILAIYUR            
+
+
+  20  TMG  58N1505  48P    E   SLF  8.57   9.02  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PARK TOWN                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  TMG  58N1473  48P    H   SLF  9.14   9.19  THIRUMANGALAM       
+
+
+  22  TPK  58N1561  22     A   SLF  9.10   9.20  THIRUNAGAR          
+
+
+  23  TMG  58N1454  48P    A   SLF  9.31   9.36  THIRUMANGALAM       
+
+
+  24  TMG  58N1442  48P    G   SLF  9.48   9.53  THIRUMANGALAM       
+
+
+  25  TMG  58N1596  48P    J   SLF 10.05  10.10  THIRUMANGALAM       
+
+
+  26  PON  58N2053  48P    A   SLF  9.55  10.15  THIRUMANGALAM       
+
+
+  27  TMG  58N1471  48P    C   SLF 10.22  10.27  THIRUMANGALAM       
+
+
+  28  TMG  58N1498  48P    F   SLF 10.39  10.44  THIRUMANGALAM       
+
+
+  29  TPK  58N1554  1B     B   SLF 10.35  11.00  PBS                 
+
+
+  30  TMG  58N1480  48P    D   SLF 10.56  11.01  THIRUMANGALAM       
+
+
+  31  TMG  58N1632  48P    K   SLF 11.13  11.18  THIRUMANGALAM       
+
+
+  32  TPK  58N2080  1E     A   SLF 11.05  11.20  ELLIS NAGAR         
+
+
+  33  TPK  58N1346  14P    A   EXP 11.25  11.30  NILAIYUR            
+
+
+  34  TMG  58N1537  48P    B   SLF 11.30  11.35  THIRUMANGALAM       
+
+
+  35  TMG  58N1505  48P    E   SLF 11.47  11.52  THIRUMANGALAM       
+
+
+  36  TMG  58N1473  48P    H   SLF 12.04  12.09  THIRUMANGALAM       
+
+
+  37  TPK  58N1561  1B     A   SLF 12.00  12.10  PBS                 
+
+
+  38  TMG  58N1454  48P    A   SLF 12.21  12.26  THIRUMANGALAM       
+
+
+  39  TPK  58N1554  22     B   SLF 12.25  12.30  THIRUNAGAR          
+
+
+  40  TMG  58N1442  48P    G   SLF 12.38  12.43  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PARK TOWN                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  TMG  58N1596  48P    J   SLF 12.55  13.00  THIRUMANGALAM       
+
+
+  42  PON  58N2053  1B     A   SLF 13.00  13.05  PBS                 
+
+
+  43  TMG  58N1471  48P    C   SLF 13.12  13.17  THIRUMANGALAM       
+
+
+  44  TPK  58N1561  22     A   SLF 13.25  13.30  THIRUNAGAR          
+
+
+  45  TMG  58N1498  48P    F   SLF 13.29  13.34  THIRUMANGALAM       
+
+
+  46  TPK  58N2080  1P     A   SLF 13.35  13.40  PBS                 
+
+
+  47  TMG  58N1480  48P    D   SLF 13.46  13.51  THIRUMANGALAM       
+
+
+  48  TMG  58N1632  48P    K   SLF 13.58  14.03  THIRUMANGALAM       
+
+
+  49  TMG  58N1537  48P    B   SLF 14.25  14.30  THIRUMANGALAM       
+
+
+  50  PON  58N2053  16J    A   SLF 14.30  14.35  AIRPORT             
+
+
+  51  TPK  58N1554  22     B   SLF 14.35  14.40  THIRUNAGAR          
+
+
+  52  TMG  58N1505  48P    E   SLF 14.42  14.47  THIRUMANGALAM       
+
+
+  53  TPK  58N1346  14P    A   EXP 14.50  15.00  NILAIYUR            
+
+
+  54  TMG  58N1473  48P    H   SLF 14.59  15.04  THIRUMANGALAM       
+
+
+  55  TMG  58N1454  48P    A   SLF 15.16  15.21  THIRUMANGALAM       
+
+
+  56  TPK  58N2080  1E     A   SLF 15.25  15.30  ELLIS NAGAR         
+
+
+  57  TMG  58N1442  48P    G   SLF 15.33  15.38  THIRUMANGALAM       
+
+
+  58  TMG  58N1596  48P    J   SLF 15.50  15.55  THIRUMANGALAM       
+
+
+  59  TPK  58N1561  22     A   SLF 15.55  16.00  THIRUNAGAR          
+
+
+  60  TMG  58N1471  48P    C   SLF 16.07  16.12  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PARK TOWN                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  TMG  58N1498  48P    F   SLF 16.24  16.29  THIRUMANGALAM       
+
+
+  62  PON  58N2053  16J    A   SLF 16.20  16.40  AIRPORT             
+
+
+  63  TMG  58N1480  48P    D   SLF 16.41  16.46  THIRUMANGALAM       
+
+
+  64  TMG  58N1632  48P    K   SLF 17.03  17.08  THIRUMANGALAM       
+
+
+  65  TMG  58N1537  48P    B   SLF 17.20  17.25  THIRUMANGALAM       
+
+
+  66  TPK  58N1346  14P    A   EXP 17.20  17.30  NILAIYUR            
+
+
+  67  TMG  58N1505  48P    E   SLF 17.37  17.42  THIRUMANGALAM       
+
+
+  68  TMG  58N1473  48P    H   SLF 17.54  17.59  THIRUMANGALAM       
+
+
+  69  TPK  58N1561  22     A   SLF 18.05  18.10  THIRUNAGAR          
+
+
+  70  TMG  58N1454  48P    A   SLF 18.11  18.16  THIRUMANGALAM       
+
+
+  71  TMG  58N1442  48P    G   SLF 18.28  18.33  THIRUMANGALAM       
+
+
+  72  TMG  58N1596  48P    J   SLF 18.45  18.50  THIRUMANGALAM       
+
+
+  73  PON  58N2053  48P    A   SLF 18.25  18.55  THIRUMANGALAM       
+
+
+  74  TPK  58N0779  11     A   EXP 19.00  19.05  PBS                 
+
+
+  75  TMG  58N1471  48P    C   SLF 19.02  19.07  THIRUMANGALAM       
+
+
+  76  TPK  58N1554  1B     B   SLF 19.10  19.15  PBS                 
+
+
+  77  TMG  58N1498  48P    F   SLF 19.19  19.24  THIRUMANGALAM       
+
+
+  78  TMG  58N1480  48P    D   SLF 19.36  19.41  THIRUMANGALAM       
+
+
+  79  TMG  58N1632  48P    K   SLF 19.53  19.58  THIRUMANGALAM       
+
+
+  80  TPK  58N1346  14P    A   EXP 20.00  20.05  NILAIYUR            
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PARK TOWN                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  TPK  58N1554  22     B   SLF 20.20  20.25  THIRUNAGAR          
+
+
+  82  TMG  58N1537  48P    B   SLF 20.20  20.25  THIRUMANGALAM       
+
+
+  83  TMG  58N1505  48P    E   SLF 20.37  20.42  THIRUMANGALAM       
+
+
+  84  TMG  58N1473  48P    H   SLF 20.54  20.59  THIRUMANGALAM       
+
+
+  85  TPK  58N1561  1B     A   SLF 20.50  21.00  PBS                 
+
+
+  86  TMG  58N1454  48P    A   SLF 21.11  21.16  THIRUMANGALAM       
+
+
+  87  TMG  58N1442  48P    G   SLF 21.28  21.33  THIRUMANGALAM       
+
+
+  88  PON  58N2053  1B     A   SLF 21.40  21.45  PBS                 
+
+
+  89  TMG  58N1596  48P    J   SLF 21.45  21.50  THIRUMANGALAM       
+
+
+  90  TPK  58N1561  22     A   SLF 22.03  22.05  THIRUNAGAR          
+
+
+  91  TMG  58N1471  48P    C   SLF 22.02  22.07  THIRUMANGALAM       
+
+
+  92  TMG  58N1498  48P    F   SLF 22.19  22.24  THIRUMANGALAM       
+
+
+  93  TMG  58N1480  48P    D   SLF 22.31  22.35  THIRUMANGALAM       
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

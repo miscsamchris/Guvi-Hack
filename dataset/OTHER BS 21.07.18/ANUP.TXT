@@ -1,0 +1,352 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          ANUPPANADI               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  PON  58N2043  6BX    A   SLF  5.20   5.25  CHOCKIKULAM US      
+
+
+   2  BCB  58N1723  49N    A   SLF  5.20   5.25  THIRUMANGALAM       
+
+
+   3  PON  58N1811  4AA    C   SLF  5.30   5.35  ARAPPALAYAM         
+
+
+   4  TPK  58N0758  31B    B   ORD  5.45   5.55  NILAIYUR            
+
+
+   5  TPK  58N1406  16N    A   LSS  6.10   6.20  KAITHARI NAGAR      
+
+
+   6  PON  58N1707  8      A   SLF  6.20   6.25  ANAIYUR             
+
+
+   7  TPK  58N1766  31A    A   EXP  6.25   6.30  MAHALAKSHMI COLONY  
+
+
+   8  PON  58N1811  8AJ    C   SLF  6.45   7.00  J.J.NAGAR           
+
+
+   9  TPK  58N1767  31C    A   ORD  7.00   7.05  KAITHARI NAGAR      
+
+
+  10  PON  58N1335  17/4A  B   SLF  7.05   7.10  FATIMA COLLEGE      
+
+
+  11  PON  58N2043  4N     A   SLF  7.15   7.20  MADAKULAM           
+
+
+  12  PON  58N1686  8      C   SLF  7.15   7.35  ANAIYUR             
+
+
+  13  TPK  58N1365  31A    B   EXP  7.20   7.40  MAHALAKSHMI COLONY  
+
+
+  14  TPK  58N1558  4J     D   SLF  7.40   7.45  M.G.R.BUSSTAND      
+
+
+  15  TPK  58N0758  31B    B   ORD  7.50   8.00  NILAIYUR            
+
+
+  16  BCB  58N1802  3HX    H   EXP  7.55   8.10  PBS                 
+
+
+  17  TPK  58N0739  16MS   A   ORD  8.15   8.20  SERMA.VASAN COLLEGE 
+
+
+  18  PON  58N1707  8      A   SLF  8.25   8.30  ANAIYUR             
+
+
+  19  TPK  58N1766  31A    A   EXP  8.20   8.35  MAHALAKSHMI COLONY  
+
+
+  20  PON  58N1811  4AA    C   SLF  8.45   8.50  PBS                 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ANUPPANADI               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  PON  58N1335  6A     B   SLF  8.50   8.55  MEENAMBALPURAM      
+
+
+  22  TPK  58N1767  31C    A   ORD  9.00   9.10  KAITHARI NAGAR      
+
+
+  23  PON  58N2043  3AC    A   SLF  9.00   9.25  COURT               
+
+
+  24  PON  58N1686  8      C   SLF  9.25   9.30  ANAIYUR             
+
+
+  25  TPK  58N1365  31A    B   EXP  9.30   9.35  MAHALAKSHMI COLONY  
+
+
+  26  PON  58N1811  4AA    C   SLF  9.45   9.50  ARAPPALAYAM         
+
+
+  27  BCB  58N1723  49N    A   SLF 10.05  10.10  THIRUMANGALAM       
+
+
+  28  TPK  58N0758  31B    B   ORD 10.05  10.15  NILAIYUR            
+
+
+  29  PON  58N1335  6A     B   SLF 10.20  10.25  MEENAMBALPURAM      
+
+
+  30  TPK  58N1406  16N    A   LSS 10.25  10.30  KAITHARI NAGAR      
+
+
+  31  TPK  58N1766  31A    A   EXP 10.30  10.45  MAHALAKSHMI COLONY  
+
+
+  32  PON  58N2043  4A     A   SLF 10.45  10.50  PBS                 
+
+
+  33  PON  58N1707  8      A   SLF 10.30  10.50  ANAIYUR             
+
+
+  34  PON  58N1811  4AA    C   SLF 11.15  11.20  ARAPPALAYAM         
+
+
+  35  TPK  58N1767  31C    A   ORD 11.30  11.35  KAITHARI NAGAR      
+
+
+  36  PON  58N2043  4A     A   SLF 11.45  11.50  PBS                 
+
+
+  37  PON  58N1686  8      C   SLF 11.50  11.55  ANAIYUR             
+
+
+  38  TPK  58N1365  31A    B   EXP 11.50  11.55  MAHALAKSHMI COLONY  
+
+
+  39  TPK  58N0758  31B    B   ORD 12.10  12.15  NILAIYUR            
+
+
+  40  BCB  58N1723  4G     A   SLF 12.15  12.20  ELLIS NAGAR         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ANUPPANADI               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  TPK  58N1406  16N    A   LSS 12.15  12.20  KAITHARI NAGAR      
+
+
+  42  TPK  58N1766  31AT   A   EXP 12.40  12.45  THRUNAGAR           
+
+
+  43  PON  58N2043  4A     A   SLF 12.45  12.50  PBS                 
+
+
+  44  PON  58N1811  4A     C   SLF 12.35  12.50  PBS                 
+
+
+  45  PON  58N1707  8      A   SLF 12.50  12.55  ANAIYUR             
+
+
+  46  TPK  58N0739  31D    A   ORD 12.55  13.00  SEENIVASA COLONY    
+
+
+  47  TPK  58N1767  31C    A   ORD 13.35  13.40  KAITHARI NAGAR      
+
+
+  48  PON  58N1686  4A     C   SLF 13.50  13.55  PBS                 
+
+
+  49  PON  58N2043  4A     A   SLF 13.55  14.00  PBS                 
+
+
+  50  BCB  58N0675  4A     A   EXP 13.55  14.00  PBS                 
+
+
+  51  TPK  58N1365  31A    B   EXP 13.55  14.00  MAHALAKSHMI COLONY  
+
+
+  52  TPK  58N0758  31B    B   ORD 14.10  14.15  NILAIYUR            
+
+
+  53  BCB  58N1723  49N    A   SLF 14.15  14.20  THIRUMANGALAM       
+
+
+  54  TPK  58N1406  16N    A   LSS 14.35  14.40  KAITHARI NAGAR      
+
+
+  55  PON  58N2043  4A     A   SLF 14.53  14.55  PBS                 
+
+
+  56  PON  58N1707  8      A   SLF 14.50  14.55  ANAIYUR             
+
+
+  57  TPK  58N1766  31A    A   EXP 14.45  14.55  MAHALAKSHMI COLONY  
+
+
+  58  PON  58N1811  4AA    C   SLF 14.55  15.00  ARAPPALAYAM         
+
+
+  59  TPK  58N0739  16MS   A   ORD 15.20  15.25  SERMA.VASAN COLLEGE 
+
+
+  60  PON  58N2043  4N     A   SLF 15.43  15.45  MADAKULAM           
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ANUPPANADI               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  TPK  58N1767  31C    A   ORD 15.40  15.45  KAITHARI NAGAR      
+
+
+  62  TPK  58N1365  31A    B   EXP 15.50  16.00  MAHALAKSHMI COLONY  
+
+
+  63  PON  58N1686  8      C   SLF 15.45  16.05  ANAIYUR             
+
+
+  64  TPK  58N1558  4J     D   SLF 16.05  16.07  M.G.R.BUSSTAND      
+
+
+  65  PON  58N1811  8AJ    C   SLF 16.20  16.25  J.J.NAGAR           
+
+
+  66  BCB  58N1723  4G     A   SLF 16.25  16.30  ELLIS NAGAR         
+
+
+  67  TPK  58N0758  31B    B   ORD 16.20  16.30  NILAIYUR            
+
+
+  68  TPK  58N1406  16N    A   LSS 16.35  16.50  KAITHARI NAGAR      
+
+
+  69  PON  58N1707  8      A   SLF 16.55  17.00  ANAIYUR             
+
+
+  70  TPK  58N0739  4A     A   ORD 16.55  17.00  PBS                 
+
+
+  71  TPK  58N1766  31A    A   EXP 16.55  17.05  MAHALAKSHMI COLONY  
+
+
+  72  PON  58N2043  3AC    A   SLF 17.20  17.35  COURT               
+
+
+  73  BCB  58N1723  4G     A   SLF 17.50  17.55  ELLIS NAGAR         
+
+
+  74  TPK  58N1767  31C    A   ORD 17.50  17.55  KAITHARI NAGAR      
+
+
+  75  PON  58N1686  8      C   SLF 17.55  18.00  ANAIYUR             
+
+
+  76  TPK  58N1365  31A    B   EXP 17.55  18.10  MAHALAKSHMI COLONY  
+
+
+  77  PON  58N1811  4A     C   SLF 18.10  18.15  PBS                 
+
+
+  78  PON  58N2043  6E     A   SLF 18.20  18.25  OOMACHIKULAM        
+
+
+  79  PON  58N1335  6A     B   SLF 10.25  18.30  MEENAMBALPURAM      
+
+
+  80  TPK  58N0758  31B    B   ORD 18.35  18.45  NILAIYUR            
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ANUPPANADI               
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  PON  58N1707  8      A   SLF 19.00  19.05  ANAIYUR             
+
+
+  82  TPK  58N1406  16N    A   LSS 19.00  19.15  KAITHARI NAGAR      
+
+
+  83  TPK  58N1766  31A    A   EXP 19.00  19.20  MAHALAKSHMI COLONY  
+
+
+  84  PON  58N1811  4AA    C   SLF 19.10  19.20  ARAPPALAYAM         
+
+
+  85  TPK  58N1767  31C    A   ORD 20.00  20.05  KAITHARI NAGAR      
+
+
+  86  PON  58N2043  4A     A   SLF 20.10  20.15  PBS                 
+
+
+  87  TPK  58N1365  31A    B   EXP 20.15  20.20  MAHALAKSHMI COLONY  
+
+
+  88  PON  58N1686  8      C   SLF 20.05  20.25  ANAIYUR             
+
+
+  89  TPK  58N0758  31B    B   ORD 20.40  20.45  NILAIYUR            
+
+
+  90  PON  58N1811  4AA    C   SLF 20.40  21.00  ARAPPALAYAM         
+
+
+  91  BCB  58N1723  4G     A   SLF 21.05  21.10  ELLIS NAGAR         
+
+
+  92  TPK  58N1406  16N    A   LSS 21.05  21.10  KAITHARI NAGAR      
+
+
+  93  TPK  58N1766  31A    A   EXP 21.10  21.25  MAHALAKSHMI COLONY  
+
+
+  94  PON  58N1707  8      A   SLF 21.25  21.30  ANAIYUR             
+
+
+  95  TPK  58N0739  31D    A   ORD 21.15  21.30  SEENIVASA COLONY    
+
+
+  96  PON  58N2043  4A     A   SLF 21.25  21.40  PBS                 
+
+
+  97  TPK  58N1767  31C    A   ORD 21.50  21.55  KAITHARI NAGAR      
+
+
+  98  TPK  58N1365  31A    B   EXP 22.10  22.20  MAHALAKSHMI COLONY  
+
+
+  99  PON  58N1811  4AA    C   SLF 22.15  22.20  PBS                 
+
+
+ 100  PON  58N1686  4A     C   SLF 22.25  22.30  PBS                 
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

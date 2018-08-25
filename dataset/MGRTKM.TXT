@@ -1,0 +1,246 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          M.G.R.B/S VIA-THEPPAKULAM
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  SIP  58N0982  C3     B   SLF  0.00   5.00  M.G.R.BUSSTAND      
+
+
+   2  PDR  58N1608  C3     D   ORD  5.10   5.15  M.G.R.BUSSTAND      
+
+
+   3  PON  58N1706  C3     A   SLF  0.00   5.30  M.G.R.BUSSTAND      
+
+
+   4  BCB  58N1778  C3     C   SLF  0.00   5.45  M.G.R.BUSSTAND      
+
+
+   5  BCB  58N1722  C3     E   SLF  0.00   6.00  M.G.R.BUSSTAND      
+
+
+   6  SIP  58N0982  C3     B   SLF  5.00   6.20  M.G.R.BUSSTAND      
+
+
+   7  BCB  58N1748  4CM    B   SLF  6.30   6.35  CHINNA KANMAI       
+
+
+   8  PDR  58N1608  C3     D   ORD  5.15   6.35  M.G.R.BUSSTAND      
+
+
+   9  PON  58N1706  C3     A   SLF  5.30   6.50  M.G.R.BUSSTAND      
+
+
+  10  BCB  58N1778  C3     C   SLF  5.45   7.05  M.G.R.BUSSTAND      
+
+
+  11  BCB  58N1722  C3     E   SLF  6.00   7.20  M.G.R.BUSSTAND      
+
+
+  12  TPK  58N1558  4J     D   SLF  7.10   7.25  ANUPPANADI          
+
+
+  13  SIP  58N0982  C3     B   SLF  6.20   7.50  M.G.R.BUSSTAND      
+
+
+  14  PDR  58N1608  C3     D   ORD  6.35   8.05  M.G.R.BUSSTAND      
+
+
+  15  PON  58N1706  C3     A   SLF  6.50   8.20  M.G.R.BUSSTAND      
+
+
+  16  BCB  58N1778  C3     C   SLF  7.05   8.35  M.G.R.BUSSTAND      
+
+
+  17  BCB  58N1722  C3     E   SLF  7.20   8.50  M.G.R.BUSSTAND      
+
+
+  18  SIP  58N0982  C3     B   SLF  7.50   9.10  M.G.R.BUSSTAND      
+
+
+  19  PDR  58N1608  C3     D   ORD  8.05   9.25  M.G.R.BUSSTAND      
+
+
+  20  PON  58N1706  C3     A   SLF  8.20   9.40  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-THEPPAKULAM
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  BCB  58N1778  C3     C   SLF  8.35   9.55  M.G.R.BUSSTAND      
+
+
+  22  BCB  58N1722  C3     E   SLF  8.50  10.10  M.G.R.BUSSTAND      
+
+
+  23  SIP  58N0982  C3     B   SLF  9.10  10.30  M.G.R.BUSSTAND      
+
+
+  24  TPM  58N1456  99M    B   SLF 10.25  10.40  EDAIKATTUR          
+
+
+  25  PDR  58N1608  C3     D   ORD  9.25  10.45  M.G.R.BUSSTAND      
+
+
+  26  PON  58N1706  C3     A   SLF  9.40  11.00  M.G.R.BUSSTAND      
+
+
+  27  BCB  58N1778  C3     C   SLF  9.55  11.15  M.G.R.BUSSTAND      
+
+
+  28  BCB  58N1722  C3     E   SLF 10.10  11.30  M.G.R.BUSSTAND      
+
+
+  29  SIP  58N0982  C3     B   SLF 10.30  11.50  M.G.R.BUSSTAND      
+
+
+  30  PDR  58N1608  C3     D   ORD 10.45  12.05  M.G.R.BUSSTAND      
+
+
+  31  PON  58N1706  4C/C3  A   SLF 11.00  12.20  PBS                 
+
+
+  32  BCB  58N1778  4C/C3  C   SLF 11.15  12.35  PBS                 
+
+
+  33  BCB  58N1722  4C/C3  E   SLF 11.30  12.50  PBS                 
+
+
+  34  SIP  58N0982  C3     B   SLF 11.50  13.30  M.G.R.BUSSTAND      
+
+
+  35  TPM  58N1456  99P    B   SLF 13.35  13.40  THIRUPPUVANAM       
+
+
+  36  PDR  58N1608  C3     D   ORD 12.05  13.45  M.G.R.BUSSTAND      
+
+
+  37  PON  58N1706  C3     A   SLF 12.20  14.00  M.G.R.BUSSTAND      
+
+
+  38  BCB  58N1778  C3     C   SLF 12.35  14.15  M.G.R.BUSSTAND      
+
+
+  39  BCB  58N1722  C3     E   SLF 12.50  14.30  M.G.R.BUSSTAND      
+
+
+  40  SIP  58N0982  C3     B   SLF 13.30  14.50  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-THEPPAKULAM
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  PDR  58N1608  C3     D   ORD 13.45  15.05  M.G.R.BUSSTAND      
+
+
+  42  PON  58N1706  C3     A   SLF 14.00  15.20  M.G.R.BUSSTAND      
+
+
+  43  BCB  58N1778  C3     C   SLF 14.15  15.35  M.G.R.BUSSTAND      
+
+
+  44  BCB  58N1748  4CM    B   SLF 15.45  15.50  CHINNA KANMAI       
+
+
+  45  TPK  58N1558  4J     D   SLF 15.35  15.50  ANUPPANADI          
+
+
+  46  BCB  58N1722  C3     E   SLF 14.30  15.50  M.G.R.BUSSTAND      
+
+
+  47  SIP  58N0982  C3     B   SLF 14.50  16.15  M.G.R.BUSSTAND      
+
+
+  48  PDR  58N1608  C3     D   ORD 15.05  16.35  M.G.R.BUSSTAND      
+
+
+  49  PON  58N1706  C3     A   SLF 15.20  16.50  M.G.R.BUSSTAND      
+
+
+  50  BCB  58N1778  C3     C   SLF 15.35  17.00  M.G.R.BUSSTAND      
+
+
+  51  TPM  58N1456  99M    B   SLF 16.55  17.15  EDAIKATTUR          
+
+
+  52  BCB  58N1722  C3     E   SLF 15.50  17.20  M.G.R.BUSSTAND      
+
+
+  53  SIP  58N0982  C3     B   SLF 16.15  17.30  M.G.R.BUSSTAND      
+
+
+  54  PDR  58N1608  C3     D   ORD 16.35  18.00  M.G.R.BUSSTAND      
+
+
+  55  PON  58N1706  C3     A   SLF 16.50  18.15  M.G.R.BUSSTAND      
+
+
+  56  BCB  58N1778  C3     C   SLF 17.00  18.25  M.G.R.BUSSTAND      
+
+
+  57  BCB  58N1722  C3     E   SLF 17.20  18.45  M.G.R.BUSSTAND      
+
+
+  58  SIP  58N0982  C3     B   SLF 17.30  19.20  M.G.R.BUSSTAND      
+
+
+  59  PDR  58N1608  C3     D   ORD 18.00  19.30  M.G.R.BUSSTAND      
+
+
+  60  PON  58N1706  C3     A   SLF 18.15  19.40  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-THEPPAKULAM
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  BCB  58N1722  C3     E   SLF 18.45  20.00  M.G.R.BUSSTAND      
+
+
+  62  BCB  58N1778  C3     C   SLF 18.25  20.15  M.G.R.BUSSTAND      
+
+
+  63  TPM  58N1456  32B/   B   SLF 20.20  20.30  THIRUPPUVANAM       
+
+
+  64  SIP  58N0982  C3     B   SLF 19.20  20.35  M.G.R.BUSSTAND      
+
+
+  65  PDR  58N1608  C3     D   ORD 19.30  20.50  M.G.R.BUSSTAND      
+
+
+  66  PON  58N1706  4C/C3  A   SLF 19.40  20.55  PBS                 
+
+
+  67  BCB  58N1722  4C/C3  E   SLF 20.00  21.25  PBS                 
+
+
+  68  BCB  58N1778  4C/C3  C   SLF 20.15  21.30  PBS                 
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

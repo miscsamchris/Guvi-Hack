@@ -1,0 +1,797 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          PBS - TMG VIA-BYE PASS   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  ENR  58N2322  48AD   O   SLF  0.00   4.25  THIRUMANGALAM       
+
+
+   2  BCB  58N1760  48AD   U   ORD  0.00   4.40  THIRUMANGALAM       
+
+
+   3  ENR  58N1650  48AD   Q   SLF  0.00   4.55  THIRUMANGALAM       
+
+
+   4  BCB  58N2327  48AD   V   SLF  0.00   5.10  THIRUMANGALAM       
+
+
+   5  BCB  58N1752  48AD   A   ORD  0.00   5.20  THIRUMANGALAM       
+
+
+   6  ENR  58N1486  48AD   P   SLF  0.00   5.25  THIRUMANGALAM       
+
+
+   7  TMG  58N2385  48AD   T   SLF  5.30   5.35  THIRUMANGALAM       
+
+
+   8  BCB  58N1759  48AD   W   SLF  0.00   5.40  THIRUMANGALAM       
+
+
+   9  TMG  58N2338  48AD   M   SLF  5.40   5.45  THIRUMANGALAM       
+
+
+  10  BCB  58N2335  48AD   A1  SLF  0.00   5.48  THIRUMANGALAM       
+
+
+  11  ENR  58N1648  48AD   R   SLF  0.00   5.50  THIRUMANGALAM       
+
+
+  12  TMG  58N2326  48AD   S   SLF  5.50   5.55  THIRUMANGALAM       
+
+
+  13  TMG  58N2324  48AD   L   SLF  5.55   6.00  THIRUMANGALAM       
+
+
+  14  TMG  58N2343  48AD   Y   SLF  5.56   6.01  THIRUMANGALAM       
+
+
+  15  BCB  58N2349  48AD   B1  SLF  0.00   6.03  THIRUMANGALAM       
+
+
+  16  ENR  58N2322  48AD   O   SLF  6.00   6.05  THIRUMANGALAM       
+
+
+  17  BCB  58N1725  48AD   X   SLF  0.00   6.10  THIRUMANGALAM       
+
+
+  18  BCB  58N1785  48AD   K   SLF  0.00   6.15  THIRUMANGALAM       
+
+
+  19  TMG  58N2323  48AD   C   SLF  6.15   6.20  THIRUMANGALAM       
+
+
+  20  BCB  58N1760  48AD   U   ORD  6.20   6.25  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - TMG VIA-BYE PASS   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  BCB  58N1804  48AD   N   SLF  0.00   6.30  THIRUMANGALAM       
+
+
+  22  TMG  58N1630  48AD   E   SLF  6.30   6.35  THIRUMANGALAM       
+
+
+  23  TMG  58N2342  48AD   C1  SLF  6.33   6.38  THIRUMANGALAM       
+
+
+  24  ENR  58N1650  48AD   Q   SLF  6.35   6.40  THIRUMANGALAM       
+
+
+  25  TMG  58N2386  48AD   D   SLF  6.45   6.50  THIRUMANGALAM       
+
+
+  26  BCB  58N2327  48AD   V   SLF  6.50   6.55  THIRUMANGALAM       
+
+
+  27  TMG  58N1507  48AD   F   SLF  6.55   7.00  THIRUMANGALAM       
+
+
+  28  BCB  58N1752  48AD   A   ORD  7.00   7.05  THIRUMANGALAM       
+
+
+  29  ENR  58N1486  48AD   P   SLF  7.05   7.15  THIRUMANGALAM       
+
+
+  30  TMG  58N2385  48AD   T   SLF  7.15   7.25  THIRUMANGALAM       
+
+
+  31  BCB  58N1759  48AD   W   SLF  7.20   7.30  THIRUMANGALAM       
+
+
+  32  BCB  58N2335  48AD   A1  SLF  7.20   7.32  THIRUMANGALAM       
+
+
+  33  TMG  58N2331  48AD   J   SLF  7.30   7.35  THIRUMANGALAM       
+
+
+  34  TMG  58N2338  48AD   M   SLF  7.20   7.38  THIRUMANGALAM       
+
+
+  35  TMG  58N1595  48AD   H   SLF  7.35   7.40  THIRUMANGALAM       
+
+
+  36  ENR  58N1648  48AD   R   SLF  7.25   7.45  THIRUMANGALAM       
+
+
+  37  TMG  58N2326  48AD   S   SLF  7.45   7.50  THIRUMANGALAM       
+
+
+  38  TMG  58N2343  48AD   Y   SLF  7.36   7.51  THIRUMANGALAM       
+
+
+  39  BCB  58N2349  48AD   B1  SLF  7.36   7.53  THIRUMANGALAM       
+
+
+  40  TMG  58N2324  48AD   L   SLF  7.45   7.55  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - TMG VIA-BYE PASS   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  BCB  58N1725  48AD   X   SLF  7.50   8.00  THIRUMANGALAM       
+
+
+  42  ENR  58N2322  48AD   O   SLF  8.00   8.05  THIRUMANGALAM       
+
+
+  43  BCB  58N1785  48AD   K   SLF  8.05   8.10  THIRUMANGALAM       
+
+
+  44  TMG  58N2323  48AD   C   SLF  8.10   8.15  THIRUMANGALAM       
+
+
+  45  BCB  58N1760  48AD   U   ORD  8.15   8.20  THIRUMANGALAM       
+
+
+  46  BCB  58N1804  48AD   N   SLF  8.20   8.25  THIRUMANGALAM       
+
+
+  47  TMG  58N1630  48AD   E   SLF  8.25   8.30  THIRUMANGALAM       
+
+
+  48  ENR  58N1650  48AD   Q   SLF  8.30   8.35  THIRUMANGALAM       
+
+
+  49  TMG  58N2342  48AD   C1  SLF  8.33   8.38  THIRUMANGALAM       
+
+
+  50  TMG  58N2386  48AD   D   SLF  8.40   8.45  THIRUMANGALAM       
+
+
+  51  BCB  58N2327  48AD   V   SLF  8.45   8.50  THIRUMANGALAM       
+
+
+  52  TMG  58N1507  48AD   F   SLF  8.50   8.55  THIRUMANGALAM       
+
+
+  53  BCB  58N1752  48AD   A   ORD  8.55   9.00  THIRUMANGALAM       
+
+
+  54  ENR  58N1486  48AD   P   SLF  9.00   9.05  THIRUMANGALAM       
+
+
+  55  TMG  58N2385  48AD   T   SLF  9.10   9.15  THIRUMANGALAM       
+
+
+  56  BCB  58N1759  48AD   W   SLF  9.15   9.20  THIRUMANGALAM       
+
+
+  57  TMG  58N2338  48AD   M   SLF  9.20   9.23  THIRUMANGALAM       
+
+
+  58  TMG  58N2331  48AD   J   SLF  9.20   9.25  THIRUMANGALAM       
+
+
+  59  BCB  58N2335  48AD   A1  SLF  9.20   9.28  THIRUMANGALAM       
+
+
+  60  TMG  58N1595  48AD   H   SLF  9.25   9.30  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - TMG VIA-BYE PASS   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  ENR  58N1648  48AD   R   SLF  9.30   9.35  THIRUMANGALAM       
+
+
+  62  TMG  58N2326  48AD   S   SLF  9.53   9.40  THIRUMANGALAM       
+
+
+  63  TMG  58N2343  48AD   Y   SLF  9.36   9.41  THIRUMANGALAM       
+
+
+  64  BCB  58N2349  48AD   B1  SLF  9.36   9.43  THIRUMANGALAM       
+
+
+  65  TMG  58N2324  48AD   L   SLF  9.40   9.45  THIRUMANGALAM       
+
+
+  66  BCB  58N1725  48AD   X   SLF  9.45   9.50  THIRUMANGALAM       
+
+
+  67  ENR  58N2322  48AD   O   SLF  9.50  10.00  THIRUMANGALAM       
+
+
+  68  BCB  58N1785  48AD   K   SLF  9.55  10.10  THIRUMANGALAM       
+
+
+  69  TMG  58N2323  48AD   C   SLF 10.00  10.15  THIRUMANGALAM       
+
+
+  70  BCB  58N1760  48AD   U   ORD 10.05  10.20  THIRUMANGALAM       
+
+
+  71  BCB  58N1804  48AD   N   SLF 10.10  10.25  THIRUMANGALAM       
+
+
+  72  TMG  58N1630  48AD   E   SLF 10.15  10.30  THIRUMANGALAM       
+
+
+  73  ENR  58N1650  48AD   Q   SLF 10.20  10.35  THIRUMANGALAM       
+
+
+  74  TMG  58N2342  48AD   C1  SLF 10.23  10.38  THIRUMANGALAM       
+
+
+  75  TMG  58N2386  48AD   D   SLF 10.30  10.45  THIRUMANGALAM       
+
+
+  76  BCB  58N2327  48AD   V   SLF 10.35  10.50  THIRUMANGALAM       
+
+
+  77  TMG  58N1507  48AD   F   SLF 10.40  10.55  THIRUMANGALAM       
+
+
+  78  BCB  58N1752  48AD   A   ORD 10.45  11.00  THIRUMANGALAM       
+
+
+  79  ENR  58N1486  48AD   P   SLF 10.50  11.05  THIRUMANGALAM       
+
+
+  80  TMG  58N2385  48AD   T   SLF 11.00  11.15  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - TMG VIA-BYE PASS   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  BCB  58N1759  48AD   W   SLF 11.05  11.20  THIRUMANGALAM       
+
+
+  82  TMG  58N2338  48AD   M   SLF 11.10  11.23  THIRUMANGALAM       
+
+
+  83  TMG  58N2331  48AD   J   SLF 11.10  11.25  THIRUMANGALAM       
+
+
+  84  BCB  58N2335  48AD   A1  SLF 11.10  11.28  THIRUMANGALAM       
+
+
+  85  TMG  58N1595  48AD   H   SLF 11.15  11.30  THIRUMANGALAM       
+
+
+  86  ENR  58N1648  48AD   R   SLF 11.20  11.35  THIRUMANGALAM       
+
+
+  87  TMG  58N2326  48AD   S   SLF 11.25  11.40  THIRUMANGALAM       
+
+
+  88  TMG  58N2343  48AD   Y   SLF 11.26  11.41  THIRUMANGALAM       
+
+
+  89  BCB  58N2349  48AD   B1  SLF 11.26  11.43  THIRUMANGALAM       
+
+
+  90  TMG  58N2324  48AD   L   SLF 11.30  11.45  THIRUMANGALAM       
+
+
+  91  BCB  58N1725  48AD   X   SLF 11.35  11.50  THIRUMANGALAM       
+
+
+  92  ENR  58N2322  48AD   O   SLF 11.45  11.55  THIRUMANGALAM       
+
+
+  93  BCB  58N1785  48AD   K   SLF 11.55  12.00  THIRUMANGALAM       
+
+
+  94  TMG  58N2323  48AD   C   SLF 12.00  12.05  THIRUMANGALAM       
+
+
+  95  BCB  58N1760  48AD   U   ORD 12.05  12.10  THIRUMANGALAM       
+
+
+  96  BCB  58N1804  48AD   N   SLF 12.10  12.15  THIRUMANGALAM       
+
+
+  97  TMG  58N1630  48AD   E   SLF 12.15  12.20  THIRUMANGALAM       
+
+
+  98  ENR  58N1650  48AD   Q   SLF 12.20  12.25  THIRUMANGALAM       
+
+
+  99  TMG  58N2342  48AD   C1  SLF 12.23  12.28  THIRUMANGALAM       
+
+
+ 100  TMG  58N2386  48AD   D   SLF 12.30  12.35  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - TMG VIA-BYE PASS   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  BCB  58N2327  48AD   V   SLF 12.35  12.40  THIRUMANGALAM       
+
+
+ 102  TMG  58N1507  48AD   F   SLF 12.40  12.45  THIRUMANGALAM       
+
+
+ 103  BCB  58N1752  48AD   A   ORD 12.45  12.50  THIRUMANGALAM       
+
+
+ 104  ENR  58N1486  48AD   P   SLF 12.50  12.55  THIRUMANGALAM       
+
+
+ 105  TMG  58N2385  48AD   T   SLF 13.00  13.05  THIRUMANGALAM       
+
+
+ 106  BCB  58N1759  48AD   W   SLF 13.05  13.10  THIRUMANGALAM       
+
+
+ 107  TMG  58N2338  48AD   M   SLF 13.10  13.13  THIRUMANGALAM       
+
+
+ 108  TMG  58N2331  48AD   J   SLF 13.10  13.15  THIRUMANGALAM       
+
+
+ 109  BCB  58N2335  48AD   A1  SLF 13.10  13.18  THIRUMANGALAM       
+
+
+ 110  TMG  58N1595  48AD   H   SLF 13.15  13.20  THIRUMANGALAM       
+
+
+ 111  ENR  58N1648  48AD   R   SLF 13.20  13.25  THIRUMANGALAM       
+
+
+ 112  TMG  58N2326  48AD   S   SLF 13.25  13.30  THIRUMANGALAM       
+
+
+ 113  TMG  58N2343  48AD   Y   SLF 13.26  13.31  THIRUMANGALAM       
+
+
+ 114  BCB  58N2349  48AD   B1  SLF 13.26  13.33  THIRUMANGALAM       
+
+
+ 115  TMG  58N2324  48AD   L   SLF 13.30  13.35  THIRUMANGALAM       
+
+
+ 116  BCB  58N1725  48AD   X   SLF 13.35  13.40  THIRUMANGALAM       
+
+
+ 117  ENR  58N2322  48AD   O   SLF 13.40  13.45  THIRUMANGALAM       
+
+
+ 118  BCB  58N1785  48AD   K   SLF 13.45  13.50  THIRUMANGALAM       
+
+
+ 119  TMG  58N2323  48AD   C   SLF 13.50  13.55  THIRUMANGALAM       
+
+
+ 120  BCB  58N1760  48AD   U   ORD 13.55  14.00  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - TMG VIA-BYE PASS   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 121  BCB  58N1804  48AD   N   SLF 14.00  14.05  THIRUMANGALAM       
+
+
+ 122  TMG  58N1630  48AD   E   SLF 14.05  14.10  THIRUMANGALAM       
+
+
+ 123  ENR  58N1650  48AD   Q   SLF 14.10  14.15  THIRUMANGALAM       
+
+
+ 124  TMG  58N2386  48AD   D   SLF 14.20  14.25  THIRUMANGALAM       
+
+
+ 125  TMG  58N2342  48AD   C1  SLF 14.13  14.28  THIRUMANGALAM       
+
+
+ 126  BCB  58N2327  48AD   V   SLF 14.25  14.30  THIRUMANGALAM       
+
+
+ 127  TMG  58N1507  48AD   F   SLF 14.30  14.35  THIRUMANGALAM       
+
+
+ 128  BCB  58N1752  48AD   A   ORD 14.35  14.40  THIRUMANGALAM       
+
+
+ 129  ENR  58N1486  48AD   P   SLF 14.40  14.50  THIRUMANGALAM       
+
+
+ 130  TMG  58N2385  48AD   T   SLF 14.50  15.00  THIRUMANGALAM       
+
+
+ 131  BCB  58N1759  48AD   W   SLF 14.55  15.05  THIRUMANGALAM       
+
+
+ 132  TMG  58N2331  48AD   J   SLF 15.00  15.10  THIRUMANGALAM       
+
+
+ 133  TMG  58N2338  48AD   M   SLF 15.00  15.13  THIRUMANGALAM       
+
+
+ 134  TMG  58N1595  48AD   H   SLF 15.05  15.15  THIRUMANGALAM       
+
+
+ 135  BCB  58N2335  48AD   A1  SLF 15.00  15.18  THIRUMANGALAM       
+
+
+ 136  ENR  58N1648  48AD   R   SLF 15.10  15.20  THIRUMANGALAM       
+
+
+ 137  TMG  58N2326  48AD   S   SLF 15.20  15.25  THIRUMANGALAM       
+
+
+ 138  TMG  58N2324  48AD   L   SLF 15.25  15.30  THIRUMANGALAM       
+
+
+ 139  TMG  58N2343  48AD   Y   SLF 15.16  15.31  THIRUMANGALAM       
+
+
+ 140  BCB  58N2349  48AD   B1  SLF 15.16  15.33  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - TMG VIA-BYE PASS   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 141  BCB  58N1725  48AD   X   SLF 15.30  15.35  THIRUMANGALAM       
+
+
+ 142  ENR  58N2322  48AD   O   SLF 15.35  15.45  THIRUMANGALAM       
+
+
+ 143  BCB  58N1785  48AD   K   SLF 15.40  15.50  THIRUMANGALAM       
+
+
+ 144  TMG  58N2323  48AD   C   SLF 15.45  15.55  THIRUMANGALAM       
+
+
+ 145  BCB  58N1760  48AD   U   ORD 15.50  16.00  THIRUMANGALAM       
+
+
+ 146  BCB  58N1804  48AD   N   SLF 15.55  16.05  THIRUMANGALAM       
+
+
+ 147  TMG  58N1630  48AD   E   SLF 16.00  16.10  THIRUMANGALAM       
+
+
+ 148  ENR  58N1650  48AD   Q   SLF 16.05  16.15  THIRUMANGALAM       
+
+
+ 149  TMG  58N2386  48AD   D   SLF 16.15  16.25  THIRUMANGALAM       
+
+
+ 150  TMG  58N2342  48AD   C1  SLF 16.13  16.28  THIRUMANGALAM       
+
+
+ 151  BCB  58N2327  48AD   V   SLF 16.20  16.30  THIRUMANGALAM       
+
+
+ 152  TMG  58N1507  48AD   F   SLF 16.25  16.35  THIRUMANGALAM       
+
+
+ 153  BCB  58N1752  48AD   A   ORD 16.30  16.40  THIRUMANGALAM       
+
+
+ 154  ENR  58N1486  48AD   P   SLF 16.35  16.45  THIRUMANGALAM       
+
+
+ 155  TMG  58N2385  48AD   T   SLF 16.45  16.55  THIRUMANGALAM       
+
+
+ 156  BCB  58N1759  48AD   W   SLF 16.50  17.00  THIRUMANGALAM       
+
+
+ 157  TMG  58N2331  48AD   J   SLF 16.55  17.05  THIRUMANGALAM       
+
+
+ 158  TMG  58N1595  48AD   H   SLF 17.00  17.10  THIRUMANGALAM       
+
+
+ 159  TMG  58N2338  48AD   M   SLF 17.00  17.12  THIRUMANGALAM       
+
+
+ 160  ENR  58N1648  48AD   R   SLF 17.05  17.15  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - TMG VIA-BYE PASS   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 161  BCB  58N2335  48AD   A1  SLF 17.00  17.18  THIRUMANGALAM       
+
+
+ 162  TMG  58N2326  48AD   S   SLF 17.10  17.20  THIRUMANGALAM       
+
+
+ 163  TMG  58N2324  48AD   L   SLF 17.15  17.25  THIRUMANGALAM       
+
+
+ 164  BCB  58N1725  48AD   X   SLF 17.20  17.30  THIRUMANGALAM       
+
+
+ 165  TMG  58N2343  48AD   Y   SLF 17.16  17.31  THIRUMANGALAM       
+
+
+ 166  BCB  58N2349  48AD   B1  SLF 17.16  17.33  THIRUMANGALAM       
+
+
+ 167  ENR  58N2322  48AD   O   SLF 17.30  17.35  THIRUMANGALAM       
+
+
+ 168  BCB  58N1785  48AD   K   SLF 17.35  17.40  THIRUMANGALAM       
+
+
+ 169  TMG  58N2323  48AD   C   SLF 17.40  17.45  THIRUMANGALAM       
+
+
+ 170  BCB  58N1760  48AD   U   ORD 17.45  17.50  THIRUMANGALAM       
+
+
+ 171  BCB  58N1804  48AD   N   SLF 17.50  17.55  THIRUMANGALAM       
+
+
+ 172  TMG  58N1630  48AD   E   SLF 17.55  18.00  THIRUMANGALAM       
+
+
+ 173  ENR  58N1650  48AD   Q   SLF 18.00  18.05  THIRUMANGALAM       
+
+
+ 174  TMG  58N2386  48AD   D   SLF 18.10  18.15  THIRUMANGALAM       
+
+
+ 175  TMG  58N2342  48AD   C1  SLF 18.13  18.18  THIRUMANGALAM       
+
+
+ 176  BCB  58N2327  48AD   V   SLF 18.15  18.20  THIRUMANGALAM       
+
+
+ 177  TMG  58N1507  48AD   F   SLF 18.20  18.25  THIRUMANGALAM       
+
+
+ 178  BCB  58N1752  48AD   A   ORD 18.25  18.30  THIRUMANGALAM       
+
+
+ 179  ENR  58N1486  48AD   P   SLF 18.30  18.35  THIRUMANGALAM       
+
+
+ 180  TMG  58N2385  48AD   T   SLF 18.40  18.45  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - TMG VIA-BYE PASS   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 181  BCB  58N1759  48AD   W   SLF 18.45  18.50  THIRUMANGALAM       
+
+
+ 182  TMG  58N2331  48AD   J   SLF 18.50  18.55  THIRUMANGALAM       
+
+
+ 183  TMG  58N1595  48AD   H   SLF 18.55  19.00  THIRUMANGALAM       
+
+
+ 184  TMG  58N2338  48AD   M   SLF 19.00  19.03  THIRUMANGALAM       
+
+
+ 185  ENR  58N1648  48AD   R   SLF 19.00  19.05  THIRUMANGALAM       
+
+
+ 186  BCB  58N2335  48AD   A1  SLF 19.00  19.08  THIRUMANGALAM       
+
+
+ 187  TMG  58N2326  48AD   S   SLF 19.05  19.10  THIRUMANGALAM       
+
+
+ 188  TMG  58N2324  48AD   L   SLF 19.10  19.15  THIRUMANGALAM       
+
+
+ 189  BCB  58N1725  48AD   X   SLF 19.15  19.20  THIRUMANGALAM       
+
+
+ 190  TMG  58N2343  48AD   Y   SLF 19.16  19.21  THIRUMANGALAM       
+
+
+ 191  BCB  58N2349  48AD   B1  SLF 19.16  19.25  THIRUMANGALAM       
+
+
+ 192  ENR  58N2322  48AD   O   SLF 19.20  19.30  THIRUMANGALAM       
+
+
+ 193  BCB  58N1785  48AD   K   SLF 19.25  19.40  THIRUMANGALAM       
+
+
+ 194  TMG  58N2323  48AD   C   SLF 19.30  19.45  THIRUMANGALAM       
+
+
+ 195  BCB  58N1760  48AD   U   ORD 19.35  19.50  THIRUMANGALAM       
+
+
+ 196  BCB  58N1804  48AD   N   SLF 19.40  19.55  THIRUMANGALAM       
+
+
+ 197  TMG  58N1630  48AD   E   SLF 19.45  20.00  THIRUMANGALAM       
+
+
+ 198  ENR  58N1650  48AD   Q   SLF 19.50  20.05  THIRUMANGALAM       
+
+
+ 199  TMG  58N2386  48AD   D   SLF 20.00  20.15  THIRUMANGALAM       
+
+
+ 200  TMG  58N2342  48AD   C1  SLF 20.03  20.18  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - TMG VIA-BYE PASS   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 201  BCB  58N2327  48AD   V   SLF 20.05  20.20  THIRUMANGALAM       
+
+
+ 202  TMG  58N1507  48AD   F   SLF 20.10  20.25  THIRUMANGALAM       
+
+
+ 203  BCB  58N1752  48AD   A   ORD 20.15  20.30  THIRUMANGALAM       
+
+
+ 204  ENR  58N1486  48AD   P   SLF 20.20  20.35  THIRUMANGALAM       
+
+
+ 205  TMG  58N2385  48AD   T   SLF 20.30  20.45  THIRUMANGALAM       
+
+
+ 206  BCB  58N1759  48AD   W   SLF 20.35  20.50  THIRUMANGALAM       
+
+
+ 207  TMG  58N2331  48AD   J   SLF 20.40  20.55  THIRUMANGALAM       
+
+
+ 208  TMG  58N1595  48AD   H   SLF 20.45  21.00  THIRUMANGALAM       
+
+
+ 209  TMG  58N2338  48AD   M   SLF 20.50  21.03  THIRUMANGALAM       
+
+
+ 210  ENR  58N1648  48AD   R   SLF 20.50  21.05  THIRUMANGALAM       
+
+
+ 211  BCB  58N2335  48AD   A1  SLF 20.50  21.08  THIRUMANGALAM       
+
+
+ 212  TMG  58N2326  48AD   S   SLF 20.55  21.10  THIRUMANGALAM       
+
+
+ 213  TMG  58N2324  48AD   L   SLF 21.00  21.15  THIRUMANGALAM       
+
+
+ 214  BCB  58N1725  48AD   X   SLF 21.10  21.20  THIRUMANGALAM       
+
+
+ 215  TMG  58N2343  48AD   Y   SLF 21.06  21.21  THIRUMANGALAM       
+
+
+ 216  BCB  58N2349  48AD   B1  SLF 21.06  21.26  THIRUMANGALAM       
+
+
+ 217  BCB  58N1785  48AD   K   SLF 21.25  21.30  THIRUMANGALAM       
+
+
+ 218  TMG  58N2323  48AD   C   SLF 21.30  21.35  THIRUMANGALAM       
+
+
+ 219  BCB  58N1804  48AD   N   SLF 21.40  21.45  THIRUMANGALAM       
+
+
+ 220  TMG  58N1630  48AD   E   SLF 21.45  21.50  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - TMG VIA-BYE PASS   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 221  TMG  58N2386  48AD   D   SLF 22.00  22.05  THIRUMANGALAM       
+
+
+ 222  TMG  58N2342  48AD   C1  SLF 22.03  22.08  THIRUMANGALAM       
+
+
+ 223  TMG  58N1507  48AD   F   SLF 22.10  22.15  THIRUMANGALAM       
+
+
+ 224  TMG  58N2331  48AD   J   SLF 22.40  22.45  THIRUMANGALAM       
+
+
+ 225  TMG  58N1595  48AD   H   SLF 22.45  22.50  THIRUMANGALAM       
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

@@ -1,0 +1,687 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          BOYOND ALANGANALLUR      
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |
+                                  Arr.   Dep.                      ³   Arr   Dep                               |        ³  Arr    Dep                               |        ³  Arr    Dep                               |
+                                  Time   Time                      ³   Time  Time                              |        ³  Time   Time                              |        ³  Time   Time                              |
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+
+   1  MCB  58N1411  57F    A  EXP  0.00   4.55  LAKKAMPATTI         
+
+
+   2  ENR  58N1486  69B    D  SLF  0.00   5.00  VITTANGULAM         
+
+
+   3  MCB  58N1426  69J    A  EXP  0.00   5.00  NADUPATTI           
+
+
+   4  ENR  58N0619  59B    C  EXP  0.00   5.05  SENDHAMANGALAM      
+
+
+   5  ENR  58N1625  57     A  SLF  0.00   5.05  PALAMEDU            
+
+
+   6  ENR  58N1342  57E    A  EXP  0.00   5.15  VALAYAPATTI         
+
+
+   7  ENR  58N1642  59D    B  SLF  0.00   5.20  MUDUVARPATTI        
+
+
+   8  ENR  58N1822  60B    A  EXP  0.00   5.25  A.KOVILPATTI        
+
+
+   9  ENR  58N1838  70     A  EXP  0.00   5.35  PERIAILANDAIKULAM   
+
+
+  10  ENR  58N0951  59E    A  EXP  0.00   5.55  PARAIPATTI          
+
+
+  11  SVN  58N1657  57B/   D  SLF  0.00   5.55  66M USILAMPATTI     
+
+
+  12  PON  58N1773  57     C  EXP  0.00   6.00  PALAMEDU            
+
+
+  13  ENR  58N1472  95     A  SLF  0.00   6.00  THETHUR             
+
+
+  14  ENR  58N1372  95C    D  EXP  5.50   6.05  RAMAGOUNDANPATTI    
+
+
+  15  ENR  58N1941  57G    A  SLF  0.00   6.05  MANICKKAMPATTI      
+
+
+  16  ENR  58N1069  59B    A  EXP  0.00   6.05  SENDHAMANGALAM      
+
+
+  17  ENR  58N1353  60     A  EXP  0.00   6.10  KURAVANKULAM        
+
+
+  18  ENR  58N2202  69     A  EXP  0.00   6.10  MELACHINNANAMPATTI  
+
+
+  19  ENR  58N1296  43N    A  EXP  0.00   6.25  CHELLANAGOUNDANPATTI
+
+
+  20  ENR  58N0832  59K    B  EXP  0.00   6.25  OORSERI             
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          BOYOND ALANGANALLUR      
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |
+                                  Arr.   Dep.                      ³   Arr   Dep                               |        ³  Arr    Dep                               |        ³  Arr    Dep                               |
+                                  Time   Time                      ³   Time  Time                              |        ³  Time   Time                              |        ³  Time   Time                              |
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+
+  21  ENR  58N1674  59C    A  SLF  0.00   6.25  SARANTHANGI         
+
+
+  22  ENR  58N1413  60C    A  EXP  6.30   6.35  VAIKASIPATTI        
+
+
+  23  ENR  58N0594  70A    A  EXP  6.15   6.35  THATHAGOUNDANPATTI  
+
+
+  24  PDR  58N0994  59G    D  SLF  0.00   6.35  DEVASERI            
+
+
+  25  PON  58N1795  70D    F  SLF  0.00   6.45  ALAGAPURI           
+
+
+  26  BCB  58N0676  57J    J  EXP  0.00   6.45  V.PUDUR             
+
+
+  27  ENR  58N1217  43K    A  EXP  6.25   6.50  VAVIDAMARUTHUR      
+
+
+  28  ENR  58N1302  57E    B  EXP  6.30   6.50  VALAYAPATTI         
+
+
+  29  ENR  58N0599  57A    A  EXP  6.45   7.00  66P METTUPATTI      
+
+
+  30  ENR  58N1419  59D    A  EXP  6.30   7.05  MUDUVARPATTI        
+
+
+  31  PON  58N1686  95B    A  SLF  0.00   7.10  T.KOZHINJIPATTI     
+
+
+  32  ENR  58N0631  69A    A  EXP  6.55   7.10  KONDAYAMPATTI       
+
+
+  33  ENR  58N1837  60A    A  EXP  0.00   7.15  ERRAMPATTI          
+
+
+  34  ENR  58N1368  57C    A  EXP  7.00   7.20  SARANTHANGI         
+
+
+  35  ENR  58N1478  43K    F  SLF  0.00   7.25  VAVIDAMARUTHUR      
+
+
+  36  ENR  58N1822  70C    A  EXP  7.20   7.25  AYYUR               
+
+
+  37  PON  58N1737  60D    H  SLF  0.00   7.30  KEELACHINNANAMPATTI 
+
+
+  38  ENR  58N1642  59B    B  SLF  7.20   7.40  SENDHAMANGALAM      
+
+
+  39  ENR  58N0593  95A    A  EXP  7.20   7.45  T.METTUPATTI        
+
+
+  40  MCB  58N1411  57H    A  EXP  7.30   7.45  RAMAGOUNDANPATTI    
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          BOYOND ALANGANALLUR      
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |
+                                  Arr.   Dep.                      ³   Arr   Dep                               |        ³  Arr    Dep                               |        ³  Arr    Dep                               |
+                                  Time   Time                      ³   Time  Time                              |        ³  Time   Time                              |        ³  Time   Time                              |
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+
+  41  ENR  58N1838  70     A  EXP  7.40   7.50  PERIAILANDAIKULAM   
+
+
+  42  BCB  58N1804  43K    F  EXP  0.00   8.05  VAVIDAMARUTHUR      
+
+
+  43  ENR  58N0619  59A    C  EXP  8.00   8.05  PONDHUGAMPATTI      
+
+
+  44  PON  58N1773  57X    C  EXP  7.55   8.10  PALAMEDU SATHA NAGAR
+
+
+  45  ENR  58N2202  69     A  EXP  8.05   8.10  MELACHINNANAMPATTI  
+
+
+  46  ENR  58N1296  57*    A  EXP  8.15   8.30  PALAMEDU H.S.SCHOOL 
+
+
+  47  ENR  58N1342  57E    A  EXP  8.00   8.30  VALAYAPATTI         
+
+
+  48  ENR  58N0594  70A    A  EXP  8.35   8.40  THATHAGOUNDANPATTI  
+
+
+  49  PON  58N1309  70/    A  EXP  0.00   8.45  KUTTIMEIKKIPATTI    
+
+
+  50  ENR  58N0832  57B    B  EXP  8.30   8.45  SENDHAMANGALAM      
+
+
+  51  ENR  58N1941  57G    A  SLF  8.40   8.45  MANICKKAMPATTI      
+
+
+  52  ENR  58N1069  59     A  EXP  8.45   8.50  VELLAIYAMPATTI      
+
+
+  53  ENR  58N1413  60C    A  EXP  8.45   9.00  VAIKASIPATTI        
+
+
+  54  ENR  58N1472  95     A  SLF  8.50   9.00  THETHUR             
+
+
+  55  ENR  58N1217  43K    A  EXP  8.55   9.05  VAVIDAMARUTHUR      
+
+
+  56  ENR  58N1674  59C    A  SLF  9.00   9.05  SARANTHANGI         
+
+
+  57  ENR  58N1837  60E    A  EXP  9.10   9.15  PALAMEDU            
+
+
+  58  ENR  58N0631  69A    A  EXP  9.05   9.15  KONDAYAMPATTI       
+
+
+  59  ENR  58N1419  59B    A  EXP  9.20   9.35  SENDHAMANGALAM      
+
+
+  60  ENR  58N1302  57E    B  EXP  9.20   9.45  VALAYAPATTI         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          BOYOND ALANGANALLUR      
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |
+                                  Arr.   Dep.                      ³   Arr   Dep                               |        ³  Arr    Dep                               |        ³  Arr    Dep                               |
+                                  Time   Time                      ³   Time  Time                              |        ³  Time   Time                              |        ³  Time   Time                              |
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+
+  61  ENR  58N0951  59D    A  EXP  7.50  10.00  MUDUVARPATTI        
+
+
+  62  ENR  58N0599  57B    A  EXP  9.30  10.05  SENDHAMANGALAM      
+
+
+  63  ENR  58N1368  69/    A  EXP  9.50  10.10  KALVELIPATTI        
+
+
+  64  PDR  58N1404  74     A  EXP  6.50  10.15  KODANGIPATTI        
+
+
+  65  PON  58N1773  57     C  EXP 10.05  10.20  PALAMEDU            
+
+
+  66  ENR  58N0593  95A    A  EXP 10.20  10.25  T.METTUPATTI        
+
+
+  67  ENR  58N1642  59B    B  SLF 10.25  10.35  SENDHAMANGALAM      
+
+
+  68  ENR  58N2202  69     A  EXP 10.10  10.40  MELACHINNANAMPATTI  
+
+
+  69  ENR  58N1296  57     A  EXP 10.25  10.45  PALAMEDU            
+
+
+  70  PON  58N1328  43N    B  EXP  0.00  10.50  CHELLANAGOUNDANPATTI
+
+
+  71  ENR  58N1217  43K    A  EXP 10.50  10.55  VAVIDAMARUTHUR      
+
+
+  72  MCB  58N1411  95B    A  EXP 10.20  11.00  KOLINJIPATTI        
+
+
+  73  ENR  58N0619  59D    C  EXP 11.00  11.05  MUDUVARPATTI        
+
+
+  74  ENR  58N0594  70A    A  EXP 10.45  11.10  THATHAGOUNDANPATTI  
+
+
+  75  ENR  58N1342  57E    A  EXP 11.05  11.15  VALAYAPATTI         
+
+
+  76  ENR  58N1822  60B    A  EXP  9.40  11.20  A.KOVILPATTI        
+
+
+  77  ENR  58N1069  59B    A  EXP 11.15  11.25  SENDHAMANGALAM      
+
+
+  78  ENR  58N1941  57V    A  SLF 11.15  11.30  VELLAIYAMPATTI      
+
+
+  79  ENR  58N1413  60C    A  EXP 11.15  11.30  VAIKASIPATTI        
+
+
+  80  ENR  58N0832  57K    B  EXP 11.20  11.35  MARAVARPATTI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          BOYOND ALANGANALLUR      
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |
+                                  Arr.   Dep.                      ³   Arr   Dep                               |        ³  Arr    Dep                               |        ³  Arr    Dep                               |
+                                  Time   Time                      ³   Time  Time                              |        ³  Time   Time                              |        ³  Time   Time                              |
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+
+  81  ENR  58N0631  69A    A  EXP 11.20  11.35  KONDAYAMPATTI       
+
+
+  82  BCB  58N0673  57H    D  EXP  0.00  11.40  RAMAGOUNDANPATTI    
+
+
+  83  ENR  58N1372  43C    D  EXP  9.05  12.00  A.PUDUPATTI         
+
+
+  84  ENR  58N1353  60     A  EXP  7.50  12.05  KURAVANKULAM        
+
+
+  85  ENR  58N1674  59C    A  SLF 11.40  12.10  SARANTHANGI         
+
+
+  86  ENR  58N0951  59D    A  EXP 12.05  12.10  MUDUVARPATTI        
+
+
+  87  ENR  58N1837  60A    A  EXP 11.50  12.15  ERRAMPATTI          
+
+
+  88  ENR  58N1838  70     A  EXP  9.50  12.20  PERIAILANDAIKULAM   
+
+
+  89  ENR  58N1472  95     A  SLF 12.00  12.25  THETHUR             
+
+
+  90  ENR  58N1296  57     A  EXP 12.40  12.45  PALAMEDU            
+
+
+  91  ENR  58N2202  69     A  EXP 12.35  12.50  MELACHINNANAMPATTI  
+
+
+  92  ENR  58N1302  57E    B  EXP 12.10  13.00  VALAYAPATTI         
+
+
+  93  ENR  58N1368  57B/   A  EXP 11.55  13.15  66M USILAMPATTI     
+
+
+  94  ENR  58N1642  59B    B  SLF 13.10  13.20  SENDHAMANGALAM      
+
+
+  95  ENR  58N0593  95A    A  EXP 13.05  13.30  T.METTUPATTI        
+
+
+  96  ENR  58N0631  69A    A  EXP 13.30  13.35  KONDAYAMPATTI       
+
+
+  97  ENR  58N0619  59B    C  EXP 13.10  13.50  SENDHAMANGALAM      
+
+
+  98  MCB  58N1411  95C    A  EXP 13.40  14.00  RAMAGOUNDANPATTI    
+
+
+  99  ENR  58N1822  70C    A  EXP 13.20  14.05  AYYUR               
+
+
+ 100  ENR  58N1941  57V    A  SLF 13.55  14.10  VELLAIYAMPATTI      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          BOYOND ALANGANALLUR      
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |
+                                  Arr.   Dep.                      ³   Arr   Dep                               |        ³  Arr    Dep                               |        ³  Arr    Dep                               |
+                                  Time   Time                      ³   Time  Time                              |        ³  Time   Time                              |        ³  Time   Time                              |
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+
+ 101  ENR  58N1353  60     A  EXP 13.55  14.10  KURAVANKULAM        
+
+
+ 102  PON  58N1773  57X    C  EXP 12.15  14.25  PALAMEDU SATHA NAGAR
+
+
+ 103  ENR  58N1838  70     A  EXP 14.15  14.25  PERIAILANDAIKULAM   
+
+
+ 104  ENR  58N1342  57E    A  EXP 14.05  14.30  VALAYAPATTI         
+
+
+ 105  ENR  58N1217  43K    A  EXP 12.40  14.40  VAVIDAMARUTHUR      
+
+
+ 106  ENR  58N1296  57     A  EXP 14.30  14.45  PALAMEDU            
+
+
+ 107  ENR  58N0832  57B    B  EXP 14.10  14.45  SENDHAMANGALAM      
+
+
+ 108  ENR  58N1069  59     A  EXP 14.10  14.50  VELLAIYAMPATTI      
+
+
+ 109  ENR  58N1837  60E    A  EXP 14.10  14.50  PALAMEDU            
+
+
+ 110  ENR  58N2202  69     A  EXP 14.45  14.50  MELACHINNANAMPATTI  
+
+
+ 111  ENR  58N0951  59F    A  EXP 14.20  14.55  KODANGIPATTI        
+
+
+ 112  ENR  58N1472  95     A  SLF 14.55  15.00  THETHUR             
+
+
+ 113  ENR  58N1674  59C    A  SLF 14.55  15.05  SARANTHANGI         
+
+
+ 114  ENR  58N0594  70A    A  EXP 13.15  15.10  THATHAGOUNDANPATTI  
+
+
+ 115  ENR  58N0599  57B    A  EXP 12.50  15.15  SENDHAMANGALAM      
+
+
+ 116  ENR  58N1372  43C    D  EXP 13.35  15.20  A.PUDUPATTI         
+
+
+ 117  ENR  58N1413  60C    A  EXP 13.45  15.30  VAIKASIPATTI        
+
+
+ 118  ENR  58N1486  59A    D  SLF  7.05  15.30  PONDHUGAMPATTI      
+
+
+ 119  ENR  58N1419  59B    A  EXP 12.20  15.35  SENDHAMANGALAM      
+
+
+ 120  ENR  58N1612  57J    C  SLF  0.00  15.45  V.PUDUR             
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          BOYOND ALANGANALLUR      
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |
+                                  Arr.   Dep.                      ³   Arr   Dep                               |        ³  Arr    Dep                               |        ³  Arr    Dep                               |
+                                  Time   Time                      ³   Time  Time                              |        ³  Time   Time                              |        ³  Time   Time                              |
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+
+ 121  ENR  58N0631  69A    A  EXP 15.35  15.55  KONDAYAMPATTI       
+
+
+ 122  ENR  58N1302  57E    B  EXP 15.45  16.00  VALAYAPATTI         
+
+
+ 123  ENR  58N0593  95A    A  EXP 16.05  16.15  T.METTUPATTI        
+
+
+ 124  PON  58N1737  60D    H  SLF  9.30  16.20  KEELACHINNANAMPATTI 
+
+
+ 125  ENR  58N1642  59D    B  SLF 16.00  16.20  MUDUVARPATTI        
+
+
+ 126  PON  58N1773  57     C  EXP 16.20  16.25  PALAMEDU            
+
+
+ 127  ENR  58N1822  60B    A  EXP 16.00  16.25  A.KOVILPATTI        
+
+
+ 128  ENR  58N1838  70     A  EXP 16.15  16.25  PERIAILANDAIKULAM   
+
+
+ 129  ENR  58N1217  43K    A  EXP 16.25  16.30  VAVIDAMARUTHUR      
+
+
+ 130  ENR  58N2202  69     A  EXP 16.35  16.40  MELACHINNANAMPATTI  
+
+
+ 131  PON  58N1686  95B    A  SLF  9.45  16.45  T.KOZHINJIPATTI     
+
+
+ 132  ENR  58N1296  43N    A  EXP 16.40  16.45  CHELLANAGOUNDANPATTI
+
+
+ 133  ENR  58N1941  57G    A  SLF 16.40  16.45  MANICKKAMPATTI      
+
+
+ 134  ENR  58N0619  59B    C  EXP 16.35  16.50  SENDHAMANGALAM      
+
+
+ 135  MCB  58N1411  57H    A  EXP 16.45  17.00  RAMAGOUNDANPATTI    
+
+
+ 136  ENR  58N1372  57B    D  EXP 17.05  17.20  SENDHAMANGALAM      
+
+
+ 137  ENR  58N0594  70A    A  EXP 17.15  17.20  THATHAGOUNDANPATTI  
+
+
+ 138  PDR  58N0994  59G    D  SLF  8.15  17.20  DEVASERI            
+
+
+ 139  ENR  58N1342  57E    A  EXP 17.20  17.25  VALAYAPATTI         
+
+
+ 140  ENR  58N1069  59B    A  EXP 17.25  17.30  SENDHAMANGALAM      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          BOYOND ALANGANALLUR      
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |
+                                  Arr.   Dep.                      ³   Arr   Dep                               |        ³  Arr    Dep                               |        ³  Arr    Dep                               |
+                                  Time   Time                      ³   Time  Time                              |        ³  Time   Time                              |        ³  Time   Time                              |
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+
+ 141  ENR  58N1478  43K    F  SLF  9.05  17.35  VAVIDAMARUTHUR      
+
+
+ 142  ENR  58N0951  59D    A  EXP 17.30  17.35  MUDUVARPATTI        
+
+
+ 143  PON  58N1309  70/    A  EXP 10.50  17.40  KUTTIMEIKKIPATTI    
+
+
+ 144  ENR  58N1368  57C    A  EXP 15.40  17.50  SARANTHANGI         
+
+
+ 145  ENR  58N0832  59K    B  EXP 17.20  17.55  OORSERI             
+
+
+ 146  ENR  58N1413  70C    A  EXP 17.45  17.55  AYYUR               
+
+
+ 147  ENR  58N0631  69A    A  EXP 17.50  17.55  KONDAYAMPATTI       
+
+
+ 148  ENR  58N1472  95     A  SLF 17.45  18.00  THETHUR             
+
+
+ 149  ENR  58N1674  59C    A  SLF 17.55  18.05  SARANTHANGI         
+
+
+ 150  PON  58N1773  57     C  EXP 18.10  18.20  PALAMEDU            
+
+
+ 151  ENR  58N1302  57E    B  EXP 18.25  18.30  VALAYAPATTI         
+
+
+ 152  ENR  58N1419  59D    A  EXP 18.10  18.35  MUDUVARPATTI        
+
+
+ 153  ENR  58N0599  57A    A  EXP 17.50  18.40  66P METTUPATTI      
+
+
+ 154  ENR  58N1217  43K    A  EXP 18.40  18.45  VAVIDAMARUTHUR      
+
+
+ 155  ENR  58N2202  69     A  EXP 18.30  18.55  MELACHINNANAMPATTI  
+
+
+ 156  PDR  58N1404  74     A  EXP 12.50  18.55  KODANGIPATTI        
+
+
+ 157  ENR  58N1296  57     A  EXP 18.45  19.00  PALAMEDU            
+
+
+ 158  ENR  58N1642  59B    B  SLF 18.30  19.00  SENDHAMANGALAM      
+
+
+ 159  ENR  58N1837  60A    A  EXP 17.25  19.10  ERRAMPATTI          
+
+
+ 160  BCB  58N0676  57J    J  EXP  9.30  19.15  V.PUDUR             
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          BOYOND ALANGANALLUR      
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |
+                                  Arr.   Dep.                      ³   Arr   Dep                               |        ³  Arr    Dep                               |        ³  Arr    Dep                               |
+                                  Time   Time                      ³   Time  Time                              |        ³  Time   Time                              |        ³  Time   Time                              |
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+
+ 161  ENR  58N1941  57V    A  SLF 19.05  19.15  VELLAIYAMPATTI      
+
+
+ 162  PON  58N1793  59L    B  SLF  7.30  19.30  LINAGAVADI          
+
+
+ 163  ENR  58N0594  70A    A  EXP 19.35  19.40  THATHAGOUNDANPATTI  
+
+
+ 164  ENR  58N1486  69B    D  SLF 17.40  19.55  VITTANGULAM         
+
+
+ 165  PON  58N1328  43N    B  EXP 12.35  20.00  CHELLANAGOUNDANPATTI
+
+
+ 166  MCB  58N1411  95B    A  EXP 19.40  20.00  KOLINJIPATTI        
+
+
+ 167  ENR  58N0951  59B    A  EXP 19.40  20.10  SENDHAMANGALAM      
+
+
+ 168  ENR  58N1822  70C    A  EXP 18.15  20.10  AYYUR               
+
+
+ 169  ENR  58N1625  60D    A  SLF  6.50  20.10  KEELACHINNANAMPATTI 
+
+
+ 170  ENR  58N1372  57     D  EXP 19.55  20.15  PALAMEDU            
+
+
+ 171  ENR  58N0832  57K    B  EXP 19.50  20.20  MARAVARPATTI        
+
+
+ 172  ENR  58N1342  57E    A  EXP 20.15  20.35  VALAYAPATTI         
+
+
+ 173  PON  58N1773  57     C  EXP 20.25  20.45  PALAMEDU            
+
+
+ 174  ENR  58N1838  70     A  EXP 18.20  20.45  PERIAILANDAIKULAM   
+
+
+ 175  ENR  58N1069  59B    A  EXP 20.20  20.50  SENDHAMANGALAM      
+
+
+ 176  ENR  58N1472  95     A  SLF 20.45  20.55  THETHUR             
+
+
+ 177  MCB  58N1426  69J    A  EXP  6.55  20.55  NADUPATTI           
+
+
+ 178  ENR  58N1296  57     A  EXP 20.50  21.00  PALAMEDU            
+
+
+ 179  PDR  58N1931  43DX   A  EXP  9.15  21.00  OORSERI             
+
+
+ 180  MCB  58N1135  59D    A  SLF  0.00  21.00  MUDUVARPATTI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          BOYOND ALANGANALLUR      
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |  COLL  ³  Act    Act   Dr.Sign                     |
+                                  Arr.   Dep.                      ³   Arr   Dep                               |        ³  Arr    Dep                               |        ³  Arr    Dep                               |
+                                  Time   Time                      ³   Time  Time                              |        ³  Time   Time                              |        ³  Time   Time                              |
+ ------------------------------------------------------------------³-------------------------------------------|--------³-------------------------------------------|--------³-------------------------------------------|
+
+ 181  MCB  58N1325  57H    B  EXP  6.20  21.05  RAMAGOUNDANPATTI    
+
+
+ 182  ENR  58N2202  69     A  EXP 20.45  21.10  MELACHINNANAMPATTI  
+
+
+ 183  ENR  58N0599  57B    A  EXP 21.10  21.15  SENDHAMANGALAM      
+
+
+ 184  ENR  58N1353  60     A  EXP 16.10  21.15  KURAVANKULAM        
+
+
+ 185  ENR  58N1674  59C    A  SLF 20.45  21.20  SARANTHANGI         
+
+
+ 186  ENR  58N1217  43K    A  EXP 20.35  21.25  VAVIDAMARUTHUR      
+
+
+ 187  ENR  58N1837  60A    A  EXP 21.10  21.30  ERRAMPATTI          
+
+
+ 188  ENR  58N0631  69A    A  EXP 19.50  21.50  KONDAYAMPATTI       
+
+
+ 189  ENR  58N1368  57     A  EXP 20.15  21.55  PALAMEDU            
+
+
+ 190  ENR  58N0593  95A    A  EXP 18.50  21.55  T.METTUPATTI        
+
+
+ 191  ENR  58N1419  59B    A  EXP 20.50  22.05  SENDHAMANGALAM      
+
+
+ 192  ENR  58N0594  70A    A  EXP 21.40  22.10  THATHAGOUNDANPATTI  
+
+
+ 193  ENR  58N1372  57     D  EXP 22.00  22.20  PALAMEDU            
+
+
+ 194  ENR  58N1413  60C    A  EXP 20.10  22.20  VAIKASIPATTI        
+
+
+ 195  ENR  58N1302  57E    B  EXP 21.05  22.30  VALAYAPATTI         
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

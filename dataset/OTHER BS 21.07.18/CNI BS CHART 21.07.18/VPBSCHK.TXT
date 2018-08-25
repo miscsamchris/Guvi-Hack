@@ -1,0 +1,107 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+11/07/2016  Vehicle Timing details           VIA PBS&CHECKANURANI     
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+No   Br. Bus No.  Rou.No     Dep.time  From              Arr.time  To
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  1  C4  58N1649  55M   A SLF   4.25  INTEGRATED B.S.    5.35   CHELLAMPATTI   
+
+  2  C2  58N1757  21J   F SLF   5.25  PUDUKULAM          6.15   INTEGRATED B.S.
+
+  3  C4  58N1649  55M   A SLF   5.40  CHELLAMPATTI       6.50   INTEGRATED B.S.
+
+  4  C3  58N1464  21CC  A SLF   5.55  KEELAKUILKUDI      6.45   INTEGRATED B.S.
+
+  5  C2  58N1301  21BB  A EXP   6.10  VADIVELKARAI       6.56   ABS            
+
+  6  C2  58N1757  21J   F SLF   6.30  INTEGRATED B.S.    7.20   PUDUKULAM      
+
+  7  C4  58N1649  55M   A SLF   7.00  INTEGRATED B.S.    8.20   CHELLAMPATTI   
+
+  8  C4  58N1544  21EM  F SLF   7.05  INTEGRATED B.S.    8.10   VELLAIPARAIPATT
+
+  9  C2  58N1301  21BB  A EXP   7.20  ABS                8.08   VADIVELKARAI   
+
+ 10  C2  58N1694  21R   A SLF   7.30  KAZHUNGUPATTI      8.45   ANUPPANADI     
+
+ 11  C4  58N1544  21EM  F SLF   8.15  VELLAIPARAIPATT    9.20   INTEGRATED B.S.
+
+ 12  C2  58N1676  23V   A EXP   8.15  AYYANARPURAM       8.55   PBS            
+
+ 13  C4  58N1649  55M   A SLF   8.30  CHELLAMPATTI       9.50   INTEGRATED B.S.
+
+ 14  C2  58N1694  21P   A SLF   9.00  ANUPPANADI        10.00   M.K.UNIVERSITY 
+
+ 15  C4  58N0966  21M   A SLF   9.05  VIRATTIPATHU      10.00   INTEGRATED B.S.
+
+ 16  T5  58N0866  21AA  A EXP   9.10  NGO COLONY        10.05   INTEGRATED B.S.
+
+ 17  C4  58N1649  55M   A SLF  10.00  INTEGRATED B.S.   11.20   CHELLAMPATTI   
+
+ 18  C2  58N1694  21P   A SLF  10.05  M.K.UNIVERSITY    11.10   ANUPPANADI     
+
+ 19  T5  58N1949  27    A EXP  10.40  INTEGRATED B.S.   11.40   CHECKANURANI   
+
+ 20  C2  58N1788  21V   A SLF  10.45  VIRAHANUR RINGR   11.25   VIRATTIPATHU   
+
+ 21  C4  58N0966  21J   A SLF  11.25  INTEGRATED B.S.   12.25   PUDUKULAM      
+
+ 22  C4  58N1649  55M   A SLF  11.25  CHELLAMPATTI      12.35   INTEGRATED B.S.
+
+ 23  C2  58N1694  21P   A SLF  11.30  ANUPPANADI        12.35   M.K.UNIVERSITY 
+
+ 24  C4  58N0966  21J   A SLF  12.30  PUDUKULAM         13.30   INTEGRATED B.S.
+
+ 25  C4  58N1649  55M   A SLF  13.15  INTEGRATED B.S.   14.35   CHELLAMPATTI   
+
+ 26  T5  58N1949  27    A EXP  14.00  CHECKANURANI      15.00   INTEGRATED B.S.
+
+ 27  C4  58N1649  55M   A SLF  14.40  CHELLAMPATTI      16.00   INTEGRATED B.S.
+
+ 28  C2  58N1694  21P   A SLF  15.30  M.K.UNIVERSITY    16.35   ANUPPANADI     
+
+ 29  C4  58N1649  55M   A SLF  16.05  INTEGRATED B.S.   17.25   CHELLAMPATTI   
+
+ 30  C4  58N0966  21M   A SLF  16.10  INTEGRATED B.S.   17.00   VIRATTIPATHU   
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+11/07/2016    Vehicle Timing  details        VIA PBS&CHECKANURANI     
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+No   Br. Bus No.  Rou.No     Dep.time  From              Arr.time  To
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 31  C4  58N1544  21EM  F SLF  16.15  INTEGRATED B.S.   17.20   VELLAIPARAIPATT
+
+ 32  C2  58N1694  21P   A SLF  16.40  ANUPPANADI        17.45   M.K.UNIVERSITY 
+
+ 33  C2  58N1676  23O   A EXP  17.10  PALAMEDU          18.25   PBS            
+
+ 34  C2  58N1301  21BB  A EXP  17.12  VADIVELKARAI      18.00   ABS            
+
+ 35  C4  58N1544  21EM  F SLF  17.25  VELLAIPARAIPATT   18.30   INTEGRATED B.S.
+
+ 36  C4  58N1649  55M   A SLF  17.30  CHELLAMPATTI      18.50   INTEGRATED B.S.
+
+ 37  C2  58N1694  21P   A SLF  17.50  M.K.UNIVERSITY    18.55   ANUPPANADI     
+
+ 38  C3  58N1464  21CC  A SLF  18.00  INTEGRATED B.S.   18.55   KEELAKUILKUDI  
+
+ 39  C2  58N1301  21BB  A EXP  18.05  ABS               18.53   VADIVELKARAI   
+
+ 40  C2  58N1694  21R   A SLF  19.00  ANUPPANADI        20.25   KAZHUNGUPATTI  
+
+ 41  C4  58N1649  55M   A SLF  19.05  INTEGRATED B.S.   20.25   CHELLAMPATTI   
+
+ 42  C4  58N0966  21J   A SLF  19.20  INTEGRATED B.S.   20.20   PUDUKULAM      
+
+ 43  C4  58N0966  21J   A SLF  20.25  PUDUKULAM         21.25   INTEGRATED B.S.
+
+ 44  C4  58N1649  55M   A SLF  20.30  CHELLAMPATTI      21.40   INTEGRATED B.S.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+G:\SECTIME\CITYTIM1.PRG
+

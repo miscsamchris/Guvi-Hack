@@ -1,0 +1,249 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          VIA - CHINTHAMANI        
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  BCB  58N1359  47C    B   EXP  5.05   5.10  AMBALATHADI         
+
+
+   2  ENR  58N2023  47E    A   EXP  0.00   5.20  S.NANGUR            
+
+
+   3  TPM  58N0912  47Q    A   EXP  5.25   5.30  PALAYANUR           
+
+
+   4  BCB  58N0761  47P    A   EXP  5.30   5.40  PANAIYUR            
+
+
+   5  TPK  58N1285  47F    D   EXP  5.20   5.50  VIRATHANUR          
+
+
+   6  BCB  58N1410  47S    A   EXP  0.00   5.55  SAMANATHAM          
+
+
+   7  ENR  58N1740  47K    A   EXP  0.00   6.10  KUSAVAPATTI         
+
+
+   8  ENR  58N1570  47N    R   SLF  0.00   6.20  NALLUR              
+
+
+   9  BCB  58N1422  47G    A   EXP  6.25   6.30  CHOTTATHATTI        
+
+
+  10  MCB  58N1603  47C    A   SLF  0.00   6.40  AMBALATHADI         
+
+
+  11  ENR  58N1669  47L    A   EXP  0.00   6.50  VADUKANKULAM        
+
+
+  12  ENR  58N2208  47A    A   EXP  6.30   7.00  KANJIRANKULAM       
+
+
+  13  PDR  58N1476  47H    A   SLF  7.10   7.25  PULIYUR             
+
+
+  14  BCB  58N1422  47G    A   EXP  7.35   7.40  CHOTTATHATTI        
+
+
+  15  BCB  58N1712  47/    A   EXP  7.40   7.50  CHINTHAMANI         
+
+
+  16  ENR  58N1570  47M    R   SLF  8.00   8.05  KATTAMANKOTTAI      
+
+
+  17  ENR  58N1740  47K    A   EXP  7.55   8.20  KUSAVAPATTI         
+
+
+  18  ENR  58N2023  47E    A   EXP  8.10   8.35  S.NANGUR            
+
+
+  19  MCB  58N1603  47U    A   SLF  8.45   8.55  KARUVAKKUDI         
+
+
+  20  BCB  58N1422  47G    A   EXP  9.00   9.05  CHOTTATHATTI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - CHINTHAMANI        
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  ENR  58N2208  47A    A   EXP  9.15   9.25  KANJIRANKULAM       
+
+
+  22  ENR  58N1425  47     A   EXP  9.30   9.50  NEDUNGULAM          
+
+
+  23  ENR  58N1740  47K    A   EXP 10.10  10.30  KUSAVAPATTI         
+
+
+  24  BCB  58N1422  47G    A   EXP 10.30  11.00  CHOTTATHATTI        
+
+
+  25  ENR  58N2023  47E    A   EXP 11.05  11.15  S.NANGUR            
+
+
+  26  BCB  58N0761  47C    A   EXP 11.15  11.30  AMBALATHADI         
+
+
+  27  KPI  58N0275  47R    A   EXP 11.25  11.40  MELAKALLANKULAM     
+
+
+  28  ENR  58N2208  47A    A   EXP 11.20  11.50  KANJIRANKULAM       
+
+
+  29  MCB  58N1603  47D    A   SLF 11.30  12.00  MUKKUDI             
+
+
+  30  ENR  58N1425  47     A   EXP 11.50  12.10  NEDUNGULAM          
+
+
+  31  ENR  58N1740  47K    A   EXP 12.20  12.25  KUSAVAPATTI         
+
+
+  32  ENR  58N1669  47L    A   EXP 11.55  12.40  VADUKANKULAM        
+
+
+  33  BCB  58N1422  47G    A   EXP 12.35  13.00  CHOTTATHATTI        
+
+
+  34  BCB  58N1383  47D    H   EXP 12.25  13.15  MUKKUDI             
+
+
+  35  TPM  58N0912  47Q    A   EXP 13.35  13.40  PALAYANUR           
+
+
+  36  BCB  58N0761  47P    A   EXP 13.30  13.50  PANAIYUR            
+
+
+  37  ENR  58N2208  47A    A   EXP 13.55  14.05  KANJIRANKULAM       
+
+
+  38  ENR  58N1425  47     A   EXP 14.10  14.20  NEDUNGULAM          
+
+
+  39  BCB  58N1410  47S    A   EXP 14.30  14.45  SAMANATHAM          
+
+
+  40  ENR  58N2023  47E    A   EXP 13.45  14.50  S.NANGUR            
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - CHINTHAMANI        
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  MCB  58N1586  47C    F   SLF 14.45  15.00  AMBALATHADI         
+
+
+  42  MCB  58N1603  700    A   SLF 15.05  15.10  M.G.R.BUSSTAND      
+
+
+  43  ENR  58N1740  47K    A   EXP 14.15  15.10  KUSAVAPATTI         
+
+
+  44  BCB  58N1422  47G    A   EXP 14.25  15.30  CHOTTATHATTI        
+
+
+  45  ENR  58N1669  47L    A   EXP 14.45  16.05  VADUKANKULAM        
+
+
+  46  ENR  58N2208  47A    A   EXP 16.05  16.15  KANJIRANKULAM       
+
+
+  47  TPK  58N1373  47B    A   EXP 16.25  16.30  KONTHAGAI           
+
+
+  48  ENR  58N1425  47     A   EXP 16.20  16.35  NEDUNGULAM          
+
+
+  49  BCB  58N1422  47G    A   EXP 16.45  16.50  CHOTTATHATTI        
+
+
+  50  TPM  58N0912  47Q    A   EXP 16.30  17.00  PALAYANUR           
+
+
+  51  ENR  58N1740  47K    A   EXP 17.10  17.15  KUSAVAPATTI         
+
+
+  52  ENR  58N2023  47D    A   EXP 17.25  17.30  MUKKUDI             
+
+
+  53  PDR  58N1476  47H    A   SLF 17.45  17.50  PULIYUR             
+
+
+  54  ENR  58N1669  47E    A   EXP 17.55  18.00  S.NANGUR            
+
+
+  55  BCB  58N1422  47G    A   EXP 18.10  18.15  CHOTTATHATTI        
+
+
+  56  ENR  58N2208  47A    A   EXP 18.20  18.40  KANJIRANKULAM       
+
+
+  57  ENR  58N1425  47     A   EXP 18.40  18.50  NEDUNGULAM          
+
+
+  58  KPI  58N0275  47R    A   EXP 18.45  18.50  MELAKALLANKULAM     
+
+
+  59  ENR  58N1570  47M    R   SLF 18.45  19.00  KATTAMANKOTTAI      
+
+
+  60  ENR  58N1740  47K    A   EXP 19.05  19.15  KUSAVAPATTI         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - CHINTHAMANI        
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  BCB  58N1422  47G    A   EXP 19.40  19.50  CHOTTATHATTI        
+
+
+  62  CNI  58N1895  47C    A   EXP 19.55  20.05  CHECKANURANI        
+
+
+  63  ENR  58N2023  47E    A   EXP 19.50  20.15  S.NANGUR            
+
+
+  64  ENR  58N1669  47L    A   EXP 20.35  20.40  VADUKANKULAM        
+
+
+  65  ENR  58N1570  47N    R   SLF 20.25  20.55  NALLUR              
+
+
+  66  ENR  58N1740  47K    A   EXP 21.05  21.10  KUSAVAPATTI         
+
+
+  67  BCB  58N1422  47G    A   EXP 21.20  21.25  CHOTTATHATTI        
+
+
+  68  ENR  58N2208  47A    A   EXP 20.45  21.40  KANJIRANKULAM       
+
+
+  69  ENR  58N1425  47     A   EXP 20.55  22.00  NEDUNGULAM          
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

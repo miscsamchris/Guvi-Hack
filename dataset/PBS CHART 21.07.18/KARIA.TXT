@@ -1,0 +1,1229 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  TPK  58N1285  10L    D   EXP  4.15   4.20  TRANSPORT NAGAR     
+
+
+   2  MCB  58N1623  76J    C   SLF  0.00   4.40  KAZHUVANACHERI      
+
+
+   3  PON  58N1733  76     C   SLF  0.00   4.50  KARIAPATTI          
+
+
+   4  PON  58N1689  76     H   SLF  0.00   5.00  KARIAPATTI          
+
+
+   5  TPK  58N2054  37     A   EXP  5.00   5.05  CHINNA ULAGANI      
+
+
+   6  PON  58N2336  76     L   SLF  0.00   5.10  KARIAPATTI          
+
+
+   7  BCB  58N1693  76     A   SLF  0.00   5.15  KARIAPATTI          
+
+
+   8  TPK  58N1401  39     A   EXP  0.00   5.15  AVIYUR              
+
+
+   9  ENR  58N1775  56     A   EXP  0.00   5.15  KALUVANKULAM        
+
+
+  10  PON  58N1728  72A    G   EXP  0.00   5.15  NEDUMADURAI         
+
+
+  11  TPK  58N1446  10R    C   SLF  5.15   5.20  MANDELA NAGAR       
+
+
+  12  MCB  58N1568  76K    A   SLF  0.00   5.20  KALKURICHI          
+
+
+  13  TPK  58N1398  10C    A   EXP  5.20   5.25  PERIYAR NAGAR       
+
+
+  14  MCB  58N1580  76     I   SLF  0.00   5.30  KARIAPATTI          
+
+
+  15  PON  58N1321  72K    A   EXP  0.00   5.30  S.KRISHNAPURAM      
+
+
+  16  TMG  58N1174  37B    A   ORD  5.20   5.35  THIRUMANGALAM       
+
+
+  17  BCB  58N1414  10C    B   EXP  0.00   5.35  PERIYAR NAGAR       
+
+
+  18  MCB  58N1582  10L    A   SLF  0.00   5.45  TRANSPORT NAGAR     
+
+
+  19  TPK  58N1453  10Q    D   SLF  5.45   5.50  ECHANERI            
+
+
+  20  MCB  58N2218  56A    A   EXP  0.00   5.50  NALLUR              
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  MCB  58N1577  76     A   SLF  0.00   5.50  KARIAPATTI          
+
+
+  22  MCB  58N1548  39D    A   SLF  0.00   5.50  MANKULAM            
+
+
+  23  MCB  58N1581  76G    B   SLF  0.00   5.55  ALLIKKULAM          
+
+
+  24  TPK  58N2062  72/    A   ORD  0.00   5.55  KOODAKOVIL          
+
+
+  25  MCB  58N1578  76W    E   SLF  0.00   6.00  MANTHOPPU           
+
+
+  26  TPK  58N1400  72C    C   EXP  6.00   6.05  T.PUDUPATTI         
+
+
+  27  TPK  58N1318  76C    A   EXP  5.55   6.05  K.KARISALKULAM      
+
+
+  28  TPK  58N2212  56     J   EXP  6.05   6.10  KALUVANKULAM        
+
+
+  29  MCB  58N1444  76Q    A   SLF  0.00   6.10  VAIYAMPATTI         
+
+
+  30  MCB  58N1431  76UT   B   SLF  0.00   6.15  THANDIYANENTHAL     
+
+
+  31  TPK  58N2056  56E    A   EXP  6.15   6.25  ELANDHAIKULAM       
+
+
+  32  TPK  58N1392  72     A   EXP  6.20   6.25  MELA UPPILIKUNDU    
+
+
+  33  TPK  58N1446  56C    C   SLF  6.20   6.30  KURANDI             
+
+
+  34  TPK  58N1398  39C    A   EXP  6.20   6.35  KEELA UPPILIKUNDU   
+
+
+  35  TPK  58N0779  72D    A   EXP  6.15   6.35  KALLANAI            
+
+
+  36  TPK  58N1391  10B    A   EXP  6.30   6.35  PARAMBUPATTI        
+
+
+  37  PON  58N2344  76     D   SLF  6.15   6.40  KARIAPATTI          
+
+
+  38  PON  58N1728  76     G   EXP  6.25   6.40  ELUPPANKULAM        
+
+
+  39  TMG  58N1193  37BK   B   ORD  6.30   6.45  THIRUMANGALAM       
+
+
+  40  TPK  58N1320  76A    A   EXP  6.40   6.45  MUSTAKURUCHI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  TPK  58N1508  76N    C   SLF  6.40   6.50  PALLAVARENDHAL      
+
+
+  42  TPK  58N1370  37A    A   EXP  6.45   6.50  KOMBADI             
+
+
+  43  TPK  58N2193  10K    N   EXP  6.45   6.50  K.VALAYAPATTI       
+
+
+  44  KRI  58N0407  K1K    A   EXP  6.00   6.55  KAMBIKUDI           
+
+
+  45  KPI  58N0407  76B    A   EXP  6.00   7.00  KAMBIKUDI           
+
+
+  46  MCB  58N1582  10L    A   SLF  6.50   7.05  TRANSPORT NAGAR     
+
+
+  47  TPK  58N1453  39B    D   SLF  6.55   7.05  ARASAKULAM          
+
+
+  48  PON  58N1733  76D    C   SLF  6.40   7.05  D.KADAMBANKULAM     
+
+
+  49  ENR  58N1775  56     A   EXP  6.55   7.10  KALUVANKULAM        
+
+
+  50  TPK  58N1401  72E    A   EXP  7.00   7.15  THOOMBAKULAM        
+
+
+  51  TPK  58N2054  37C    A   EXP  6.45   7.15  KOODAKOVIL          
+
+
+  52  BCB  58N1414  10C    B   EXP  7.00   7.15  PERIYAR NAGAR       
+
+
+  53  TMG  58N1858  37BK   C   ORD  7.10   7.20  THIRUMANGALAM       
+
+
+  54  MCB  58N1623  37C    C   SLF  7.10   7.20  KOODAKOVIL          
+
+
+  55  PON  58N1800  39     A   SLF  7.15   7.25  AVIYUR              
+
+
+  56  TPK  58N1416  56B    B   EXP  7.00   7.25  SARIPUDUKOTTAI      
+
+
+  57  TPK  58N1373  39A    A   EXP  7.20   7.25  KURANDI             
+
+
+  58  TPK  58N1285  56/    D   EXP  7.20   7.35  KUTHIRAIKUTHI       
+
+
+  59  MCB  58N1580  76     I   SLF  7.25   7.40  KARIAPATTI          
+
+
+  60  PON  58N1708  10BX   I   SLF  7.45   7.50  S.N.COLLEGE         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  TPK  58N2062  10C/   A   ORD  7.45   7.55  PERIYAR NAGAR       
+
+
+  62  MCB  58N1577  76     A   SLF  7.45   8.00  KARIAPATTI          
+
+
+  63  TPK  58N2212  56     J   EXP  7.55   8.00  KALUVANKULAM        
+
+
+  64  TPK  58N2193  76V    N   EXP  8.00   8.05  VEPPANKULAM         
+
+
+  65  TPK  58N1391  10B    A   EXP  7.45   8.05  S.N.COLLEGE         
+
+
+  66  TPK  58N2056  10A    A   EXP  8.05   8.10  AIRPORT             
+
+
+  67  TMG  58N1174  37B    A   ORD  8.05   8.10  THIRUMANGALAM       
+
+
+  68  MCB  58N2218  56A    A   EXP  7.40   8.10  NALLUR              
+
+
+  69  MCB  58N1548  10F    A   SLF  7.50   8.10  VALAYANKULAM        
+
+
+  70  KPI  58N0275  10N    A   EXP  8.10   8.15  SHOLA.SAMATHUVAPURAM
+
+
+  71  MCB  58N1582  10L    A   SLF  8.20   8.25  TRANSPORT NAGAR     
+
+
+  72  TPK  58N1398  39B    A   EXP  8.20   8.25  ARASAKULAM          
+
+
+  73  TPK  58N1392  72     A   EXP  8.20   8.25  MELA UPPILIKUNDU    
+
+
+  74  TPK  58N1318  76E    A   EXP  8.25   8.30  THODUVANPATTI       
+
+
+  75  MCB  58N1568  76     A   SLF  8.25   8.35  KARIAPATTI          
+
+
+  76  PON  58N2344  76     D   SLF  8.35   8.40  KARIAPATTI          
+
+
+  77  TPK  58N1446  10RX   C   SLF  8.40   8.45  SERMA.VASAN COLLEGE 
+
+
+  78  TPK  58N1370  76     A   EXP  8.40   8.45  KARIAPATTI          
+
+
+  79  BCB  58N1414  10C/   B   EXP  8.40   8.45  SERMA.VASAN COLLEGE 
+
+
+  80  TPK  58N0779  72DX   A   EXP  8.30   8.50  KALLANAI PUDUR      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  TPK  58N1375  10B    B   EXP  8.40   8.50  PARABUPATTI         
+
+
+  82  MCB  58N1581  76     B   SLF  8.50   8.55  KARIAPATTI          
+
+
+  83  TPK  58N1453  10RX   D   SLF  8.55   9.00  SERMA.VASAN COLLEGE 
+
+
+  84  PON  58N1733  76     C   SLF  8.55   9.00  KARIAPATTI          
+
+
+  85  TPK  58N1285  10M    D   EXP  9.00   9.05  CO-OPERATIVE COLLEGE
+
+
+  86  ENR  58N1775  56     A   EXP  9.00   9.05  KALUVANKULAM        
+
+
+  87  TPK  58N1320  76R    A   EXP  9.00   9.05  MELAKALLANKULAM     
+
+
+  88  PON  58N1689  76     H   SLF  8.55   9.10  KARIAPATTI          
+
+
+  89  KPI  58N0407  76     A   EXP  9.05   9.10  KARIAPATTI          
+
+
+  90  TPK  58N2054  37     A   EXP  9.10   9.15  CHINNA ULAGANI      
+
+
+  91  MCB  58N1578  10R    E   SLF  9.00   9.15  MANDELA NAGAR       
+
+
+  92  ENR  58N1372  10R    D   EXP  9.05   9.15  MANDELA NAGAR       
+
+
+  93  PON  58N1728  76F/   G   EXP  9.05   9.15  ELUPPANKULAM        
+
+
+  94  PON  58N2336  76     L   SLF  9.15   9.20  KARIAPATTI          
+
+
+  95  TPK  58N1391  10B    A   EXP  9.15   9.20  PARAMBUPATTI        
+
+
+  96  TPK  58N2056  10A    A   EXP  9.20   9.25  AIRPORT             
+
+
+  97  MCB  58N1431  76L    B   SLF  9.20   9.25  CHITHUMOONDRUDAIPPU 
+
+
+  98  TPK  58N2062  10C    A   ORD  9.20   9.30  PERIYAR NAGAR       
+
+
+  99  MCB  58N1623  76     C   SLF  9.15   9.30  KARIAPATTI          
+
+
+ 100  KPI  58N0275  76     A   EXP  9.25   9.30  KARIAPATTI          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  TPK  58N1416  39C    B   EXP  9.30   9.35  KEELA UPPILIKUNDU   
+
+
+ 102  TPK  58N1373  47B    A   EXP  9.30   9.35  KONTHAGAI           
+
+
+ 103  MCB  58N1580  76     I   SLF  9.35   9.40  KARIAPATTI          
+
+
+ 104  TMG  58N1858  37BK   C   ORD  9.30   9.45  THIRUMANGALAM       
+
+
+ 105  TPK  58N1334  10A    M   ORD  9.40   9.45  AIRPORT             
+
+
+ 106  MCB  58N1582  10L    A   SLF  9.35   9.55  TRANSPORT NAGAR     
+
+
+ 107  MCB  58N1577  76     A   SLF  9.55  10.00  KARIAPATTI          
+
+
+ 108  TPK  58N1356  10     A   ORD 10.00  10.05  AVANIAPURAM         
+
+
+ 109  BCB  58N1693  76G    A   SLF  9.45  10.05  ALLIKKULAM          
+
+
+ 110  TPK  58N1400  72C    C   EXP 10.00  10.05  T.PUDUPATTI         
+
+
+ 111  KPI  58N0619  76     A   EXP 10.00  10.05  KARIAPATTI          
+
+
+ 112  TPK  58N2212  76     J   EXP  9.55  10.10  KARIAPATTI          
+
+
+ 113  MCB  58N1548  39B    A   SLF  9.15  10.10  ARASAKULAM          
+
+
+ 114  BCB  58N1414  10C    B   EXP 10.05  10.10  PERIYAR NAGAR       
+
+
+ 115  TPK  58N1453  10R    D   SLF 10.15  10.20  MANDELA NAGAR       
+
+
+ 116  TMG  58N1193  37B    B   ORD 10.05  10.20  THIRUMANGALAM       
+
+
+ 117  MCB  58N2218  56A    A   EXP 10.05  10.20  NALLUR              
+
+
+ 118  MCB  58N1444  76     A   SLF  6.10  10.20  KARIAPATTI          
+
+
+ 119  MCB  58N1578  76     E   SLF 10.15  10.30  KARIAPATTI          
+
+
+ 120  TPK  58N1318  76C    A   EXP 10.35  10.40  K.KARISALKULAM      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 121  MCB  58N1568  76     A   SLF 10.30  10.40  KARIAPATTI          
+
+
+ 122  ENR  58N1372  10R    D   EXP 10.15  10.40  MANDELA NAGAR       
+
+
+ 123  TPK  58N1446  56C    C   SLF 10.00  10.50  KURANDI             
+
+
+ 124  TPK  58N1285  56/    D   EXP 10.30  10.50  KUTHIRAIKUTHI       
+
+
+ 125  TPK  58N1392  72     A   EXP 10.30  10.50  MELA UPPILIKUNDU    
+
+
+ 126  PON  58N2344  76     D   SLF 10.35  10.50  KARIAPATTI          
+
+
+ 127  TPK  58N2193  10K    N   EXP 10.35  10.50  K.VALAYAPATTI       
+
+
+ 128  TPK  58N1334  10A    M   ORD 10.50  10.55  AIRPORT             
+
+
+ 129  TPK  58N0779  72D    A   EXP 10.55  11.00  KALLANAI            
+
+
+ 130  TPK  58N1391  10B    A   EXP 10.40  11.00  PARAMBUPATTI        
+
+
+ 131  TPK  58N1398  39D    A   EXP 10.45  11.05  MANKULAM            
+
+
+ 132  MCB  58N1581  76K    B   SLF 10.50  11.05  KALKURICHI          
+
+
+ 133  PON  58N1733  76     C   SLF 10.55  11.10  KARIAPATTI          
+
+
+ 134  MCB  58N1582  10L    A   SLF 11.10  11.15  TRANSPORT NAGAR     
+
+
+ 135  PON  58N1689  76     H   SLF 11.05  11.15  KARIAPATTI          
+
+
+ 136  KPI  58N0407  76     A   EXP 11.15  11.20  KARIAPATTI          
+
+
+ 137  TPK  58N2054  37     A   EXP 11.10  11.25  CHINNA ULAGANI      
+
+
+ 138  TPK  58N1373  39A    A   EXP 11.10  11.25  KURANDI             
+
+
+ 139  PON  58N2336  76     L   SLF 11.15  11.30  KARIAPATTI          
+
+
+ 140  ENR  58N1775  56     A   EXP 11.05  11.35  KALUVANKULAM        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 141  TPK  58N1453  10R    D   SLF 11.25  11.40  MANDELA NAGAR       
+
+
+ 142  TMG  58N1174  37B    A   ORD 11.20  11.40  THIRUMANGALAM       
+
+
+ 143  TPK  58N1416  10R    B   EXP 11.30  11.45  MANDELA NAGAR       
+
+
+ 144  MCB  58N1580  76     I   SLF 11.35  11.50  KARIAPATTI          
+
+
+ 145  BCB  58N1414  10C    B   EXP 11.35  11.50  PERIYAR NAGAR       
+
+
+ 146  MCB  58N1623  10R    C   SLF 11.35  12.00  MANDELA NAGAR       
+
+
+ 147  TPK  58N1320  76A    A   EXP 11.40  12.05  MUSTAKURUCHI        
+
+
+ 148  MCB  58N1577  76     A   SLF 11.55  12.10  KARIAPATTI          
+
+
+ 149  TPK  58N1334  10A    M   ORD 12.00  12.10  AIRPORT             
+
+
+ 150  TMG  58N1858  37B    C   ORD 12.15  12.20  THIRUMANGALAM       
+
+
+ 151  TPK  58N2212  56     J   EXP 12.05  12.20  KALUVANKULAM        
+
+
+ 152  TPK  58N2193  10R    N   EXP 12.05  12.20  MANDELA NAGAR       
+
+
+ 153  MCB  58N1548  76     A   SLF 12.15  12.20  KARIAPATTI          
+
+
+ 154  KPI  58N0619  76     A   EXP 12.10  12.20  KARIAPATTI          
+
+
+ 155  MCB  58N1431  76L    B   SLF 12.05  12.25  CHITHUMOONDRUDAIPPU 
+
+
+ 156  MCB  58N1444  76     A   SLF 12.15  12.30  KARIAPATTI          
+
+
+ 157  MCB  58N1582  10L    A   SLF 12.30  12.35  TRANSPORT NAGAR     
+
+
+ 158  MCB  58N2218  56A    A   EXP 12.15  12.35  NALLUR              
+
+
+ 159  TPK  58N1391  10B    A   EXP 12.15  12.35  PARAMBUPATTI        
+
+
+ 160  MCB  58N1578  76     E   SLF 12.25  12.40  KARIAPATTI          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 161  MCB  58N1568  10R    A   SLF 12.35  12.45  MANDELA NAGAR       
+
+
+ 162  TPK  58N1375  10L    B   EXP 12.45  12.50  TRANSPORT NAGAR     
+
+
+ 163  TPK  58N1453  10BX   D   SLF 12.45  13.00  S.N.COLLEGE         
+
+
+ 164  TMG  58N1193  37B    B   ORD 12.45  13.00  THIRUMANGALAM       
+
+
+ 165  TPK  58N1416  10R    B   EXP 12.40  13.00  MANDELA NAGAR       
+
+
+ 166  PON  58N2344  76     D   SLF 12.45  13.00  KARIAPATTI          
+
+
+ 167  KPI  58N0624  76     A   EXP 13.05  13.10  KARIAPATTI          
+
+
+ 168  KPI           76     A   EXP 13.10  13.15  KARIAPATTI          
+
+
+ 169  PON  58N1733  76     C   SLF 13.05  13.20  KARIAPATTI          
+
+
+ 170  TPK  58N1334  10A    M   ORD 13.15  13.20  AIRPORT             
+
+
+ 171  TPK  58N2193  10R    N   EXP 13.15  13.20  MANDELA NAGAR       
+
+
+ 172  PDR  58N1462  10N    A   SLF 12.30  13.25  SHOLA.SAMATHUVAPURAM
+
+
+ 173  KPI  58N0907  72C    A   EXP 13.20  13.25  T.PUDUPATTI         
+
+
+ 174  TPK  58N1398  10C    A   EXP 13.10  13.30  PERIYAR NAGAR       
+
+
+ 175  PON  58N1689  76     H   SLF 13.15  13.30  KARIAPATTI          
+
+
+ 176  PON  58N2336  76     L   SLF 13.25  13.40  KARIAPATTI          
+
+
+ 177  PON  58N1728  76F/   G   EXP 12.50  13.40  KARIAPATTI          
+
+
+ 178  TPK  58N1446  10L    C   SLF 13.15  13.50  TRANSPORT NAGAR     
+
+
+ 179  MCB  58N1568  76     A   SLF 13.40  13.50  KARIAPATTI          
+
+
+ 180  TPK  58N2054  37     A   EXP 13.10  13.55  CHINNA ULAGANI      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 181  ENR  58N1775  56     A   EXP 13.30  13.55  KALUVANKULAM        
+
+
+ 182  TPK  58N1318  76E    A   EXP 13.15  13.55  THODUVANPATTI       
+
+
+ 183  TPK  58N0779  72D    A   EXP 13.05  14.00  KALLANAI            
+
+
+ 184  MCB  58N1580  76     I   SLF 13.45  14.00  KARIAPATTI          
+
+
+ 185  TPK  58N1453  10R    D   SLF 14.05  14.10  MANDELA NAGAR       
+
+
+ 186  KPI  58N0275  76     A   EXP 14.05  14.10  KARIAPATTI          
+
+
+ 187  TPK  58N2056  10A    A   EXP 14.10  14.20  AIRPORT             
+
+
+ 188  MCB  58N1577  76     A   SLF 14.05  14.20  KARIAPATTI          
+
+
+ 189  BCB  58N1414  10C    B   EXP 13.20  14.20  PERIYAR NAGAR       
+
+
+ 190  TPK  58N1373  39A    A   EXP 13.35  14.20  KURANDI             
+
+
+ 191  PDR  58N1476  72A    A   SLF 13.48  14.25  NEDUMADURAI         
+
+
+ 192  TPK  58N1416  56B    B   EXP 13.55  14.25  SARIPUDUKOTTAI      
+
+
+ 193  TPK  58N2193  76     N   EXP 14.15  14.25  KARIAPATTI          
+
+
+ 194  MCB  58N1582  10L    A   SLF 13.50  14.30  TRANSPORT NAGAR     
+
+
+ 195  TPK  58N1334  72     M   ORD 14.25  14.30  MELA UPPILIKUNDU    
+
+
+ 196  MCB  58N1548  76     A   SLF 14.15  14.30  KARIAPATTI          
+
+
+ 197  TMG  58N1174  37B    A   ORD 14.20  14.35  THIRUMANGALAM       
+
+
+ 198  TPK  58N1391  10B    A   EXP 14.00  14.35  PARAMBUPATTI        
+
+
+ 199  TPK  58N1398  39D    A   EXP 14.35  14.40  MANKULAM            
+
+
+ 200  KPI  58N0407  76     A   EXP 14.35  14.40  KARIAPATTI          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 201  MCB  58N1444  76     A   SLF 14.25  14.45  KARIAPATTI          
+
+
+ 202  MCB  58N1581  76     B   SLF 14.00  14.50  KARIAPATTI          
+
+
+ 203  TPK  58N2212  76     J   EXP 14.10  14.55  KARIAPATTI          
+
+
+ 204  MCB  58N1578  76     E   SLF 14.35  15.00  KARIAPATTI          
+
+
+ 205  MCB  58N1623  76P    C   SLF 12.55  15.05  PAMBATTI            
+
+
+ 206  MCB  58N2218  56A    A   EXP 14.30  15.10  NALLUR              
+
+
+ 207  PON  58N2344  76     D   SLF 14.55  15.10  KARIAPATTI          
+
+
+ 208  TPK  58N1446  10RX   C   SLF 15.05  15.15  SERMA.VASAN COLLEGE 
+
+
+ 209  TPK  58N1320  76A    A   EXP 15.10  15.15  MUSTAKURUCHI        
+
+
+ 210  MCB  58N1431  76UT   B   SLF 15.00  15.15  THANDIYANENTHAL     
+
+
+ 211  TPK  58N1453  10R    D   SLF 15.05  15.20  MANDELA NAGAR       
+
+
+ 212  TMG  58N1193  37B    B   ORD 15.10  15.20  THIRUMANGALAM       
+
+
+ 213  TPK  58N2062  10C    A   ORD 13.20  15.20  PERIYAR NAGAR       
+
+
+ 214  TPK  58N1392  72     A   EXP 10.50  15.25  MELA UPPILIKUNDU    
+
+
+ 215  KPI  58N0619  76     A   EXP 15.20  15.25  KARIAPATTI          
+
+
+ 216  PON  58N1733  76     C   SLF 15.15  15.30  KARIAPATTI          
+
+
+ 217  TPK  58N1375  72D/   B   EXP 15.25  15.30  KOODAKOVIL          
+
+
+ 218  PON  58N1689  76     H   SLF 15.25  15.40  KARIAPATTI          
+
+
+ 219  MCB  58N1582  10L    A   SLF 15.40  15.45  TRANSPORT NAGAR     
+
+
+ 220  TPK  58N2054  37C    A   EXP 15.40  15.45  KOODAKOVIL          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 221  PON  58N2336  76     L   SLF 15.35  15.50  KARIAPATTI          
+
+
+ 222  BCB  58N1414  10C    B   EXP 15.45  15.50  PERIYAR NAGAR       
+
+
+ 223  TPK  58N1370  72K    A   EXP 15.30  15.55  S.KRISHNAPURAM      
+
+
+ 224  TPK  58N1391  10B    A   EXP 15.45  15.55  PARAMBUPATTI        
+
+
+ 225  PON  58N1728  76     G   EXP 15.35  15.55  ELUPPANKULAM        
+
+
+ 226  KPI  58N0907  72B    A   EXP 15.50  15.55  T.KOKKULAM          
+
+
+ 227  MCB  58N1568  76     A   SLF 15.45  16.00  KARIAPATTI          
+
+
+ 228  TPK  58N0779  72D    A   EXP 16.05  16.10  KALLANAI            
+
+
+ 229  MCB  58N1580  76     I   SLF 15.55  16.10  KARIAPATTI          
+
+
+ 230  ENR  58N1775  56     A   EXP 15.55  16.20  KALUVANKULAM        
+
+
+ 231  TPK  58N1318  76C    A   EXP 16.05  16.25  K.KARISALKULAM      
+
+
+ 232  MCB  58N1577  76     A   SLF 16.15  16.30  KARIAPATTI          
+
+
+ 233  MCB  58N1548  76     A   SLF 16.25  16.35  KARIAPATTI          
+
+
+ 234  TPK  58N1446  39A    C   SLF 16.30  16.40  KURANDI             
+
+
+ 235  TPK  58N1453  10Q    D   SLF 16.35  16.40  ECHANERI            
+
+
+ 236  TPK  58N2193  10K    N   EXP 16.20  16.40  K.VALAYAPATTI       
+
+
+ 237  KPI  58N0275  76     A   EXP 16.25  16.40  KARIAPATTI          
+
+
+ 238  TPK  58N1416  39C    B   EXP 16.30  16.50  KEELA UPPILIKUNDU   
+
+
+ 239  KPI  58N0407  76B    A   EXP 16.45  16.50  KAMBIKUDI           
+
+
+ 240  MCB  58N1444  76Q    A   SLF 16.35  16.55  VAIYAMPATTI         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 241  TPK  58N1398  39B    A   EXP 16.45  17.00  ARASAKULAM          
+
+
+ 242  PDR  58N1462  10M    A   SLF 16.40  17.00  CO-OPERATIVE COLLEGE
+
+
+ 243  MCB  58N1581  76G    B   SLF 16.45  17.00  ALLIKKULAM          
+
+
+ 244  MCB  58N1582  10L    A   SLF 17.00  17.05  TRANSPORT NAGAR     
+
+
+ 245  TMG  58N1174  37B    A   ORD 17.00  17.05  THIRUMANGALAM       
+
+
+ 246  MCB  58N1578  76W    E   SLF 17.00  17.05  MANTHOPPU           
+
+
+ 247  TPK  58N2212  56     J   EXP 17.55  17.05  KALUVANKULAM        
+
+
+ 248  MCB  58N2218  56A    A   EXP 17.00  17.10  NALLUR              
+
+
+ 249  PON  58N2344  76     D   SLF 17.05  17.10  KARIAPATTI          
+
+
+ 250  TPK  58N2062  10C/   A   ORD 17.00  17.20  PERIYAR NAGAR       
+
+
+ 251  KPI  58N1202  76     A   EXP 17.15  17.20  KARIAPATTI          
+
+
+ 252  TPK  58N1320  76R    A   EXP 17.20  17.25  MELAKALLANKULAM     
+
+
+ 253  TPK  58N1391  10B    A   EXP 17.10  17.25  PARAMBUPATTI        
+
+
+ 254  TPK  58N1401  72E    A   EXP 17.20  17.30  THOOMBAKULAM        
+
+
+ 255  PON  58N1733  76     C   SLF 17.25  17.30  KARIAPATTI          
+
+
+ 256  TPK  58N1392  72     A   EXP 17.30  17.35  MELA UPPILIKUNDU    
+
+
+ 257  PON  58N1689  76     H   SLF 17.35  17.40  KARIAPATTI          
+
+
+ 258  BCB  58N1414  10C    B   EXP 17.20  17.40  PERIYAR NAGAR       
+
+
+ 259  PON  58N2336  76     L   SLF 17.45  17.50  KARIAPATTI          
+
+
+ 260  MCB  58N1623  76/    C   SLF 17.45  17.55  PARAPATHI           
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 261  TPK  58N1453  10R    D   SLF 17.55  18.00  MANDELA NAGAR       
+
+
+ 262  TPK  58N2193  10K    N   EXP 17.50  18.00  K.VALAYAPATTI       
+
+
+ 263  BCB  58N1693  10R    A   SLF 18.05  18.10  MANDELA NAGAR       
+
+
+ 264  MCB  58N1580  76     I   SLF 18.05  18.10  KARIAPATTI          
+
+
+ 265  TPK  58N1373  39A    A   EXP 18.05  18.10  KURANDI             
+
+
+ 266  KPI  58N0619  76     A   EXP 18.10  18.15  KARIAPATTI          
+
+
+ 267  ENR  58N1775  56     A   EXP 18.15  18.20  KALUVANKULAM        
+
+
+ 268  MCB  58N1431  76L    B   SLF 18.15  18.20  CHITHUMOONDRUDAIPPU 
+
+
+ 269  TMG  58N1858  37BK   C   ORD 18.15  18.25  THIRUMANGALAM       
+
+
+ 270  PDR  58N1462  10N    A   SLF 18.20  18.25  SHOLA.SAMATHUVAPURAM
+
+
+ 271  PON  58N1728  10R    G   EXP 18.20  18.25  ELUPPANKULAM        
+
+
+ 272  TPK  58N1356  10     A   ORD 18.25  18.30  AVANIAPURAM         
+
+
+ 273  MCB  58N1577  76     A   SLF 18.25  18.30  KARIAPATTI          
+
+
+ 274  TPK  58N2056  10A    A   EXP 18.30  18.35  AIRPORT             
+
+
+ 275  TPK  58N2054  37     A   EXP 17.40  18.40  CHINNA ULAGANI      
+
+
+ 276  TPK  58N1416  56B    B   EXP 18.45  18.50  SARIPUDUKOTTAI      
+
+
+ 277  MCB  58N1548  39D    A   SLF 18.35  18.50  MANKULAM            
+
+
+ 278  MCB  58N1582  10L    A   SLF 18.20  18.55  TRANSPORT NAGAR     
+
+
+ 279  TPK  58N2062  10C    A   ORD 17.20  18.55  PERIYAR NAGAR       
+
+
+ 280  TPK  58N1391  10B    A   EXP 18.45  18.55  PARAMBUPATTI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 281  TPK  58N1446  56C    C   SLF 18.40  19.00  KURANDI             
+
+
+ 282  TPK  58N2212  56     J   EXP 18.50  19.05  KALUVANKULAM        
+
+
+ 283  TPK  58N1318  76C    A   EXP 18.50  19.05  K.KARISALKULAM      
+
+
+ 284  TPK  58N1453  10R    D   SLF 19.05  19.10  MANDELA NAGAR       
+
+
+ 285  TPK  58N1370  76     A   EXP 18.40  19.10  KARIAPATTI          
+
+
+ 286  TMG  58N1193  37B    B   ORD 18.45  19.10  THIRUMANGALAM       
+
+
+ 287  MCB  58N1568  76K    A   SLF 18.55  19.10  KALKURICHI          
+
+
+ 288  TPK  58N1508  76N    C   SLF 19.05  19.15  PALLAVARENDHAL      
+
+
+ 289  BCB  58N1414  10C    B   EXP 19.10  19.15  PERIYAR NAGAR       
+
+
+ 290  TPK  58N1375  72K    B   EXP 15.30  19.15  S.KRISHNAPURAM      
+
+
+ 291  KPI  58N0407  76H    A   EXP 18.55  19.15  MARUTHANGUDI        
+
+
+ 292  PON  58N2344  76     D   SLF 19.05  19.20  KARIAPATTI          
+
+
+ 293  BCB  58N1693  76     A   SLF 19.05  19.25  KARIAPATTI          
+
+
+ 294  TPK  58N2193  76V    N   EXP 19.15  19.30  VEPPANKULAM         
+
+
+ 295  KPI  58N0907  72B    A   EXP 19.10  19.30  T.KOKKULAM          
+
+
+ 296  KPI           76     A   EXP 19.25  19.30  KARIAPATTI          
+
+
+ 297  TPK  58N1398  39C    A   EXP 19.05  19.35  KEELA UPPILIKUNDU   
+
+
+ 298  MCB  58N2218  56A    A   EXP 19.05  19.35  NALLUR              
+
+
+ 299  PON  58N1733  76D    C   SLF 19.25  19.40  D.KADAMBANKULAM     
+
+
+ 300  TPK  58N0779  72DX   A   EXP 19.40  19.45  KALLANAI PUDUR      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 301  TPK  58N1401  39     A   EXP 19.35  19.50  AVIYUR              
+
+
+ 302  PON  58N1689  76     H   SLF 19.35  19.50  KARIAPATTI          
+
+
+ 303  KPI  58N0624  76     A   EXP 19.45  19.50  KARIAPATTI          
+
+
+ 304  MCB  58N1623  76J    C   SLF 19.40  19.55  KAZHUVANACHERI      
+
+
+ 305  TKP  58N1276  37B    D   EXP 19.50  19.55  THIRUMANGALAM       
+
+
+ 306  TPK  58N2056  56E    A   EXP 19.40  20.00  ELANDHAIKULAM       
+
+
+ 307  TPK  58N1392  72     A   EXP 19.40  20.00  MELA UPPILIKUNDU    
+
+
+ 308  PON  58N2336  76     L   SLF 19.45  20.00  KARIAPATTI          
+
+
+ 309  TPK  58N1400  72C    C   EXP 19.35  20.05  T.PUDUPATTI         
+
+
+ 310  MCB  58N1581  76K    B   SLF 19.55  20.05  KALKURICHI          
+
+
+ 311  MCB  58N1582  10L    A   SLF 20.10  20.15  TRANSPORT NAGAR     
+
+
+ 312  TPK  58N1320  76A    A   EXP 20.00  20.15  MUSTAKURUCHI        
+
+
+ 313  TPK  58N1391  10B    A   EXP 20.05  20.15  PARAMBUPATTI        
+
+
+ 314  TPK  58N1453  10R    D   SLF 20.15  20.20  MANDELA NAGAR       
+
+
+ 315  MCB  58N1580  76     I   SLF 20.05  20.20  KARIAPATTI          
+
+
+ 316  TPK  58N1373  39A    A   EXP 20.15  20.20  KURANDI             
+
+
+ 317  TMG  58N1174  37B    A   ORD 20.00  20.25  THIRUMANGALAM       
+
+
+ 318  TPK  58N2062  10C    A   ORD 20.20  20.30  PERIYAR NAGAR       
+
+
+ 319  KPI  58N0619  76     A   EXP 20.25  20.30  KARIAPATTI          
+
+
+ 320  ENR  58N1775  56     A   EXP 20.15  20.35  KALUVANKULAM        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 321  MCB  58N1578  10R    E   SLF 20.10  20.35  MANDELA NAGAR       
+
+
+ 322  TPK  58N2054  37     A   EXP 20.25  20.40  CHINNA ULAGANI      
+
+
+ 323  MCB  58N1577  76     A   SLF 20.25  20.45  KARIAPATTI          
+
+
+ 324  TPK  58N1285  10L    D   EXP 20.45  20.50  TRANSPORT NAGAR     
+
+
+ 325  MCB  58N1444  39D    A   SLF 20.00  20.50  MANKULAM            
+
+
+ 326  BCB  58N1414  10C    B   EXP 20.45  20.50  PERIYAR NAGAR       
+
+
+ 327  TMG  58N1858  37B    C   ORD 20.55  21.00  THIRUMANGALAM       
+
+
+ 328  PON  58N1728  76     G   EXP 20.50  21.00  NEDUMADURAI         
+
+
+ 329  KPI  58N1104  76     A   EXP 20.40  21.00  KARIAPATTI          
+
+
+ 330  MCB  58N1548  10F    A   SLF 21.05  21.10  VALAYANKULAM        
+
+
+ 331  TPK  58N2212  56     J   EXP 20.55  21.15  KALUVANKULAM        
+
+
+ 332  MCB  58N1431  76L    B   SLF 20.55  21.15  CHITHUMOONDRUDAIPPU 
+
+
+ 333  BCB  58N1693  76     A   SLF 21.15  21.20  KARIAPATTI          
+
+
+ 334  KPI  58N1202  76     A   EXP 21.10  21.20  KARIAPATTI          
+
+
+ 335  TPK  58N1334  10A    M   ORD 21.15  21.30  AIRPORT             
+
+
+ 336  KPI  58N0275  76     A   EXP 21.15  21.30  KARIAPATTI          
+
+
+ 337  KPI  58N      76     A   EXP  0.00  21.30  KARIAPATTI          
+
+
+ 338  MCB  58N1582  10L    A   SLF 21.30  21.35  TRANSPORT NAGAR     
+
+
+ 339  TPK  58N1453  10R    D   SLF 21.25  21.35  MANDELA NAGAR       
+
+
+ 340  TMG  58N1193  37B    B   ORD 21.30  21.35  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KARIAPATTI         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 341  MCB  58N2218  56A    A   EXP 21.30  21.35  NALLUR              
+
+
+ 342  MCB  58N1578  76     E   SLF 21.30  21.45  KARIAPATTI          
+
+
+ 343  TPK  58N1391  10B    A   EXP 21.30  21.50  PARAMBUPATTI        
+
+
+ 344  KPI  58N0907  72C    A   EXP 21.35  21.50  T.PUDUPATTI         
+
+
+ 345  TPK  58N2062  10C    A   ORD 21.55  22.00  PERIYAR NAGAR       
+
+
+ 346  PON  58N2344  76     D   SLF 21.15  22.10  KARIAPATTI          
+
+
+ 347  TPK  58N2193  10H    N   EXP 22.00  22.15  TPKUNDRAM           
+
+
+ 348  KPI  58N0407  76     A   EXP 22.10  22.30  KARIAPATTI          
+
+
+ 349  BCB  58N2050  10N    A   EXP 22.20  22.35  SHOLA.SAMATHUVAPURAM
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

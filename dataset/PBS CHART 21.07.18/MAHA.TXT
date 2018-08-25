@@ -1,0 +1,389 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          VIA - MAHATHMANAGAR      
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  PON  58N1795  7/     F   SLF  0.00   4.10  ARAPPALAYAM         
+
+
+   2  ENR  58N1450  7/     B   SLF  0.00   4.40  ARAPPALAYAM         
+
+
+   3  PON  58N2217  95B    A   SLF  0.00   5.00  T.KOZHINJIPATTI     
+
+
+   4  PON  58N1702  7/     E   SLF  0.00   5.10  ARAPPALAYAM         
+
+
+   5  BCB  58N1715  7/     A   SLF  0.00   5.15  ARAPPALAYAM         
+
+
+   6  BCB  58N1417  7/     J   EXP  0.00   5.15  ARAPPALAYAM         
+
+
+   7  PON  58N1708  7/     I   SLF  0.00   5.23  ARAPPALAYAM         
+
+
+   8  USI  58N1634  7/     F   SLF  0.00   5.35  ARAPPALAYAM         
+
+
+   9  BCB  58N1417  7/     J   EXP  5.45   5.50  ARAPPALAYAM         
+
+
+  10  ENR  58N2038  7/     B   EXP  0.00   5.55  ARAPPALAYAM         
+
+
+  11  BCB  58N1771  7/     B   SLF  6.13   6.15  ARAPPALAYAM         
+
+
+  12  USI  58N1584  7/     D   SLF  0.00   6.40  ARAPPALAYAM         
+
+
+  13  BCB  58N1723  C2/    A   SLF  7.10   7.45  TNSTC H.O.          
+
+
+  14  PON  58N1792  7/     D   SLF  8.45   8.50  ARAPPALAYAM         
+
+
+  15  PDR  58N1476  2L/    A   SLF  8.50   8.55  RAGHAVENDRA NAGAR   
+
+
+  16  TPK  58N2080  7/     A   SLF  0.00   9.00  ARAPPALAYAM         
+
+
+  17  BCB  58N2050  2E/    A   EXP  9.25   9.30  ELLIS NAGAR         
+
+
+  18  MCB  58N1444  7/     A   SLF  9.10   9.30  ARAPPALAYAM         
+
+
+  19  BCB  58N0757  C2/    A   EXP  9.15   9.42  TNSTC H.O.          
+
+
+  20  TPM  58N1098  7/     A   LSS  9.45   9.50  ARAPPALAYAM         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - MAHATHMANAGAR      
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  MCB  58N1426  7/     A   EXP  9.40   9.55  ARAPPALAYAM         
+
+
+  22  BCB  58N1757  7/     F   SLF  9.50  10.00  ARAPPALAYAM         
+
+
+  23  PON  58N1809  7/     C   SLF  0.00  10.10  ARAPPALAYAM         
+
+
+  24  ENR  58N1467  7/     A   SLF 10.18  10.20  ARAPPALAYAM         
+
+
+  25  MCB  58N1624  7/     A   SLF  0.00  10.20  ARAPPALAYAM         
+
+
+  26  PON  58N2217  7/     A   SLF 10.05  10.25  ARAPPALAYAM         
+
+
+  27  TPM  58N1953  7/     A   LSS 10.20  10.30  ARAPPALAYAM         
+
+
+  28  BCB  58N0744  3H/    A   EXP 10.25  10.35  ELLIS NAGAR         
+
+
+  29  BCB  58N1359  7/     B   EXP 10.40  11.00  ARAPPALAYAM         
+
+
+  30  CNI  58N0990  7/     A   EXP 10.35  11.00  ARAPPALAYAM         
+
+
+  31  TPK  58N2062  72B    A   ORD 10.55  11.15  T.KOKKULAM          
+
+
+  32  MCB  58N1339  7/     A   EXP 11.10  11.20  ARAPPALAYAM         
+
+
+  33  BCB  58N1805  7/     A   SLF 10.45  11.20  ARAPPALAYAM         
+
+
+  34  ENR  58N1352  7/     A   EXP 11.25  11.30  ARAPPALAYAM         
+
+
+  35  TPK  58N1370  7/     A   EXP 11.55  12.05  ARAPPALAYAM         
+
+
+  36  MCB  58N1618  7/     A   SLF 12.10  12.25  ARAPPALAYAM         
+
+
+  37  TPM  58N1928  7/     D   LSS 12.15  12.30  ARAPPALAYAM         
+
+
+  38  BCB  58N0744  3H/    A   EXP 12.40  12.45  ELLIS NAGAR         
+
+
+  39  PON  58N1801  7/     Q   SLF 12.40  12.45  ARAPPALAYAM         
+
+
+  40  TPK  58N1400  7/     C   EXP 12.45  12.50  ARAPPALAYAM         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - MAHATHMANAGAR      
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  CNI  58N1895  7/     A   EXP  0.00  13.00  ARAPPALAYAM         
+
+
+  42  MCB  58N1624  7/     A   SLF 13.00  13.05  ARAPPALAYAM         
+
+
+  43  PON  58N1309  2E/    A   EXP 13.25  13.30  ELLIS NAGAR         
+
+
+  44  BCB  58N2050  2E/    A   EXP 13.45  13.50  ELLIS NAGAR         
+
+
+  45  BCB  58N0744  3H/    A   EXP 13.50  13.55  ELLIS NAGAR         
+
+
+  46  PON  58N1751  7/     C   SLF 13.50  14.00  ARAPPALAYAM         
+
+
+  47  PON  58N1801  7/     Q   SLF 13.45  14.15  ARAPPALAYAM         
+
+
+  48  BCB  58N1802  2E/    H   EXP 14.15  14.20  ELLIS NAGAR         
+
+
+  49  PON  58N1809  7/     C   SLF 10.55  14.30  ARAPPALAYAM         
+
+
+  50  TPK  58N1392  7/     A   EXP 13.55  14.40  ARAPPALAYAM         
+
+
+  51  BCB  58N1424  7/     A   EXP 14.30  14.40  ARAPPALAYAM         
+
+
+  52  BCB  58N1424  7/     A   EXP 15.05  15.10  ARAPPALAYAM         
+
+
+  53  BCB  58N1757  7/     F   SLF 15.40  15.45  ARAPPALAYAM         
+
+
+  54  ENR  58N1380  7/     C   EXP 15.50  16.10  ARAPPALAYAM         
+
+
+  55  MCB  58N1603  7/     A   SLF  0.00  16.20  ARAPPALAYAM         
+
+
+  56  MCB  58N1603  7/     A   SLF 16.45  16.55  ARAPPALAYAM         
+
+
+  57  BCB  58N0757  2ET    A   EXP 17.00  17.20  TNSTC H.O.          
+
+
+  58  ENR  58N2038  7/     B   EXP 17.20  17.25  ARAPPALAYAM         
+
+
+  59  BCB  58N1757  100    F   SLF 17.30  17.35  TNSTC H.O.          
+
+
+  60  MCB  58N1426  7/     A   EXP 17.15  17.35  ARAPPALAYAM         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - MAHATHMANAGAR      
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  PON  58N1321  7/     A   EXP  0.00  17.50  ARAPPALAYAM         
+
+
+  62  ENR  58N0599  2E/    A   EXP 17.50  18.00  ELLIS NAGAR         
+
+
+  63  TPM  58N1279  4B     B   EXP 18.05  18.10  ARAPPALAYAM         
+
+
+  64  BCB  58N1757  7/     F   SLF 18.20  18.30  ARAPPALAYAM         
+
+
+  65  ENR  58N1380  7/     C   EXP 18.30  18.40  ARAPPALAYAM         
+
+
+  66  BCB  58N1347  7/     A   EXP 18.15  18.45  ARAPPALAYAM         
+
+
+  67  MCB  58N1603  7/     A   SLF 18.40  18.45  ARAPPALAYAM         
+
+
+  68  PON  58N2027  7/     C   EXP 18.45  18.50  ARAPPALAYAM         
+
+
+  69  CNI  58N1837  7/     A   EXP 18.55  19.05  ARAPPALAYAM         
+
+
+  70  PON  58N1809  7/     C   SLF 16.10  19.05  ARAPPALAYAM         
+
+
+  71  CNI  58N0990  7/     A   EXP 19.05  19.15  ARAPPALAYAM         
+
+
+  72  PON  58N2217  7/     A   SLF 19.20  19.25  ARAPPALAYAM         
+
+
+  73  PON  58N2048  7/     G   EXP 19.30  19.35  ARAPPALAYAM         
+
+
+  74  ENR  58N1352  7/     A   EXP 19.40  19.45  ARAPPALAYAM         
+
+
+  75  PDR  58N1389  7/     B   EXP 20.15  20.20  ARAPPALAYAM         
+
+
+  76  BCB  58N1427  100    A   EXP 20.30  20.35  BCB(DEPOT)          
+
+
+  77  BCB  58N1290  100    A   EXP 21.20  21.22  BCB(DEPOT)          
+
+
+  78  BCB  58N1677  100    A   EXP 21.35  21.40  BCB(DEPOT)          
+
+
+  79  BCB  58N0744  3H/    A   EXP 21.40  21.45  ELLIS NAGAR         
+
+
+  80  BCB  58N2050  2E/    A   EXP 21.30  21.45  ELLIS NAGAR         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - MAHATHMANAGAR      
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  ENR  58N1612  2E/    B   SLF 21.45  21.50  ELLIS NAGAR         
+
+
+  82  BCB  58N1424  2E/    A   EXP 21.50  21.52  ELLIS NAGAR         
+
+
+  83  MCB  58N1603  7/     A   SLF 19.10  21.55  ARAPPALAYAM         
+
+
+  84  TPM  58N1928  7/     D   LSS 21.30  22.00  ARAPPALAYAM         
+
+
+  85  BCB  58N0757  100    A   EXP 22.00  22.05  BCB(DEPOT)          
+
+
+  86  BCB  58N1423  100    A   EXP 22.00  22.05  BCB(DEPOT)          
+
+
+  87  BCB  58N2199  100    A   EXP  0.00  22.05  BCB(DEPOT)          
+
+
+  88  ENR  58N2200  7/     A   EXP 22.00  22.05  ARAPPALAYAM         
+
+
+  89  BCB  58N0761  100    A   EXP 22.10  22.10  BCB(DEPOT)          
+
+
+  90  BCB  58N1316  100    A   EXP 22.05  22.10  BCB(DEPOT)          
+
+
+  91  BCB  58N1748  2EX    B   SLF 22.10  22.15  BCB(DEPOT)          
+
+
+  92  BCB  58N1301  73/    A   EXP 22.12  22.15  BCB(DEPOT)          
+
+
+  93  BCB  58N1774  100    B   EXP 22.10  22.15  BCB(DEPOT)          
+
+
+  94  BCB  58N1776  100    A   EXP 22.15  22.15  BCB(DEPOT)          
+
+
+  95  BCB  58N1732  100    B   SLF 22.23  22.25  BCB(DEPOT)          
+
+
+  96  BCB  58N1291  100    A   EXP 22.20  22.25  BCB(DEPOT)          
+
+
+  97  BCB  58N1399  100    A   EXP 22.25  22.30  BCB(DEPOT)          
+
+
+  98  BCB  58N1712  100    A   EXP 22.27  22.30  BCB(DEPOT)          
+
+
+  99  BCB  58N1359  100    B   EXP 22.30  22.35  BCB(DEPOT)          
+
+
+ 100  BCB  58N0675  100    A   EXP 22.35  22.37  BCB(DEPOT)          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - MAHATHMANAGAR      
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  BCB  58N1292  100    B   EXP 22.40  22.42  BCB(DEPOT)          
+
+
+ 102  BCB  58N2185  100    C   EXP 22.45  22.47  BCB(DEPOT)          
+
+
+ 103  BCB  58N1306  100    A   EXP 22.50  22.52  BCB(DEPOT)          
+
+
+ 104  BCB  58N1422  2ET    A   EXP 22.50  22.52  BCB(DEPOT)          
+
+
+ 105  BCB  58N1371  100    B   EXP 22.55  22.55  BCB(DEPOT)          
+
+
+ 106  BCB  58N1393  100    B   EXP 23.00  23.02  BCB(DEPOT)          
+
+
+ 107  BCB  58N1330  100    A   EXP 23.05  23.07  BCB(DEPOT)          
+
+
+ 108  BCB  58N1802  2E/    H   EXP 23.10  23.15  ELLIS NAGAR         
+
+
+ 109  BCB  58N1418  100    D   EXP 23.15  23.17  BCB(DEPOT)          
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

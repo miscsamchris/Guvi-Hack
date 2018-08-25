@@ -1,0 +1,316 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          VIA - THEPPAKULAM        
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  PON  58N2043  4A     A   SLF  0.00   5.00  ANUPPANADI          
+
+
+   2  BCB  58N1723  4A     A   SLF  0.00   5.00  ANUPPANADI          
+
+
+   3  BCB  58N1721  4C/C4  E   SLF  0.00   5.10  M.G.R.BUSSTAND      
+
+
+   4  PON  58N1746  4C/C4  H   SLF  0.00   5.20  M.G.R.BUSSTAND      
+
+
+   5  TPK  58N2054  4K/    A   EXP  5.33   5.35  MELA ANUPPANADI     
+
+
+   6  BCB  58N1399  4P     A   EXP  5.45   5.50  PANAIYUR            
+
+
+   7  PON  58N2048  4X     G   EXP  0.00   6.00  THEPPAKULAM         
+
+
+   8  PON  58N1707  4A     A   SLF  0.00   6.00  ANUPPANADI          
+
+
+   9  BCB  58N1393  4H     B   EXP  6.00   6.05  VANDIYUR            
+
+
+  10  PON  58N1335  4A     B   SLF  0.00   6.45  ANUPPANADI          
+
+
+  11  PDR  58N1321  4H     E   EXP  7.00   7.05  VANDIYUR            
+
+
+  12  BCB  58N1399  4P     A   EXP  7.00   7.20  PANAIYUR            
+
+
+  13  BCB  58N1393  4H     B   EXP  7.20   7.25  VANDIYUR            
+
+
+  14  PDR  58N1321  4H     E   EXP  8.30   8.35  VANDIYUR            
+
+
+  15  BCB  58N1765  4B     F   SLF  8.30   8.40  VIRAHANUR RINGROAD  
+
+
+  16  BCB  58N1399  4P     A   EXP  8.35   8.40  PANAIYUR            
+
+
+  17  MCB  58N1624  4AK/   A   SLF  8.40   8.45  CHINNA KANMAI       
+
+
+  18  BCB  58N1393  4H     B   EXP  8.50   8.55  VANDIYUR            
+
+
+  19  SVN  58N1536  4B     A   SLF  9.10   9.15  VIRAHANUR RINGROAD  
+
+
+  20  PON  58N1811  4AA    C   SLF  9.15   9.20  ANUPPANADI          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - THEPPAKULAM        
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  TPM  58N1499  32B/   E   EXP  9.00   9.20  THIRUPPUVANAM       
+
+
+  22  TPK  58N1401  4PC    A   EXP  9.20   9.25  CHINNA KANMAI       
+
+
+  23  PDR  58N1321  4H     E   EXP  9.50   9.55  VANDIYUR            
+
+
+  24  BCB  58N1399  4P     A   EXP  9.55  10.00  PANAIYUR            
+
+
+  25  PON  58N2048  4X     G   EXP  6.00  10.15  THEPPAKULAM         
+
+
+  26  BCB  58N1393  4H     B   EXP 10.10  10.15  VANDIYUR            
+
+
+  27  PON  58N2043  4A     A   SLF 10.15  10.20  ANUPPANADI          
+
+
+  28  BCB  58N1715  4VH    A   SLF 10.20  10.25  VELAMMAL HOSPITAL   
+
+
+  29  ENR  58N1380  4B     C   EXP  9.40  10.30  VIRAHANUR RINGROAD  
+
+
+  30  TPM  58N1499  32B/   E   EXP 10.45  10.55  THIRUPPUVANAM       
+
+
+  31  PDR  58N1321  4H     E   EXP 11.10  11.15  VANDIYUR            
+
+
+  32  PON  58N2043  4A     A   SLF 11.15  11.20  ANUPPANADI          
+
+
+  33  TPM  58N1267  4B     A   LSS 11.05  11.25  VIRAHANUR RINGROAD  
+
+
+  34  BCB  58N1393  4H     B   EXP 11.30  11.35  VANDIYUR            
+
+
+  35  ENR  58N1380  4B     C   EXP 11.40  11.50  VIRAHANUR RINGROAD  
+
+
+  36  BCB  58N1757  4H     F   SLF 11.55  12.00  VANDIYUR            
+
+
+  37  BCB  58N1765  4B     F   SLF 11.50  12.05  VIRAHANUR RINGROAD  
+
+
+  38  PON  58N2043  4A     A   SLF 12.15  12.20  ANUPPANADI          
+
+
+  39  BCB  58N1399  4P     A   EXP 12.40  12.55  PANAIYUR            
+
+
+  40  PDR  58N1321  4H     E   EXP 12.50  12.55  VANDIYUR            
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - THEPPAKULAM        
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  BCB  58N1393  4H     B   EXP 13.10  13.15  VANDIYUR            
+
+
+  42  PON  58N2043  4A     A   SLF 13.15  13.30  ANUPPANADI          
+
+
+  43  BCB  58N1721  4C/C4  E   SLF 13.10  13.30  M.G.R.BUSSTAND      
+
+
+  44  PON  58N1746  4C/C4  H   SLF 13.25  13.45  M.G.R.BUSSTAND      
+
+
+  45  BCB  58N1757  4H     F   SLF 13.15  14.10  VANDIYUR            
+
+
+  46  BCB  58N1399  4P     A   EXP 14.10  14.20  PANAIYUR            
+
+
+  47  PDR  58N1321  4H     E   EXP 14.10  14.20  VANDIYUR            
+
+
+  48  PON  58N1707  4A     A   SLF 14.20  14.25  ANUPPANADI          
+
+
+  49  PON  58N2043  4A     A   SLF 14.25  14.30  ANUPPANADI          
+
+
+  50  PON  58N1811  4A     C   SLF 13.15  14.30  ANUPPANADI          
+
+
+  51  TPK  58N2054  4K/    A   EXP 13.55  14.35  MELA ANUPPANADI     
+
+
+  52  BCB  58N1393  4H     B   EXP 14.30  14.40  VANDIYUR            
+
+
+  53  ENR  58N1380  4B     C   EXP 12.55  14.40  VIRAHANUR RINGROAD  
+
+
+  54  TPM  58N1499  4B     E   EXP 14.45  15.00  VIRAHANUR RINGROAD  
+
+
+  55  PON  58N2043  4A     A   SLF 15.18  15.20  ANUPPANADI          
+
+
+  56  TPM  58N1928  4F     B   EXP 15.15  15.30  VIRAHANUR DAM       
+
+
+  57  BCB  58N1399  4P     A   EXP 15.35  15.40  PANAIYUR            
+
+
+  58  PDR  58N1321  4H     E   EXP 15.35  15.40  VANDIYUR            
+
+
+  59  TPM  58N1499  32B/   E   EXP 15.45  15.55  THIRUPPUVANAM       
+
+
+  60  BCB  58N1393  4H     B   EXP 15.55  16.00  VANDIYUR            
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - THEPPAKULAM        
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  TPM  58N1267  4B     A   LSS 16.00  16.05  VIRAHANUR RINGROAD  
+
+
+  62  TPM  58N1587  4B     A   SLF 16.25  16.40  VIRAHANUR RINGROAD  
+
+
+  63  BCB  58N1399  4P     A   EXP 16.55  17.00  PANAIYUR            
+
+
+  64  BCB  58N1715  4VH    A   SLF 17.00  17.05  VELAMMAL HOSPITAL   
+
+
+  65  PDR  58N1321  4H     E   EXP 17.10  17.15  VANDIYUR            
+
+
+  66  BCB  58N1723  4A     A   SLF 17.18  17.25  ANUPPANADI          
+
+
+  67  BCB  58N1393  4H     B   EXP 17.30  17.35  VANDIYUR            
+
+
+  68  BCB  58N1715  4VH    A   SLF 18.20  18.25  VELAMMAL HOSPITAL   
+
+
+  69  BCB  58N1399  4P     A   EXP 18.15  18.30  PANAIYUR            
+
+
+  70  PDR  58N1321  4H     E   EXP 18.30  18.35  VANDIYUR            
+
+
+  71  PON  58N1811  4A     C   SLF 18.40  18.45  ANUPPANADI          
+
+
+  72  BCB  58N1765  4B     F   SLF 18.50  18.55  VIRAHANUR RINGROAD  
+
+
+  73  BCB  58N1393  4H     B   EXP 18.50  18.55  VANDIYUR            
+
+
+  74  TPM  58N1571  4B     A   SLF 18.50  19.00  VIRAHANUR RINGROAD  
+
+
+  75  TPM  58N1953  4B     A   LSS 18.45  19.00  VIRAHANUR RINGROAD  
+
+
+  76  PON  58N1792  4B     D   SLF 19.10  19.25  VIRAHANUR RINGROAD  
+
+
+  77  BCB  58N1729  4B     C   SLF 19.45  19.50  VIRAHANUR RINGROAD  
+
+
+  78  BCB  58N1715  4B     A   SLF 19.50  19.55  VIRAHANUR RINGROAD  
+
+
+  79  PDR  58N1321  4H     E   EXP 19.50  19.55  VANDIYUR            
+
+
+  80  TPM  58N1499  32B/   E   EXP 19.55  20.10  THIRUPPUVANAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - THEPPAKULAM        
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  BCB  58N1393  4H     B   EXP 20.10  20.15  VANDIYUR            
+
+
+  82  BCB  58N1383  4V     H   EXP 20.35  20.40  VALAR NAGAR         
+
+
+  83  PON  58N2043  4A     A   SLF 20.40  21.00  ANUPPANADI          
+
+
+  84  BCB  58N1715  4B     A   SLF 21.00  21.05  VIRAHANUR RINGROAD  
+
+
+  85  BCB  58N1399  4P     A   EXP 20.55  21.15  PANAIYUR            
+
+
+  86  PDR  58N1321  4H     E   EXP 21.10  21.30  VANDIYUR            
+
+
+  87  TPM  58N1499  32B/   E   EXP 21.35  21.40  THIRUPPUVANAM       
+
+
+  88  BCB  58N1393  4H     B   EXP 21.30  21.50  VANDIYUR            
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

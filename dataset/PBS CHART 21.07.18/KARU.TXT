@@ -1,0 +1,444 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          KARUPPAURANI             
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  PON  58N1751  42W    C   EXP  0.00   4.20  RAJAKKUR PERIYAR NGR
+
+
+   2  PON  58N2203  42A    A   EXP  0.00   4.45  KALIMANGALAM        
+
+
+   3  MCB  58N1360  42F    B   EXP  0.00   4.45  DR.AMBEDHKAR NAGAR  
+
+
+   4  BCB  58N0744  42T    A   EXP  4.55   5.00  THINDIYUR           
+
+
+   5  PON  58N1388  42B    A   EXP  0.00   5.10  RAJAKKUR            
+
+
+   6  PON  58N1670  42V    A   EXP  0.00   5.20  VELLANKULAM         
+
+
+   7  PON  58N2205  42A    F   EXP  0.00   5.25  KALIMANGALAM        
+
+
+   8  MCB  58N1377  42C    A   EXP  0.00   5.30  ELAMANUR            
+
+
+   9  PDR  58N1379  42M    B   EXP  5.30   5.45  ANDAR KOTTARAM      
+
+
+  10  MCB  58N1976  42L    C   EXP  0.00   5.55  SAKKIMANGALAM       
+
+
+  11  PON  58N1668  42A    E   EXP  0.00   6.05  KALIMANGALAM        
+
+
+  12  MCB  58N1360  42D/   B   EXP  5.50   6.05  SAKKI.SAMATHUVAPURAM
+
+
+  13  PDR  58N1415  42E    A   EXP  6.25   6.30  ANNAI SATHYA NAGAR  
+
+
+  14  PDR  58N1407  42W    D   EXP  6.25   6.30  RAJAKKUR PERIYAR NGR
+
+
+  15  PDR  58N1768  42K    A   EXP  6.10   6.40  KARSERI             
+
+
+  16  MCB  58N2197  42D    A   EXP  6.00   6.45  SAKKIMANGALAM       
+
+
+  17  PON  58N2203  42A    A   EXP  6.30   6.50  KALIMANGALAM        
+
+
+  18  MCB  58N1338  42R    A   EXP  7.00   7.10  KARUPPUKKAL         
+
+
+  19  MCB  58N1550  87A    B   SLF  7.00   7.10  ARASANUR            
+
+
+  20  PON  58N1670  42G    A   EXP  7.10   7.20  CHINNA RAJAKKUR     
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          KARUPPAURANI             
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  PON  58N2205  42A    F   EXP  7.10   7.25  KALIMANGALAM        
+
+
+  22  PDR  58N1379  42M    B   EXP  7.05   7.30  ANDAR KOTTARAM      
+
+
+  23  PON  58N1734  42Q    A   SLF  7.15   7.35  POTTAPANAIYUR       
+
+
+  24  MCB  58N1377  42C    A   EXP  7.30   7.40  ELAMANUR            
+
+
+  25  MCB  58N1360  42H    B   EXP  7.35   7.40  EDAYAPATTI          
+
+
+  26  PON  58N1687  42X    A   SLF  8.05   8.10  THIRUMANJCHOLAI     
+
+
+  27  PON  58N1388  42B    A   EXP  8.05   8.10  RAJAKKUR            
+
+
+  28  MCB  58N1976  42L    C   EXP  7.45   8.10  SAKKIMANGALAM       
+
+
+  29  PDR  58N1407  42W    D   EXP  8.05   8.10  RAJAKKUR PERIYAR NGR
+
+
+  30  PDR  58N1463  42N    D   SLF  8.15   8.20  DR.KABEER NAGAR     
+
+
+  31  PON  58N1668  42AX   E   EXP  8.05   8.20  KALIMANGALAM SCHOOL 
+
+
+  32  PDR  58N1415  42E    A   EXP  7.55   8.20  ANNAI SATHYA NAGAR  
+
+
+  33  PON  58N2203  42A    A   EXP  8.40   8.45  KALIMANGALAM        
+
+
+  34  MCB  58N2197  42D    A   EXP  8.35   8.50  SAKKIMANGALAM       
+
+
+  35  PDR  58N1379  42L    B   EXP  8.55   9.00  SAKKIMANGALAM       
+
+
+  36  PON  58N1734  42     A   SLF  9.00   9.05  POOVANTHI           
+
+
+  37  PON  58N2205  42A    F   EXP  9.15   9.20  KALIMANGALAM        
+
+
+  38  PDR  58N1768  42K    A   EXP  9.20   9.25  KARSERI             
+
+
+  39  PON  58N1670  42B    A   EXP  9.05   9.30  RAJAKKUR            
+
+
+  40  MCB  58N1377  42C    A   EXP  9.25   9.40  ELAMANUR            
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          KARUPPAURANI             
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  MCB  58N1976  42L    C   EXP 10.05  10.15  SAKKIMANGALAM       
+
+
+  42  MCB  58N1550  87A    B   SLF  9.50  10.15  ARASANUR            
+
+
+  43  MCB  58N1360  42F    B   EXP  9.50  10.20  DR.AMBEDHKAR NAGAR  
+
+
+  44  PON  58N1388  42B    A   EXP  9.50  10.25  RAJAKKUR            
+
+
+  45  PON  58N1668  42A    E   EXP 10.25  10.30  KALIMANGALAM        
+
+
+  46  MCB  58N2197  42D    A   EXP 10.40  10.50  SAKKIMANGALAM       
+
+
+  47  MCB  58N1338  42J    A   EXP 10.55  11.00  POONJUTHI           
+
+
+  48  PDR  58N1379  42L    B   EXP 10.55  11.10  SAKKIMANGALAM       
+
+
+  49  PON  58N2203  42A    A   EXP 10.50  11.20  KALIMANGALAM        
+
+
+  50  PON  58N1734  42     A   SLF 11.10  11.30  POOVANTHI           
+
+
+  51  PON  58N1670  42V    A   EXP 11.15  11.35  VELLANKULAM         
+
+
+  52  MCB  58N1377  42C    A   EXP 11.25  11.40  ELAMANUR            
+
+
+  53  MCB  58N1360  42D/   B   EXP 11.45  11.50  SAKKI.SAMATHUVAPURAM
+
+
+  54  PON  58N2205  42A    F   EXP 11.25  12.00  KALIMANGALAM        
+
+
+  55  PDR  58N1415  42L    A   EXP  8.20  12.00  SAKKIMANGALAM       
+
+
+  56  MCB  58N1653  42M    A   SLF 11.40  12.10  ANDAR KOTTARAM      
+
+
+  57  PON  58N1388  42B    A   EXP 12.10  12.15  RAJAKKUR            
+
+
+  58  MCB  58N1976  42K    C   EXP 12.10  12.20  KARSERI             
+
+
+  59  PON  58N1668  42A    E   EXP 12.25  12.40  KALIMANGALAM        
+
+
+  60  MCB  58N2197  42D    A   EXP 12.50  13.20  SAKKIMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          KARUPPAURANI             
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  PON  58N2203  42A    A   EXP 13.15  13.25  KALIMANGALAM        
+
+
+  62  MCB  58N1360  42H    B   EXP 13.25  13.35  EDAYAPATTI          
+
+
+  63  PON  58N1734  42J    A   SLF 13.35  13.40  POONJUTHI           
+
+
+  64  MCB  58N1550  87AX   B   SLF 13.00  13.45  ARASANUR ITBP/RTC   
+
+
+  65  PON  58N1670  42G    A   EXP 13.25  13.50  CHINNA RAJAKKUR     
+
+
+  66  MCB  58N1377  42C    A   EXP 13.25  14.00  ELAMANUR            
+
+
+  67  MCB  58N1338  42R    A   EXP 13.30  14.20  KARUPPUKKAL         
+
+
+  68  PON  58N2205  42A    F   EXP 13.55  14.25  KALIMANGALAM        
+
+
+  69  PDR  58N1415  42E    A   EXP 14.00  14.40  ANNAI SATHYA NAGAR  
+
+
+  70  PDR  58N1768  42K    A   EXP 14.50  14.55  KARSERI             
+
+
+  71  BCB  58N0744  42Q    A   EXP 14.30  15.00  POTTAPANAIYUR       
+
+
+  72  PON  58N1668  42AX   E   EXP 14.35  15.05  KALIMANGALAM SCHOOL 
+
+
+  73  PON  58N1388  42B    A   EXP 14.00  15.15  RAJAKKUR            
+
+
+  74  PON  58N1687  42X    A   SLF 15.15  15.30  THIRUMANJCHOLAI     
+
+
+  75  MCB  58N2197  42D    A   EXP 15.05  15.35  SAKKIMANGALAM       
+
+
+  76  PDR  58N1379  42L    B   EXP 15.30  15.35  SAKKIMANGALAM       
+
+
+  77  PDR  58N1407  42W    D   EXP 15.40  15.45  RAJAKKUR PERIYAR NGR
+
+
+  78  PDR  58N2216  88     A   EXP 15.35  15.50  THIRUPPUVANAM       
+
+
+  79  PON  58N2203  42A    A   EXP 15.20  15.55  KALIMANGALAM        
+
+
+  80  MCB  58N1338  42R    A   EXP 15.50  16.05  KARUPPUKKAL         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          KARUPPAURANI             
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  PON  58N1670  42B    A   EXP 15.40  16.15  RAJAKKUR            
+
+
+  82  MCB  58N1377  42C    A   EXP 15.55  16.20  ELAMANUR            
+
+
+  83  MCB  58N1360  42H    B   EXP 16.00  16.20  EDAYAPATTI          
+
+
+  84  PDR  58N1415  42L    A   EXP 16.05  16.25  SAKKIMANGALAM       
+
+
+  85  PON  58N1734  42J    A   SLF 16.05  16.30  POONJUTHI           
+
+
+  86  PON  58N2205  42A    F   EXP 16.20  16.35  KALIMANGALAM        
+
+
+  87  MCB  58N1976  42M    C   EXP 16.30  16.35  ANDAR KOTTARAM      
+
+
+  88  MCB  58N1550  87A    B   SLF 16.30  16.50  ARASANUR            
+
+
+  89  PON  58N1668  42A    E   EXP 17.10  17.15  KALIMANGALAM        
+
+
+  90  PDR  58N1768  42K    A   EXP 17.10  17.15  KARSERI             
+
+
+  91  PON  58N1388  42B    A   EXP 17.00  17.20  RAJAKKUR            
+
+
+  92  MCB  58N2197  42D    A   EXP 17.20  17.30  SAKKIMANGALAM       
+
+
+  93  PDR  58N1379  42M    B   EXP 17.30  17.45  ANDAR KOTTARAM      
+
+
+  94  PON  58N2203  42A    A   EXP 17.50  17.55  KALIMANGALAM        
+
+
+  95  PON  58N1670  42V    A   EXP 18.05  18.10  VELLANKULAM         
+
+
+  96  MCB  58N1377  42C    A   EXP 18.10  18.15  ELAMANUR            
+
+
+  97  MCB  58N1338  42J    A   EXP 17.50  18.15  POONJUTHI           
+
+
+  98  MCB  58N1976  42L    C   EXP 18.00  18.25  SAKKIMANGALAM       
+
+
+  99  PON  58N2205  42A    F   EXP 18.30  18.35  KALIMANGALAM        
+
+
+ 100  PDR  58N1415  42E    A   EXP 18.20  18.35  ANNAI SATHYA NAGAR  
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          KARUPPAURANI             
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  MCB  58N1360  42F    B   EXP 18.25  19.00  DR.AMBEDHKAR NAGAR  
+
+
+ 102  PON  58N1388  42B    A   EXP 19.05  19.10  RAJAKKUR            
+
+
+ 103  PON  58N1668  42A    E   EXP 19.10  19.30  KALIMANGALAM        
+
+
+ 104  MCB  58N2197  42D    A   EXP 19.15  19.30  SAKKIMANGALAM       
+
+
+ 105  PDR  58N1379  42M    B   EXP 19.10  19.40  ANDAR KOTTARAM      
+
+
+ 106  PDR  58N1407  42W    D   EXP 19.25  19.45  RAJAKKUR PERIYAR NGR
+
+
+ 107  PON  58N1734  42P    A   SLF 18.55  19.50  PADAMATHUR          
+
+
+ 108  BCB  58N0744  42T    A   EXP 19.35  19.53  THINDIYUR           
+
+
+ 109  PDR  58N1768  42K    A   EXP 19.30  20.05  KARSERI             
+
+
+ 110  MCB  58N1550  87AX   B   SLF 19.45  20.05  ARASANUR ITBP/RTC   
+
+
+ 111  PON  58N2203  42A    A   EXP 19.50  20.10  KALIMANGALAM        
+
+
+ 112  PDR  58N1415  42E    A   EXP 20.05  20.10  ANNAI SATHYA NAGAR  
+
+
+ 113  MCB  58N1377  42C    A   EXP 20.10  20.15  ELAMANUR            
+
+
+ 114  PON  58N1670  42G    A   EXP 20.05  20.25  CHINNA RAJAKKUR     
+
+
+ 115  MCB  58N1360  42D/   B   EXP 20.25  20.35  SAKKI.SAMATHUVAPURAM
+
+
+ 116  MCB  58N1338  42     A   EXP 20.40  20.45  POOVANTHI           
+
+
+ 117  PON  58N2205  42A    F   EXP 20.30  20.50  KALIMANGALAM        
+
+
+ 118  MCB  58N1976  42L    C   EXP 20.20  20.50  SAKKIMANGALAM       
+
+
+ 119  PON  58N1388  42B    A   EXP 21.00  21.15  RAJAKKUR            
+
+
+ 120  PDR  58N1379  42K    B   EXP 21.05  21.25  KARSERI             
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          KARUPPAURANI             
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 121  MCB  58N2197  42D    A   EXP 21.15  21.35  SAKKIMANGALAM       
+
+
+ 122  PON  58N1668  42A    E   EXP 21.20  21.45  KALIMANGALAM        
+
+
+ 123  PDR  58N1415  42E    A   EXP 21.35  22.00  ANNAI SATHYA NAGAR  
+
+
+ 124  PDR  58N1768  42L    A   EXP 22.15  22.30  SAKKIMANGALAM       
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

@@ -1,0 +1,228 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          ARA - TMG  (VIA - PBS)   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  ENR  58N2320  48     E   SLF  0.00   4.40  THIRUMANGALAM       
+
+
+   2  ENR  58N1472  48     C   SLF  0.00   5.00  THIRUMANGALAM       
+
+
+   3  ENR  58N1622  48     I   SLF  0.00   5.20  THIRUMANGALAM       
+
+
+   4  ENR  58N1478  48     F   SLF  0.00   5.40  THIRUMANGALAM       
+
+
+   5  TMG  58N1661  48     M   SLF  5.55   6.00  THIRUMANGALAM       
+
+
+   6  ENR  58N1432  48     B   SLF  0.00   6.10  THIRUMANGALAM       
+
+
+   7  ENR  58N2320  48     E   SLF  6.25   6.40  THIRUMANGALAM       
+
+
+   8  ENR  58N1472  48     C   SLF  6.45   7.00  THIRUMANGALAM       
+
+
+   9  ENR  58N1622  48     I   SLF  7.05   7.20  THIRUMANGALAM       
+
+
+  10  ENR  58N1478  48     F   SLF  7.25   7.40  THIRUMANGALAM       
+
+
+  11  TMG  58N1661  48     M   SLF  7.45   8.00  THIRUMANGALAM       
+
+
+  12  ENR  58N1432  48     B   SLF  7.55   8.10  THIRUMANGALAM       
+
+
+  13  ENR  58N2320  48     E   SLF  8.25   8.30  THIRUMANGALAM       
+
+
+  14  ENR  58N1472  48     C   SLF  8.45   8.50  THIRUMANGALAM       
+
+
+  15  ENR  58N1622  48     I   SLF  9.05   9.10  THIRUMANGALAM       
+
+
+  16  ENR  58N1478  48     F   SLF  9.25   9.30  THIRUMANGALAM       
+
+
+  17  TMG  58N1661  48     M   SLF  9.45   9.50  THIRUMANGALAM       
+
+
+  18  ENR  58N1432  48     B   SLF  9.55  10.00  THIRUMANGALAM       
+
+
+  19  ENR  58N2320  48     E   SLF 10.15  10.30  THIRUMANGALAM       
+
+
+  20  TMG  58N1492  48O    A   SLF 10.30  10.35  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - TMG  (VIA - PBS)   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  ENR  58N1472  48     C   SLF 10.35  10.50  THIRUMANGALAM       
+
+
+  22  ENR  58N1622  48     I   SLF 10.55  11.10  THIRUMANGALAM       
+
+
+  23  ENR  58N1478  48     F   SLF 11.15  11.30  THIRUMANGALAM       
+
+
+  24  TMG  58N1661  48     M   SLF 11.35  11.50  THIRUMANGALAM       
+
+
+  25  ENR  58N1432  48     B   SLF 11.45  12.00  THIRUMANGALAM       
+
+
+  26  ENR  58N2320  48     E   SLF 12.15  12.20  THIRUMANGALAM       
+
+
+  27  ENR  58N1472  48     C   SLF 12.35  12.40  THIRUMANGALAM       
+
+
+  28  MCB  58N1618  48     A   SLF  0.00  12.45  THIRUMANGALAM       
+
+
+  29  ENR  58N1622  48     I   SLF 12.55  13.00  THIRUMANGALAM       
+
+
+  30  TMG  58N1492  48     A   SLF 13.00  13.05  THIRUMANGALAM       
+
+
+  31  TMG  58N0714  48     A   EXP 13.05  13.10  THIRUMANGALAM       
+
+
+  32  ENR  58N1478  48     F   SLF 13.15  13.20  THIRUMANGALAM       
+
+
+  33  TMG  58N1661  48     M   SLF 13.35  13.40  THIRUMANGALAM       
+
+
+  34  ENR  58N1432  48     B   SLF 13.45  13.50  THIRUMANGALAM       
+
+
+  35  ENR  58N2320  48     E   SLF 14.05  14.20  THIRUMANGALAM       
+
+
+  36  ENR  58N1472  48     C   SLF 14.25  14.40  THIRUMANGALAM       
+
+
+  37  ENR  58N1622  48     I   SLF 14.45  15.00  THIRUMANGALAM       
+
+
+  38  ENR  58N1478  48     F   SLF 15.05  15.20  THIRUMANGALAM       
+
+
+  39  TMG  58N1661  48     M   SLF 15.25  15.40  THIRUMANGALAM       
+
+
+  40  ENR  58N1432  48     B   SLF 15.35  15.50  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - TMG  (VIA - PBS)   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  ENR  58N2320  48     E   SLF 16.05  16.20  THIRUMANGALAM       
+
+
+  42  ENR  58N1472  48     C   SLF 16.25  16.40  THIRUMANGALAM       
+
+
+  43  ENR  58N1622  48     I   SLF 16.45  17.00  THIRUMANGALAM       
+
+
+  44  ENR  58N1478  48     F   SLF 17.05  17.20  THIRUMANGALAM       
+
+
+  45  TMG  58N0714  48EB   A   EXP 17.30  17.35  THIRUMANGALAM E.B   
+
+
+  46  TMG  58N1661  48     M   SLF 17.25  17.40  THIRUMANGALAM       
+
+
+  47  ENR  58N1432  48     B   SLF 17.35  17.50  THIRUMANGALAM       
+
+
+  48  ENR  58N2320  48     E   SLF 18.05  18.10  THIRUMANGALAM       
+
+
+  49  ENR  58N1472  48     C   SLF 18.25  18.30  THIRUMANGALAM       
+
+
+  50  ENR  58N1622  48     I   SLF 18.45  18.50  THIRUMANGALAM       
+
+
+  51  ENR  58N1478  48     F   SLF 19.05  19.10  THIRUMANGALAM       
+
+
+  52  TMG  58N0714  48GA   A   EXP 19.20  19.25  RAYAPALAYAM         
+
+
+  53  TMG  58N1661  48     M   SLF 19.25  19.30  THIRUMANGALAM       
+
+
+  54  ENR  58N1432  48     B   SLF 19.35  19.40  THIRUMANGALAM       
+
+
+  55  TMG  58N1492  48O    A   SLF 19.40  19.50  THIRUMANGALAM       
+
+
+  56  ENR  58N2320  48     E   SLF 19.55  20.10  THIRUMANGALAM       
+
+
+  57  ENR  58N1472  48     C   SLF 20.15  20.30  THIRUMANGALAM       
+
+
+  58  ENR  58N1622  48     I   SLF 20.35  20.50  THIRUMANGALAM       
+
+
+  59  ENR  58N1478  48     F   SLF 20.55  21.10  THIRUMANGALAM       
+
+
+  60  TMG  58N1661  48     M   SLF 21.15  21.30  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - TMG  (VIA - PBS)   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  ENR  58N1432  48     B   SLF 21.25  21.40  THIRUMANGALAM       
+
+
+  62  TMG  58N1492  48     A   SLF 21.55  22.00  THIRUMANGALAM       
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

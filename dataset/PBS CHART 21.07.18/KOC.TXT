@@ -1,0 +1,462 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          VIA - KOCHADAI           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  BCB  58N1290  65B    A   EXP  4.40   4.45  VADAKATTUPATTI      
+
+
+   2  ENR  58N1436  26P    B   SLF  0.00   5.00  PANAMOOPANPATTI     
+
+
+   3  CNI  58N1895  26C    A   EXP  0.00   5.00  AYYANKOILPATTI      
+
+
+   4  BCB  58N1418  68     D   EXP  5.13   5.15  KURUVITHURAI        
+
+
+   5  BCB  58N0673  26N    A   EXP  0.00   5.40  MAMBATTIPATTI       
+
+
+   6  TPK  58N1343  26H    B   EXP  5.43   5.45  THARAPATTI          
+
+
+   7  ENR  58N1769  26E    A   EXP  0.00   6.00  MELAPERUMALPATTI    
+
+
+   8  PON  58N2061  26U    C   EXP  6.00   6.15  UDANKATTUPATTI      
+
+
+   9  PON  58N1309  26A    A   EXP  0.00   6.15  KOSAVAPATTI         
+
+
+  10  BCB  58N1980  26N    A   EXP  6.20   6.25  MAMBATTIPATTI       
+
+
+  11  SVN  58N1176  63     A   ORD  6.10   6.25  KARUPPATTI          
+
+
+  12  MCB  58N1618  54R    A   SLF  0.00   6.30  RAMARAJAPURAM       
+
+
+  13  BCB  58N0675  26J    A   EXP  6.35   6.40  THEPPATHUPATTI      
+
+
+  14  SVN  58N1226  26H    A   EXP  6.35   6.45  THARAPATTI          
+
+
+  15  SVN  58N1152  68A    L   EXP  6.40   6.45  DHAMODARANPATTI     
+
+
+  16  SVN  58N0639  26D    A   LSS  6.30   6.50  KADUPATTI           
+
+
+  17  SVN  58N1288  68     E   EXP  6.45   6.50  KURUVITHURAI        
+
+
+  18  SVN  58N1108  54B    A   EXP  6.45   7.00  NEDUNKULAM          
+
+
+  19  SVN  58N1116  68     A   LSS  6.55   7.10  KURUVITHURAI        
+
+
+  20  SVN  58N0595  63     A   EXP  7.00   7.15  KARUPPATTI          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOCHADAI           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  BCB  58N0744  26T    A   EXP  6.50   7.20  K.PERUMALPATTI      
+
+
+  22  SVN  58N1185  26B    B   EXP  7.05   7.20  VIKKIRAMANGALAM     
+
+
+  23  SVN  74N1262  26G    B   EXP  7.15   7.20  KACHIRAIRRUPPU      
+
+
+  24  TPK  58N1343  26H    B   EXP  7.05   7.25  THARAPATTI          
+
+
+  25  BCB  58N1290  54D    A   EXP  7.15   7.30  OOTHUKKULI          
+
+
+  26  CNI  58N1895  26C    A   EXP  7.30   7.40  AYYANKOILPATTI      
+
+
+  27  BCB  58N1418  68     D   EXP  7.35   7.50  KURUVITHURAI        
+
+
+  28  CNI  58N1308  26L    A   EXP  7.55   8.00  REDDIAPATTI         
+
+
+  29  SVN  58N1226  65A    A   EXP  8.00   8.05  VIKKIRAMANGALAM     
+
+
+  30  SVN  58N0716  68/    A   LSS  7.55   8.10  MANNADIMANGALAM     
+
+
+  31  SVN  58N1167  68G    B   EXP  8.25   8.30  KURUVITHURAI KOVIL  
+
+
+  32  BCB  58N0673  26M    A   EXP  8.00   8.30  ELUVAMPATTI         
+
+
+  33  ENR  58N1769  26E    A   EXP  8.35   8.50  MELAPERUMALPATTI    
+
+
+  34  SVN  58N1902  54C    A   EXP  8.35   9.00  MELANACHIKULAM      
+
+
+  35  SVN  58N1184  26/    A   EXP  9.00   9.05  MELAKKAL KALLAR HSS 
+
+
+  36  SVN  58N0715  68     C   EXP  9.05   9.20  KURUVITHURAI        
+
+
+  37  SVN  58N0639  26X    A   LSS  9.25   9.30  KAMATCHIPURAM       
+
+
+  38  MCB  58N1618  54R    A   SLF  9.25   9.30  RAMARAJAPURAM       
+
+
+  39  CNI  58N1551  26F    B   EXP  9.00   9.30  NARIYAMPATTI        
+
+
+  40  SVN  58N1288  68     E   EXP  9.30   9.40  KURUVITHURAI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOCHADAI           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  BCB  58N1290  65B    A   EXP  9.35   9.45  VADAKATTUPATTI      
+
+
+  42  SVN  58N1116  68     A   LSS  9.55  10.00  KURUVITHURAI        
+
+
+  43  SVN  58N1185  26B    B   EXP  9.35  10.10  VIKKIRAMANGALAM     
+
+
+  44  SVN  58N0595  63     A   EXP 10.10  10.20  KARUPPATTI          
+
+
+  45  ENR  58N1436  26P    B   SLF  9.35  10.20  PANAMOOPANPATTI     
+
+
+  46  CNI  58N1895  26F    A   EXP 10.25  10.30  NARIYAMPATTI        
+
+
+  47  BCB  58N1418  68     D   EXP 10.20  10.45  KURUVITHURAI        
+
+
+  48  PON  58N1309  26A    A   EXP 10.50  10.55  KOSAVAPATTI         
+
+
+  49  SVN  58N0716  68/    A   LSS 10.25  11.05  MANNADIMANGALAM     
+
+
+  50  BCB  58N1330  26C    A   EXP 10.50  11.15  AYYANKOILPATTI      
+
+
+  51  SVN  58N1226  65     A   EXP 10.45  11.15  KADUPATTI           
+
+
+  52  SVN  58N1167  68     B   EXP 11.20  11.30  KURUVITHURAI        
+
+
+  53  BCB  58N0675  26J    A   EXP 11.05  11.30  THEPPATHUPATTI      
+
+
+  54  SVN  58N1108  54B    A   EXP 11.35  11.40  NEDUNKULAM          
+
+
+  55  BCB  58N0673  26B    A   EXP 11.10  11.45  VIKKIRAMANGALAM     
+
+
+  56  SVN  58N1902  54C    A   EXP 11.45  11.55  MELANACHIKULAM      
+
+
+  57  ENR  58N1769  26E    A   EXP 11.35  12.05  MELAPERUMALPATTI    
+
+
+  58  SVN  58N0715  68     C   EXP 12.00  12.15  KURUVITHURAI        
+
+
+  59  SVN  58N1185  26B    B   EXP 12.15  12.30  VIKKIRAMANGALAM     
+
+
+  60  SVN  58N1116  68     A   LSS 12.25  12.45  KURUVITHURAI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOCHADAI           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  BCB  58N1290  65B    A   EXP 12.30  12.55  VADAKATTUPATTI      
+
+
+  62  PON  58N2061  26U    C   EXP 12.55  13.00  UDANKATTUPATTI      
+
+
+  63  SVN  58N0595  63     A   EXP 12.35  13.00  KARUPPATTI          
+
+
+  64  SVN  58N1288  68     E   EXP 12.50  13.10  KURUVITHURAI        
+
+
+  65  PDR  58N1640  26B    B   SLF 13.05  13.20  VIKKIRAMANGALAM     
+
+
+  66  SVN  58N0716  54/    A   LSS 13.20  13.30  SHOLAVANDAN         
+
+
+  67  ENR  58N1436  26P    B   SLF 13.15  13.35  PANAMOOPANPATTI     
+
+
+  68  BCB  58N0673  26M    A   EXP 13.40  13.45  ELUVAMPATTI         
+
+
+  69  CNI  58N1895  26C    A   EXP 10.30  13.55  AYYANKOILPATTI      
+
+
+  70  SVN  58N1108  54B    A   EXP 13.55  14.05  NEDUNKULAM          
+
+
+  71  SVN  58N1167  68     B   EXP 14.10  14.15  KURUVITHURAI        
+
+
+  72  MCB  58N1618  54R    A   SLF  9.30  14.30  RAMARAJAPURAM       
+
+
+  73  BCB  58N0675  26J    A   EXP 14.15  14.30  THEPPATHUPATTI      
+
+
+  74  SVN  58N1226  65A    A   EXP 14.00  14.35  VIKKIRAMANGALAM     
+
+
+  75  BCB  58N1418  68     D   EXP 13.30  14.55  KURUVITHURAI        
+
+
+  76  PON  58N1309  26A    A   EXP 14.55  15.00  KOSAVAPATTI         
+
+
+  77  SVN  58N1902  54C    A   EXP 14.40  15.05  MELANACHIKULAM      
+
+
+  78  ENR  58N1769  26E    A   EXP 14.35  15.20  MELAPERUMALPATTI    
+
+
+  79  SVN  58N0715  68     C   EXP 15.15  15.40  KURUVITHURAI        
+
+
+  80  SVN  58N1152  68A    L   EXP 15.30  16.00  DHAMODARANPATTI     
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOCHADAI           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  SVN  58N1288  68     E   EXP 15.50  16.10  KURUVITHURAI        
+
+
+  82  BCB  58N0673  26M    A   EXP 16.00  16.10  ELUVAMPATTI         
+
+
+  83  SVN  58N1185  65A    B   EXP 16.00  16.15  VIKKIRAMANGALAM     
+
+
+  84  SVN  58N0595  63     A   EXP 16.00  16.15  KARUPPATTI          
+
+
+  85  BCB  58N1290  54D    A   EXP 15.45  16.20  OOTHUKKULI          
+
+
+  86  SVN  58N0716  68/    A   LSS 16.00  16.30  MANNADIMANGALAM     
+
+
+  87  BCB  58N1980  26N    A   EXP 16.25  16.35  MAMBATTIPATTI       
+
+
+  88  BCB  58N0744  26T    A   EXP 16.35  16.40  K.PERUMALPATTI      
+
+
+  89  SVN  58N1116  68     A   LSS 16.35  16.40  KURUVITHURAI        
+
+
+  90  ENR  58N1436  12T    B   SLF 16.30  16.45  THUVARIMAN          
+
+
+  91  SVN  58N0639  26D    A   LSS 16.45  16.50  KADUPATTI           
+
+
+  92  SVN  58N1108  54B    A   EXP 16.53  17.00  NEDUNKULAM          
+
+
+  93  CNI  58N1895  26C    A   EXP 16.50  17.10  AYYANKOILPATTI      
+
+
+  94  SVN  58N1167  68G    B   EXP 17.05  17.20  KURUVITHURAI KOVIL  
+
+
+  95  MCB  58N1618  54/    A   SLF 17.20  17.30  SHOLAVANDAN         
+
+
+  96  CNI  58N1308  26L    A   EXP 17.10  17.30  REDDIAPATTI         
+
+
+  97  BCB  58N1418  68     D   EXP 17.35  17.40  KURUVITHURAI        
+
+
+  98  SVN  58N1226  65     A   EXP 17.30  17.50  KADUPATTI           
+
+
+  99  BCB  58N0675  26B    A   EXP 17.30  17.50  VIKKIRAMANGALAM     
+
+
+ 100  PON  58N2061  26U    C   EXP 17.55  18.00  UDANKATTUPATTI      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOCHADAI           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  SVN  58N1902  54A    A   EXP 17.50  18.00  KARATTUPATTI OUTER  
+
+
+ 102  ENR  58N1769  26E    A   EXP 18.05  18.10  MELAPERUMALPATTI    
+
+
+ 103  SVN  58N0715  68     C   EXP 18.15  18.20  KURUVITHURAI        
+
+
+ 104  SVN  74N1262  26G    B   EXP 18.20  18.30  KACHIRAIRRRUPPU     
+
+
+ 105  BCB  58N1290  65B    A   EXP 18.30  18.40  VADAKATTUPATTI      
+
+
+ 106  SVN  58N1185  68     B   EXP 18.45  18.50  KURUVITHURAI        
+
+
+ 107  SVN  58N0595  63     A   EXP 18.50  19.00  KARUPPATTI          
+
+
+ 108  SVN  58N1108  54B    A   EXP 18.45  19.10  NEDUNKULAM          
+
+
+ 109  SVN  58N1288  68     E   EXP 18.50  19.15  KURUVITHURAI        
+
+
+ 110  BCB  58N0673  26N    A   EXP 18.35  19.15  MAMBATTIPATTI       
+
+
+ 111  SVN  58N0716  68/    A   LSS 18.50  19.20  MANNADIMANGALAM     
+
+
+ 112  MCB  58N1618  54R    A   SLF 19.15  19.25  RAMARAJAPURAM       
+
+
+ 113  ENR  58N1436  26P    B   SLF 19.20  19.25  PANAMOOPANPATTI     
+
+
+ 114  SVN  58N0639  26H    A   LSS 19.10  19.30  THARAPATTI          
+
+
+ 115  SVN  58N1116  68     A   LSS 19.15  19.40  KURUVITHURAI        
+
+
+ 116  BCB  58N0675  26J    A   EXP 19.40  19.55  THEPPATHUPATTI      
+
+
+ 117  SVN  58N1167  68     B   EXP 20.05  20.10  KURUVITHURAI        
+
+
+ 118  PON  58N1309  26A    A   EXP 19.45  20.15  KOSAVAPATTI         
+
+
+ 119  SVN  58N1226  65A    A   EXP 20.15  20.30  VIKKIRAMANGALAM     
+
+
+ 120  BCB  58N1330  26C    A   EXP 19.50  20.35  AYYANKOILPATTI      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOCHADAI           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 121  BCB  58N1418  68     D   EXP 20.25  20.45  KURUVITHURAI        
+
+
+ 122  SVN  58N1902  54C    A   EXP 20.35  21.00  MELANACHIKULAM      
+
+
+ 123  ENR  58N1769  26E    A   EXP 21.00  21.15  MELAPERUMALPATTI    
+
+
+ 124  SVN  58N0639  26     A   LSS 21.00  21.30  SHOLAVANDAN         
+
+
+ 125  SVN  58N0715  68     C   EXP 21.15  21.35  KURUVITHURAI        
+
+
+ 126  SVN  58N1185  26B    B   EXP 21.40  21.45  VIKKIRAMANGALAM     
+
+
+ 127  SVN  58N0595  63     A   EXP 21.20  21.55  KARUPPATTI          
+
+
+ 128  SVN  58N1288  68     E   EXP 21.55  22.00  KURUVITHURAI        
+
+
+ 129  SVN  58N0716  54/    A   LSS 21.45  22.15  SHOLAVANDAN         
+
+
+ 130  SVN  58N1101  54/    A   LSS 22.20  22.25  SHOLAVANDAN         
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

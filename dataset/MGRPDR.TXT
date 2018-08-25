@@ -1,0 +1,416 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          M.G.R.B/S - VIA PUDUR    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  SIP  58N0961  C4     B   SLF  0.00   5.00  M.G.R.BUSSTAND      
+
+
+   2  SIP  58N1497  C4     D   SLF  0.00   5.15  M.G.R.BUSSTAND      
+
+
+   3  PDR  58N1635  7P     Q   SLF  5.20   5.25  ARAPPALAYAM         
+
+
+   4  PON  58N1692  C4     A   SLF  5.25   5.30  M.G.R.BUSSTAND      
+
+
+   5  BCB  58N1721  C4     E   SLF  0.00   5.45  M.G.R.BUSSTAND      
+
+
+   6  BCB  58N2081  2G     A   EXP  5.50   5.55  PBS                 
+
+
+   7  PON  58N1746  C4     H   SLF  0.00   6.00  M.G.R.BUSSTAND      
+
+
+   8  SIP  58N0961  C4     B   SLF  5.00   6.20  M.G.R.BUSSTAND      
+
+
+   9  SIP  58N1497  C4     D   SLF  5.15   6.35  M.G.R.BUSSTAND      
+
+
+  10  PDR  58N1635  7P     Q   SLF  6.32   6.40  ARAPPALAYAM         
+
+
+  11  PDR  58N1491  49     A   SLF  6.40   6.45  THIRUMANGALAM       
+
+
+  12  PON  58N1692  C4     A   SLF  5.30   6.50  M.G.R.BUSSTAND      
+
+
+  13  BCB  58N1721  C4     E   SLF  5.45   7.05  M.G.R.BUSSTAND      
+
+
+  14  TMG  58N1530  48AI   A   SLF  7.00   7.15  THIRUMANGALAM       
+
+
+  15  PON  58N1746  C4     H   SLF  6.00   7.20  M.G.R.BUSSTAND      
+
+
+  16  SIP  58N0961  C4     B   SLF  6.20   7.50  M.G.R.BUSSTAND      
+
+
+  17  SIP  58N1497  C4     D   SLF  6.35   8.05  M.G.R.BUSSTAND      
+
+
+  18  PON  58N1692  C4     A   SLF  6.50   8.20  M.G.R.BUSSTAND      
+
+
+  19  BCB  58N1721  C4     E   SLF  7.05   8.35  M.G.R.BUSSTAND      
+
+
+  20  PON  58N1746  C4     H   SLF  7.20   8.50  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S - VIA PUDUR    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  SIP  58N0961  C4     B   SLF  7.50   9.10  M.G.R.BUSSTAND      
+
+
+  22  SIP  58N1497  C4     D   SLF  8.05   9.25  M.G.R.BUSSTAND      
+
+
+  23  PDR  58N1635  7P     Q   SLF  9.27   9.28  ARAPPALAYAM         
+
+
+  24  PDR  58N1491  49     A   SLF  9.15   9.30  THIRUMANGALAM       
+
+
+  25  PON  58N1692  C4     A   SLF  8.20   9.40  M.G.R.BUSSTAND      
+
+
+  26  TMG  58N1530  48AI   A   SLF  9.40   9.50  THIRUMANGALAM       
+
+
+  27  BCB  58N1721  C4     E   SLF  8.35   9.55  M.G.R.BUSSTAND      
+
+
+  28  PON  58N1746  C4     H   SLF  8.50  10.10  M.G.R.BUSSTAND      
+
+
+  29  SIP  58N0961  C4     B   SLF  9.10  10.30  M.G.R.BUSSTAND      
+
+
+  30  PDR  58N1588  22B    A   SLF 10.15  10.40  HARVEYPATTI         
+
+
+  31  SIP  58N1497  C4     D   SLF  9.25  10.45  M.G.R.BUSSTAND      
+
+
+  32  PON  58N1692  C4     A   SLF  9.40  11.00  M.G.R.BUSSTAND      
+
+
+  33  BCB  58N1721  C4     E   SLF  9.55  11.15  M.G.R.BUSSTAND      
+
+
+  34  PON  58N1746  C4     H   SLF 10.10  11.30  M.G.R.BUSSTAND      
+
+
+  35  BCB  58N2081  2G     A   EXP 11.35  11.45  PBS                 
+
+
+  36  SIP  58N0961  C4     B   SLF 10.30  11.50  M.G.R.BUSSTAND      
+
+
+  37  PDR  58N1491  49     A   SLF 11.55  12.00  THIRUMANGALAM       
+
+
+  38  SIP  58N1497  C4     D   SLF 10.45  12.05  M.G.R.BUSSTAND      
+
+
+  39  PON  58N1692  C4/    A   SLF 11.00  12.20  PBS                 
+
+
+  40  TMG  58N1530  48AI   A   SLF 12.15  12.20  THIRUMANGALAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S - VIA PUDUR    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  BCB  58N1721  2G/C4  E   SLF 11.15  12.35  PBS                 
+
+
+  42  PDR  58N1481  2G/    A   SLF  0.00  12.40  PUDUR               
+
+
+  43  PDR  58N1635  7P     Q   SLF 12.43  12.48  ARAPPALAYAM         
+
+
+  44  PON  58N1746  2G/C4  H   SLF 11.30  12.50  PBS                 
+
+
+  45  PDR  58N1588  22B    A   SLF 12.40  13.00  HARVEYPATTI         
+
+
+  46  BCB  58N2081  2G     A   EXP 13.05  13.10  PBS                 
+
+
+  47  SIP  58N0961  C4     B   SLF 11.50  13.30  M.G.R.BUSSTAND      
+
+
+  48  PDR  58N1607  2G/    A   SLF 13.30  13.35  PUDUR               
+
+
+  49  SIP  58N1497  C4     D   SLF 12.05  13.45  M.G.R.BUSSTAND      
+
+
+  50  PON  58N1692  C4     A   SLF 13.55  14.00  M.G.R.BUSSTAND      
+
+
+  51  PDR  58N1635  7P     Q   SLF 14.03  14.07  ARAPPALAYAM         
+
+
+  52  BCB  58N1721  C4     E   SLF 12.35  14.15  M.G.R.BUSSTAND      
+
+
+  53  PDR  58N1491  49     A   SLF 14.25  14.30  THIRUMANGALAM       
+
+
+  54  PON  58N1746  C4     H   SLF 12.50  14.30  M.G.R.BUSSTAND      
+
+
+  55  BCB  58N2081  2G     A   EXP 14.45  14.50  PBS                 
+
+
+  56  TMG  58N1530  48AI   A   SLF 14.45  14.50  THIRUMANGALAM       
+
+
+  57  SIP  58N0961  C4     B   SLF 13.30  14.50  M.G.R.BUSSTAND      
+
+
+  58  PDR  58N1588  7F     A   SLF 15.00  15.05  HARVEYPATTI         
+
+
+  59  SIP  58N1497  C4     D   SLF 13.45  15.05  M.G.R.BUSSTAND      
+
+
+  60  PON  58N1692  C4     A   SLF 14.00  15.20  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S - VIA PUDUR    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  PDR  58N1635  7P     Q   SLF 15.22  15.25  ARAPPALAYAM         
+
+
+  62  BCB  58N1721  C4     E   SLF 14.15  15.35  M.G.R.BUSSTAND      
+
+
+  63  PON  58N1746  C4     H   SLF 14.30  15.50  M.G.R.BUSSTAND      
+
+
+  64  SIP  58N0961  C4     B   SLF 14.50  16.20  M.G.R.BUSSTAND      
+
+
+  65  SIP  58N1497  C4     D   SLF 15.05  16.35  M.G.R.BUSSTAND      
+
+
+  66  PON  58N1692  C4     A   SLF 15.20  16.50  M.G.R.BUSSTAND      
+
+
+  67  PDR  58N1588  22B    A   SLF 16.55  17.00  HARVEYPATTI         
+
+
+  68  BCB  58N1721  C4     E   SLF 15.35  17.05  M.G.R.BUSSTAND      
+
+
+  69  PDR  58N1491  49     A   SLF 16.55  17.10  THIRUMANGALAM       
+
+
+  70  PON  58N1746  C4     H   SLF 15.50  17.20  M.G.R.BUSSTAND      
+
+
+  71  TMG  58N1530  48AI   A   SLF 17.15  17.30  THIRUMANGALAM       
+
+
+  72  SIP  58N0961  C4     B   SLF 16.20  17.45  M.G.R.BUSSTAND      
+
+
+  73  SIP  58N1497  C4     D   SLF 16.35  18.00  M.G.R.BUSSTAND      
+
+
+  74  PON  58N1692  C4     A   SLF 16.50  18.15  M.G.R.BUSSTAND      
+
+
+  75  PDR  58N1635  7P     Q   SLF 18.22  18.25  ARAPPALAYAM         
+
+
+  76  BCB  58N1721  C4     E   SLF 17.05  18.25  M.G.R.BUSSTAND      
+
+
+  77  PON  58N1746  C4     H   SLF 17.20  18.45  M.G.R.BUSSTAND      
+
+
+  78  SIP  58N0961  C4     B   SLF 17.45  19.10  M.G.R.BUSSTAND      
+
+
+  79  PDR  58N1588  22B    A   SLF 19.00  19.20  HARVEYPATTI         
+
+
+  80  SIP  58N1497  C4     D   SLF 18.00  19.25  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S - VIA PUDUR    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  PDR  58N1491  49     A   SLF 19.35  19.40  THIRUMANGALAM       
+
+
+  82  PON  58N1692  C4     A   SLF 18.15  19.40  M.G.R.BUSSTAND      
+
+
+  83  BCB  58N1721  C4     E   SLF 18.25  19.55  M.G.R.BUSSTAND      
+
+
+  84  PDR  58N1635  7P     Q   SLF 19.55  19.57  ARAPPALAYAM         
+
+
+  85  TMG  58N1530  48AI   A   SLF 19.55  20.00  THIRUMANGALAM       
+
+
+  86  SIP  58N0961  C4     B   SLF 19.10  20.35  M.G.R.BUSSTAND      
+
+
+  87  SIP  58N1497  C4     D   SLF 19.25  20.50  M.G.R.BUSSTAND      
+
+
+  88  PON  58N1692  700    A   SLF 19.40  20.55  PBS                 
+
+
+  89  PDR  58N1440  62X    A   SLF 20.55  21.10  PATTANAMPATTI       
+
+
+  90  PON  58N1746  C4     H   SLF 18.45  21.10  M.G.R.BUSSTAND      
+
+
+  91  BCB  58N1721  2G/C4  E   SLF 19.55  21.10  PBS                 
+
+
+  92  SIP  58N1681  77BA   A   SLF 21.24  21.34  ARAPPALAYAM         
+
+
+  93  PDR  58N1494  2G/    L   SLF 21.40  21.40  PUDUR               
+
+
+  94  PDR  58N1481  2G/    A   SLF 12.40  21.45  PUDUR               
+
+
+  95  PDR  58N1482  2G/    N   SLF 21.45  21.50  PUDUR               
+
+
+  96  PDR  58N1445  2G/    X   SLF 21.45  21.50  PUDUR               
+
+
+  97  PDR  58N1476  2G/    A   SLF 21.53  21.55  PUDUR               
+
+
+  98  PDR  58N2325  2G/    M   SLF 22.01  22.05  PUDUR               
+
+
+  99  PDR  58N1608  2G/C3  D   ORD  0.00  22.05  PUDUR               
+
+
+ 100  PDR  58N1491  2G/    A   SLF 22.05  22.10  PUDUR               
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S - VIA PUDUR    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  PDR  58N1462  2G/    A   SLF 22.10  22.12  PUDUR               
+
+
+ 102  PDR  58N1527  2G/    I   SLF 22.13  22.15  PUDUR               
+
+
+ 103  PDR  58N2337  2G/    N   SLF 22.19  22.22  PUDUR               
+
+
+ 104  PDR  58N1463  2G/    D   SLF  0.00  22.25  PUDUR               
+
+
+ 105  PON  58N1746  2G/C4  H   SLF 21.10  22.25  PBS                 
+
+
+ 106  PDR  58N1607  2G/    A   SLF 22.25  22.30  PUDUR               
+
+
+ 107  PDR  58N1447  2G/    K   SLF 22.25  22.30  PUDUR               
+
+
+ 108  PDR  58N1460  2G/    E   SLF 22.25  22.30  PUDUR               
+
+
+ 109  PDR  58N1433  2G/    Y   SLF 22.35  22.35  PUDUR               
+
+
+ 110  PDR  58N1640  2G/    B   SLF 22.35  22.40  PUDUR               
+
+
+ 111  PDR  58N1523  2G/    B   SLF 22.40  22.45  PUDUR               
+
+
+ 112  PDR  58N1591  2G/    J   SLF 22.49  22.54  PUDUR               
+
+
+ 113  PDR  58N1685  2G/    A   SLF 22.53  22.55  PUDUR               
+
+
+ 114  PDR  58N1635  2G/    Q   SLF 22.55  23.00  PUDUR               
+
+
+ 115  PDR  58N1543  2G/    O   SLF 23.20  23.20  PUDUR               
+
+
+ 116  PDR  58N2341  2G/    O   SLF 23.15  23.20  PUDUR               
+
+
+ 117  PDR  58N1544  2G/    F   SLF 23.20  23.25  PUDUR               
+
+
+ 118  PDR  58N1495  2G/    L   SLF 23.40  23.45  PUDUR               
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

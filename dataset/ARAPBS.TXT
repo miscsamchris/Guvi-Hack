@@ -1,0 +1,508 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          ARA - PBS                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  PON  58N1811  4AA    C   SLF  0.00   5.00  ANUPPANADI          
+
+
+   2  PON  58N1702  4      E   SLF  5.20   5.25  VIRAHANUR RINGROAD  
+
+
+   3  BCB  58N1715  32     A   SLF  5.25   5.30  LADANENDHAL         
+
+
+   4  PON  58N1751  4AH    C   SLF  0.00   5.30  MELA ANUPPNADI H.B.C
+
+
+   5  BCB  58N1417  7/     J   EXP  5.25   5.35  PBS                 
+
+
+   6  BCB  58N1697  23UA   A   SLF  5.40   5.42  KANNANENDAL GRNAGAR 
+
+
+   7  BCB  58N1783  23GA   B   SLF  5.40   5.45  THIRUPPALAI         
+
+
+   8  BCB  58N1771  7/     B   SLF  6.00   6.03  PBS                 
+
+
+   9  ENR  58N1450  7/     B   SLF  6.00   6.05  PBS                 
+
+
+  10  ENR  58N2038  7/     B   EXP  6.05   6.10  PBS                 
+
+
+  11  BCB  58N1417  7/     J   EXP  6.00   6.10  PBS                 
+
+
+  12  PON  58N1811  4AA    C   SLF  6.05   6.10  ANUPPANADI          
+
+
+  13  BCB  58N1771  7/     B   SLF  6.25   6.30  PBS                 
+
+
+  14  PON  58N1702  32FMX  E   SLF  6.50   7.00  MELA CHORIKULAM     
+
+
+  15  TPK  58N1356  10BA   A   ORD  6.50   7.05  PARAMBUPATTI        
+
+
+  16  PON  58N1751  4AH    C   SLF  6.55   7.10  MELA ANUPPNADI H.B.C
+
+
+  17  MCB  58N1426  7/     A   EXP  0.00   8.05  PBS                 
+
+
+  18  PON  58N1751  4AH    C   SLF  8.35   8.40  MELA ANUPPNADI H.B.C
+
+
+  19  TPK  58N1356  10E    A   ORD  8.35   8.40  SERMA.VASAN COLLEGE 
+
+
+  20  BCB  58N1729  4      C   SLF  8.45   8.55  VIRAHANUR RINGROAD  
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - PBS                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  PON  58N1792  4      D   SLF  9.05   9.10  VIRAHANUR RINGROAD  
+
+
+  22  BCB  58N1771  4      B   SLF  9.15   9.20  VIRAHANUR RINGROAD  
+
+
+  23  MCB  58N1426  7/     A   EXP  8.05   9.30  PBS                 
+
+
+  24  MCB  58N1444  7/     A   SLF  9.40   9.50  PBS                 
+
+
+  25  MCB  58N1426  7/     A   EXP 10.05  10.10  PBS                 
+
+
+  26  PON  58N1751  4AH    C   SLF 10.10  10.15  MELA ANUPPNADI H.B.C
+
+
+  27  TPM  58N1098  7/     A   LSS 10.00  10.15  PBS                 
+
+
+  28  PON  58N1702  4      E   SLF 10.00  10.20  VIRAHANUR RINGROAD  
+
+
+  29  PON  58N1809  77BA   C   SLF 10.20  10.25  M.G.R.BUSSTAND      
+
+
+  30  BCB  58N1757  4HA    F   SLF 10.15  10.30  VANDIYUR            
+
+
+  31  PON  58N1811  4AA    C   SLF 10.25  10.40  ANUPPANADI          
+
+
+  32  BCB  58N1729  4      C   SLF 10.30  10.45  VIRAHANUR RINGROAD  
+
+
+  33  PON  58N2217  7/     A   SLF 10.35  10.45  PBS                 
+
+
+  34  TPK  58N2067  10AA   C   EXP 10.40  10.45  AVANIAPURAM         
+
+
+  35  TPM  58N1953  7/     A   LSS 10.40  10.50  PBS                 
+
+
+  36  PON  58N1792  4      D   SLF 10.45  11.00  VIRAHANUR RINGROAD  
+
+
+  37  TPK  58N2056  10J    A   EXP 10.45  11.00  AIRPORT             
+
+
+  38  BCB  58N1771  4      B   SLF 11.10  11.10  VIRAHANUR RINGROAD  
+
+
+  39  CNI  58N0990  7/     A   EXP 11.10  11.15  PBS                 
+
+
+  40  TPK  58N1356  10AA   A   ORD 11.00  11.20  AVANIAPURAM         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - PBS                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  BCB  58N1359  7/     B   EXP 11.10  11.20  PBS                 
+
+
+  42  MCB  58N1339  7/     A   EXP 11.30  11.40  PBS                 
+
+
+  43  BCB  58N1805  7/     A   SLF 11.30  11.40  PBS                 
+
+
+  44  ENR  58N1352  7/     A   EXP 11.40  11.45  PBS                 
+
+
+  45  ENR  58N1467  7/     A   SLF 11.45  11.50  PBS                 
+
+
+  46  PON  58N1751  4AH    C   SLF 11.50  12.00  MELA ANUPPNADI H.B.C
+
+
+  47  PON  58N1811  4AA    C   SLF 11.55  12.00  ANUPPANADI          
+
+
+  48  TPK  58N2067  10AA   C   EXP 11.50  12.00  AVANIAPURAM         
+
+
+  49  PON  58N1702  4      E   SLF 12.10  12.15  VIRAHANUR RINGROAD  
+
+
+  50  BCB  58N1729  4      C   SLF 12.20  12.25  VIRAHANUR RINGROAD  
+
+
+  51  TPK  58N1370  22J    A   EXP 12.15  12.25  THIRUNAGAR          
+
+
+  52  PON  58N1792  4      D   SLF 12.35  12.40  VIRAHANUR RINGROAD  
+
+
+  53  TPK  58N1356  10AA   A   ORD 12.30  12.40  AVANIAPURAM         
+
+
+  54  BCB  58N1771  4      B   SLF 12.45  12.50  VIRAHANUR RINGROAD  
+
+
+  55  TPK  58N2056  10J    A   EXP 12.30  12.50  AIRPORT             
+
+
+  56  TPM  58N1928  7/     D   LSS 12.40  12.50  PBS                 
+
+
+  57  PON  58N1801  17X    Q   SLF 12.55  13.00  FATIMA COLLEGE      
+
+
+  58  TPK  58N1400  7/     C   EXP 13.00  13.05  PBS                 
+
+
+  59  CNI  58N1895  7/     A   EXP 13.15  13.20  PBS                 
+
+
+  60  TPK  58N2067  10AA   C   EXP 13.10  13.20  AVANIAPURAM         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - PBS                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  BCB  58N1803  4      F   SLF 13.25  13.30  VIRAHANUR RINGROAD  
+
+
+  62  BCB  58N1715  4      A   SLF 13.10  13.40  VIRAHANUR RINGROAD  
+
+
+  63  PON  58N1751  7/     C   SLF 13.35  13.40  PBS                 
+
+
+  64  PON  58N1702  4      E   SLF 13.50  13.55  VIRAHANUR RINGROAD  
+
+
+  65  TPK  58N1370  22J    A   EXP 13.50  13.55  THIRUNAGAR          
+
+
+  66  BCB  58N1729  4      C   SLF 14.00  14.05  VIRAHANUR RINGROAD  
+
+
+  67  PON  58N1751  4AH    C   SLF 14.10  14.15  MELA ANUPPNADI H.B.C
+
+
+  68  PON  58N1792  4      D   SLF 14.15  14.20  VIRAHANUR RINGROAD  
+
+
+  69  BCB  58N1771  4      B   SLF 14.25  14.30  VIRAHANUR RINGROAD  
+
+
+  70  PON  58N2048  4      G   EXP 13.35  14.45  VIRAHANUR RINGROAD  
+
+
+  71  PON  58N1809  77BA   C   SLF 14.40  14.45  M.G.R.BUSSTAND      
+
+
+  72  BCB  58N1783  23GA   B   SLF 14.25  14.55  THIRUPPALAI         
+
+
+  73  BCB  58N1424  7/     A   EXP 14.50  14.55  PBS                 
+
+
+  74  TPK  58N1392  7/     A   EXP 14.50  15.00  PBS                 
+
+
+  75  BCB  58N1803  4      F   SLF 15.05  15.20  VIRAHANUR RINGROAD  
+
+
+  76  BCB  58N1424  7/     A   EXP 15.20  15.25  PBS                 
+
+
+  77  BCB  58N1715  4VHX   A   SLF 15.10  15.30  VELAMMAL HOSPITAL   
+
+
+  78  BCB  58N1757  7/     F   SLF 15.25  15.30  PBS                 
+
+
+  79  TPK  58N1356  10AA   A   ORD 15.10  15.30  AVANIAPURAM         
+
+
+  80  PON  58N1702  32FMX  E   SLF 15.30  15.35  MELA CHORIKULAM     
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - PBS                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  TPK  58N1370  7/     A   EXP 13.55  15.35  PBS                 
+
+
+  82  TPK  58N2056  10J    A   EXP 15.35  15.40  AIRPORT             
+
+
+  83  PON  58N1811  4AA    C   SLF 15.35  15.45  ANUPPANADI          
+
+
+  84  BCB  58N1729  4      C   SLF 15.40  15.55  VIRAHANUR RINGROAD  
+
+
+  85  PON  58N1751  4AH    C   SLF 15.40  15.55  MELA ANUPPNADI H.B.C
+
+
+  86  BCB  58N1757  7/     F   SLF 15.55  16.00  PBS                 
+
+
+  87  PON  58N1809  7/     C   SLF 14.45  16.00  PBS                 
+
+
+  88  PON  58N1792  7/     D   SLF 15.55  16.10  PBS                 
+
+
+  89  BCB  58N1771  4      B   SLF 16.05  16.20  VIRAHANUR RINGROAD  
+
+
+  90  PON  58N2048  7/     G   EXP 16.20  16.25  PBS                 
+
+
+  91  ENR  58N1380  7/     C   EXP 16.20  16.30  PBS                 
+
+
+  92  MCB  58N1603  7/     A   SLF 16.30  16.35  PBS                 
+
+
+  93  TPK  58N1356  10PA   A   ORD 16.40  16.50  D.KARISALKULAM      
+
+
+  94  TPK  58N2062  7/     A   ORD 17.00  17.05  PBS                 
+
+
+  95  TPK  58N2056  10J    A   EXP 17.10  17.15  AIRPORT             
+
+
+  96  PON  58N1801  7/     Q   SLF 14.25  17.15  PBS                 
+
+
+  97  PON  58N1751  4AH    C   SLF 17.20  17.25  MELA ANUPPNADI H.B.C
+
+
+  98  ENR  58N2038  7/     B   EXP 17.35  17.40  PBS                 
+
+
+  99  MCB  58N1426  7/     A   EXP 17.45  17.50  PBS                 
+
+
+ 100  BCB  58N1771  4      B   SLF 17.55  18.00  VIRAHANUR RINGROAD  
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - PBS                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  PON  58N1321  7/     A   EXP 18.00  18.05  PBS                 
+
+
+ 102  BCB  58N1757  7/     F   SLF 16.00  18.10  PBS                 
+
+
+ 103  TPM  58N1279  4B     B   EXP 18.20  18.25  PBS                 
+
+
+ 104  MCB  58N1603  7/     A   SLF 17.05  18.30  PBS                 
+
+
+ 105  TPK  58N2062  7/     A   ORD 18.35  18.40  PBS                 
+
+
+ 106  ENR  58N1380  7/     C   EXP 18.50  18.55  PBS                 
+
+
+ 107  MCB  58N1603  7/     A   SLF 18.55  19.00  PBS                 
+
+
+ 108  PON  58N2027  7/     C   EXP 19.00  19.05  PBS                 
+
+
+ 109  PON  58N1688  7/     B   SLF 19.00  19.05  PBS                 
+
+
+ 110  BCB  58N1347  7/     A   EXP 18.55  19.10  PBS                 
+
+
+ 111  PON  58N1702  4      E   SLF 18.40  19.15  VIRAHANUR RINGROAD  
+
+
+ 112  PON  58N1751  4AH    C   SLF 19.00  19.15  MELA ANUPPNADI H.B.C
+
+
+ 113  CNI  58N1837  7/     A   EXP 19.15  19.20  PBS                 
+
+
+ 114  PON  58N1809  77BA   C   SLF 19.15  19.20  M.G.R.BUSSTAND      
+
+
+ 115  BCB  58N1771  4      B   SLF 19.35  19.40  VIRAHANUR RINGROAD  
+
+
+ 116  TPK  58N1356  10AA   A   ORD 19.25  19.40  AVANIAPURAM         
+
+
+ 117  PON  58N2217  7/     A   SLF 19.35  19.40  PBS                 
+
+
+ 118  CNI  58N0990  7/     A   EXP 19.30  19.45  PBS                 
+
+
+ 119  PON  58N2048  4      G   EXP 19.45  19.55  VIRAHANUR RINGROAD  
+
+
+ 120  TPK  58N2067  10AA   C   EXP 19.45  19.55  AVANIAPURAM         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - PBS                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 121  ENR  58N1352  7/     A   EXP 19.55  20.00  PBS                 
+
+
+ 122  PON  58N1811  4AA    C   SLF 19.55  20.05  ANUPPANADI          
+
+
+ 123  BCB  58N1803  4      F   SLF 20.15  20.30  VIRAHANUR RINGROAD  
+
+
+ 124  PDR  58N1389  7/     B   EXP 20.45  20.50  PBS                 
+
+
+ 125  PON  58N1702  4      E   SLF 20.50  20.55  VIRAHANUR RINGROAD  
+
+
+ 126  PON  58N1751  4AH    C   SLF 20.45  21.00  MELA ANUPPNADI H.B.C
+
+
+ 127  TPK  58N1356  10AA   A   ORD 20.50  21.00  AVANIAPURAM         
+
+
+ 128  BCB  58N1729  4      C   SLF 21.00  21.10  VIRAHANUR RINGROAD  
+
+
+ 129  TPK  58N2067  10AA   C   EXP 21.05  21.15  AVANIAPURAM         
+
+
+ 130  PON  58N1792  4      D   SLF 21.00  21.20  VIRAHANUR RINGROAD  
+
+
+ 131  BCB  58N1771  4      B   SLF 21.15  21.30  VIRAHANUR RINGROAD  
+
+
+ 132  PON  58N2048  4      G   EXP 21.30  21.40  VIRAHANUR RINGROAD  
+
+
+ 133  PON  58N1811  4AA    C   SLF 21.35  21.40  ANUPPANADI          
+
+
+ 134  USI  58N1584  7/     D   SLF  6.50  21.48  PBS                 
+
+
+ 135  USI  58N1634  7/     F   SLF  5.45  21.50  PBS                 
+
+
+ 136  BCB  58N1803  7/     F   SLF 21.55  22.00  PBS                 
+
+
+ 137  MCB  58N1603  7/     A   SLF 22.05  22.10  PBS                 
+
+
+ 138  BCB  58N1715  7/     A   SLF 22.10  22.15  PBS                 
+
+
+ 139  TPM  58N1928  7/     D   LSS 22.10  22.20  PBS                 
+
+
+ 140  PON  58N1702  7/     E   SLF 22.20  22.25  PBS                 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - PBS                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 141  ENR  58N2200  7/     A   EXP 22.15  22.25  PBS                 
+
+
+ 142  PON  58N1708  7/     I   SLF  5.33  22.32  PBS                 
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

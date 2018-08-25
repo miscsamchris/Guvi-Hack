@@ -1,0 +1,176 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ALANGANALLUR B.S.        
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  PON  58N1407  23F    C  EXP  5.55   6.00  PBS                 
+
+
+   2  PDR  58N1841  23A    B  EXP  0.00   6.15  PBS                 
+
+
+   3  BCB  58N1423  23F    A  EXP  6.35   6.40  PBS                 
+
+
+   4  SVN  58N1087  L1     A  LSS  6.35   6.40  SHOLAVANDAN         
+
+
+   5  MLR  58N0711  M1G    C  LSS  7.00   7.15  MELUR               
+
+
+   6  ENR  58N1616  45AA   A  SLF  7.15   7.25  INTEGRATED B.S.     
+
+
+   7  PDR  58N1324  23A    A  EXP  7.10   7.30  PBS                 
+
+
+   8  SVN  58N0601  L1     B  LSS  7.35   7.40  SHOLAVANDAN         
+
+
+   9  PON  58N2201  23F    B  EXP  7.30   7.45  PBS                 
+
+
+  10  ENR  58N1671  43L/   A  EXP  7.50   7.52  VALASAI             
+
+
+  11  BCB  58N1423  23DD   A  EXP  9.15   9.20  PBS                 
+
+
+  12  PDR  58N1324  23A    A  EXP  9.40   9.45  PBS                 
+
+
+  13  SVN  58N0601  L1C    B  LSS  9.55  10.15  VADIPATTI           
+
+
+  14  PON  58N2201  23F    B  EXP 10.10  10.30  PBS                 
+
+
+  15  PON  58N1407  23BB   C  EXP 10.45  11.00  PBS                 
+
+
+  16  SVN  58N1087  L1     A  LSS 11.20  11.25  SHOLAVANDAN         
+
+
+  17  PDR  58N1324  23A    A  EXP 11.50  11.55  PBS                 
+
+
+  18  BCB  58N1417  23BB   J  EXP 11.55  12.00  PBS                 
+
+
+  19  BCB  58N1423  23F    A  EXP 12.10  12.15  PBS                 
+
+
+  20  SVN  58N0601  L1     B  LSS 12.10  12.15  SHOLAVANDAN         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ALANGANALLUR B.S.        
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  PON  58N1773  43     C  EXP 13.00  13.05  PBS                 
+
+
+  22  PON  58N2201  23F    B  EXP 13.00  13.10  PBS                 
+
+
+  23  PDR  58N1931  23F    A  EXP 13.20  13.25  PBS                 
+
+
+  24  PDR  58N1900  51/    A  EXP 13.40  13.45  ABS                 
+
+
+  25  PON  58N1407  23BB   C  EXP 14.20  14.25  PBS                 
+
+
+  26  BCB  58N1423  23F    A  EXP 15.10  15.25  PBS                 
+
+
+  27  PDR  58N1324  23A    A  EXP 15.12  15.25  PBS                 
+
+
+  28  SVN  58N0601  L1     B  LSS 15.05  15.35  SHOLAVANDAN         
+
+
+  29  PON  58N2201  23DD   B  EXP 16.10  16.15  PBS                 
+
+
+  30  BCB  58N1423  23F    A  EXP 17.50  17.55  PBS                 
+
+
+  31  PDR  58N1324  23A    A  EXP 17.50  18.00  PBS                 
+
+
+  32  SVN  58N0601  L1C    B  LSS 17.50  18.10  VADIPATTI           
+
+
+  33  PON  58N2201  23F    B  EXP 18.40  18.45  PBS                 
+
+
+  34  PDR  58N1841  23A    B  EXP 19.00  19.15  PBS                 
+
+
+  35  MLR  58N0711  M1G    C  LSS 19.10  19.15  MELUR               
+
+
+  36  PDR  58N1931  23F    A  EXP 19.25  19.30  PBS                 
+
+
+  37  SVN  58N1087  L1C    A  LSS 19.25  19.30  VADIPATTI           
+
+
+  38  PON  58N1407  23F    C  EXP 19.40  19.45  PBS                 
+
+
+  39  ENR  58N1353  43     A  EXP 19.55  20.00  PBS                 
+
+
+  40  PDR  58N1324  23A    A  EXP 20.15  20.20  PBS                 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ALANGANALLUR B.S.        
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  PON  58N1319  23BB   C  EXP 20.20  20.25  PBS                 
+
+
+  42  SVN  58N0601  L1     B  LSS 20.20  20.30  SHOLAVANDAN         
+
+
+  43  BCB  58N1423  23F    A  EXP 20.50  20.55  PBS                 
+
+
+  44  SVN  58N1087  L1     A  LSS 21.15  21.20  SHOLAVANDAN         
+
+
+  45  PON  58N2201  23F    B  EXP 21.25  21.30  PBS                 
+
+
+  46  PON  58N1773  43     C  EXP 21.25  21.30  PBS                 
+
+
+  47  PDR  58N1900  51/    A  EXP 22.15  22.20  PUDUR               
+
+
+  48  SVN  58N0576  L1A    A  EXP 22.20  22.25  SHOLAVANDAN         
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

@@ -1,0 +1,934 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          VIA - KOODALUR           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  PON  58N1800  8AV    A   SLF  0.00   4.55  ANAIYURVAIGAIVADAKAR
+
+
+   2  BCB  58N2077  57F    A   EXP  0.00   4.55  LAKKAMPATTI         
+
+
+   3  PON  58N1798  69B    D   SLF  0.00   5.00  VITTANGULAM         
+
+
+   4  ENR  58N1381  59B    C   EXP  0.00   5.05  SENDHAMANGALAM      
+
+
+   5  ENR  58N1293  43B    A   EXP  0.00   5.10  SIRUVALAI           
+
+
+   6  ENR  58N1374  57E    A   EXP  0.00   5.15  VALAYAPATTI         
+
+
+   7  PON  58N1315  43A    A   EXP  0.00   5.20  ATHALAI             
+
+
+   8  ENR  58N1612  59D    B   SLF  5.18   5.20  MUDUVARPATTI        
+
+
+   9  ENR  58N1336  60B    A   EXP  0.00   5.25  A.KOVILPATTI        
+
+
+  10  ENR  58N1352  70     A   EXP  0.00   5.35  PERIAILANDAIKULAM   
+
+
+  11  ENR  58N1674  59B    A   SLF  0.00   5.35  SENDHAMANGALAM      
+
+
+  12  ENR  58N1369  43D    A   EXP  0.00   5.40  KALLANAI            
+
+
+  13  PON  58N2040  43A    B   EXP  0.00   5.50  ATHALAI             
+
+
+  14  PON  58N1686  8/     C   SLF  0.00   5.55  ANAIYUR             
+
+
+  15  PON  58N1328  43B    B   EXP  0.00   6.00  SIRUVALAI           
+
+
+  16  ENR  58N1469  95     A   SLF  0.00   6.00  THETHUR             
+
+
+  17  MCB  58N1557  24R    C   SLF  0.00   6.00  GANDHI NAGAR        
+
+
+  18  PON  58N1800  8BJ    A   SLF  6.00   6.05  J.J.NAGAR           
+
+
+  19  PON  58N1326  43H    A   EXP  0.00   6.05  KOVILPAPPAKUDI      
+
+
+  20  PON  58N1672  57G    A   EXP  0.00   6.05  MANICKKAMPATTI      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOODALUR           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  ENR  58N1372  57H    D   EXP  5.50   6.05  RAMAGOUNDANPATTI    
+
+
+  22  ENR  58N1353  60     A   EXP  0.00   6.10  KURAVANKULAM        
+
+
+  23  ENR  58N2202  69     A   EXP  0.00   6.10  MELACHINNANAMPATTI  
+
+
+  24  ENR  58N1382  43N    A   SLF  0.00   6.25  CHELLANAGOUNDANPATTI
+
+
+  25  ENR  58N2038  59K    B   EXP  0.00   6.25  OORSERI             
+
+
+  26  PDR  58N1463  59G    D   SLF  6.10   6.35  DEVASERI            
+
+
+  27  ENR  58N1435  45A    A   SLF  0.00   6.35  ALANGANALLUR        
+
+
+  28  ENR  58N1413  60C    A   EXP  6.30   6.35  VAIKASIPATTI        
+
+
+  29  ENR  58N0594  70A    A   EXP  6.15   6.35  THATHAGOUNDANPATTI  
+
+
+  30  ENR  58N1293  43B    A   EXP  6.35   6.40  SIRUVALAI           
+
+
+  31  BCB  58N1765  70D    F   SLF  6.40   6.45  ALAGAPURI           
+
+
+  32  BCB  58N1417  57J    J   EXP  0.00   6.45  V.PUDUR             
+
+
+  33  ENR  58N1671  43K    A   EXP  6.25   6.50  VAVIDAMARUTHUR      
+
+
+  34  ENR  58N1302  57E    B   EXP  6.30   6.50  VALAYAPATTI         
+
+
+  35  PON  58N1315  43A    A   EXP  6.40   6.55  ATHALAI             
+
+
+  36  ENR  58N0599  57A    A   EXP  6.45   7.00  66P METTUPATTI      
+
+
+  37  PON  58N2027  43D    C   EXP  6.40   7.05  KALLANAI            
+
+
+  38  ENR  58N1419  59D    A   EXP  6.30   7.05  MUDUVARPATTI        
+
+
+  39  ENR  58N1420  69A    A   EXP  6.55   7.10  KONDAYAMPATTI       
+
+
+  40  ENR  58N1369  60A    A   EXP  6.50   7.15  ERRAMPATTI          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOODALUR           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  ENR  58N1368  57C    A   EXP  7.00   7.20  SARANTHANGI         
+
+
+  42  ENR  58N1336  70C    A   EXP  7.20   7.25  AYYUR               
+
+
+  43  PON  58N2217  95B    A   SLF  0.00   7.30  T.KOZHINJIPATTI     
+
+
+  44  PON  58N1792  43J    D   SLF  7.30   7.35  MILAGARANAI         
+
+
+  45  PON  58N1328  43B    B   EXP  7.20   7.35  SIRUVALAI           
+
+
+  46  PON  58N1326  43H    A   EXP  7.30   7.35  KOVILPAPPAKUDI      
+
+
+  47  ENR  58N1612  59B    B   SLF  7.20   7.40  SENDHAMANGALAM      
+
+
+  48  BCB  58N2077  57H    A   EXP  7.30   7.45  RAMAGOUNDANPATTI    
+
+
+  49  ENR  58N0593  95A    A   EXP  7.20   7.45  T.METTUPATTI        
+
+
+  50  ENR  58N1352  70     A   EXP  7.40   7.50  PERIAILANDAIKULAM   
+
+
+  51  ENR  58N1674  43F    A   SLF  7.50   7.55  THANDALAI           
+
+
+  52  BCB  58N1757  43K    F   SLF  7.55   8.05  VAVIDAMARUTHUR      
+
+
+  53  ENR  58N1381  59A    C   EXP  8.00   8.05  PONDHUGAMPATTI      
+
+
+  54  ENR  58N1353  43/    A   EXP  7.50   8.10  KUMARAM             
+
+
+  55  ENR  58N2202  69     A   EXP  8.05   8.10  MELACHINNANAMPATTI  
+
+
+  56  PON  58N1315  43A    A   EXP  8.10   8.15  ATHALAI             
+
+
+  57  ENR  58N1382  57*    A   SLF  8.15   8.30  PALAMEDU H.S.SCHOOL 
+
+
+  58  ENR  58N1374  57E    A   EXP  8.00   8.30  VALAYAPATTI         
+
+
+  59  ENR  58N1293  43B    A   EXP  8.10   8.30  SIRUVALAI           
+
+
+  60  MCB  58N1557  57X    C   SLF  8.25   8.30  PALAMEDU SATHA NAGAR
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOODALUR           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  PON  58N1321  43T    A   EXP  8.25   8.30  DINAMANINAGAR       
+
+
+  62  ENR  58N2038  57B    B   EXP  8.30   8.35  SENDHAMANGALAM      
+
+
+  63  ENR  58N0594  70A    A   EXP  8.35   8.40  THATHAGOUNDANPATTI  
+
+
+  64  PON  58N1309  70/    A   EXP  8.40   8.45  KUTTIMEIKKIPATTI    
+
+
+  65  PON  58N1326  43H    A   EXP  8.40   8.45  KOVILPAPPAKUDI      
+
+
+  66  PON  58N1672  57G    A   EXP  8.40   8.45  MANICKKAMPATTI      
+
+
+  67  ENR  58N1413  60C    A   EXP  8.45   9.00  VAIKASIPATTI        
+
+
+  68  ENR  58N1469  95     A   SLF  8.50   9.00  THETHUR             
+
+
+  69  PON  58N2040  43A    B   EXP  9.00   9.05  ATHALAI             
+
+
+  70  PON  58N1328  43B    B   EXP  9.00   9.05  SIRUVALAI           
+
+
+  71  ENR  58N1671  43K    A   EXP  8.55   9.05  VAVIDAMARUTHUR      
+
+
+  72  ENR  58N1342  59C    A   EXP  9.00   9.05  SARANTHANGI         
+
+
+  73  ENR  58N1369  60E    A   EXP  9.10   9.15  PALAMEDU            
+
+
+  74  ENR  58N1420  69A    A   EXP  9.05   9.15  KONDAYAMPATTI       
+
+
+  75  PDR  58N2211  98     A   EXP  9.15   9.20  SHOLAVANDAN         
+
+
+  76  ENR  58N1419  59B    A   EXP  9.20   9.35  SENDHAMANGALAM      
+
+
+  77  PON  58N1315  43A    A   EXP  9.30   9.45  ATHALAI             
+
+
+  78  ENR  58N1302  57E    B   EXP  9.20   9.45  VALAYAPATTI         
+
+
+  79  ENR  58N1336  43F    A   EXP  9.40   9.50  THANDALAI           
+
+
+  80  ENR  58N1674  59D    A   SLF  9.35  10.00  MUDUVARPATTI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOODALUR           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  PON  58N1800  8BJ    A   SLF  9.55  10.05  J.J.NAGAR           
+
+
+  82  ENR  58N0599  57B    A   EXP  9.30  10.05  SENDHAMANGALAM      
+
+
+  83  ENR  58N1368  69/    A   EXP  9.50  10.10  KALVELIPATTI        
+
+
+  84  PON  58N1326  43H    A   EXP  9.55  10.15  KOVILPAPPAKUDI      
+
+
+  85  ENR  58N1293  43B    A   EXP 10.05  10.20  SIRUVALAI           
+
+
+  86  PON  58N2040  43A    B   EXP 10.20  10.25  ATHALAI             
+
+
+  87  ENR  58N0593  95A    A   EXP 10.20  10.25  T.METTUPATTI        
+
+
+  88  ENR  58N1612  59B    B   SLF 10.25  10.35  SENDHAMANGALAM      
+
+
+  89  BCB  58N2077  57J    A   EXP 10.20  10.40  V.PUDUR             
+
+
+  90  ENR  58N2202  69     A   EXP 10.10  10.40  MELACHINNANAMPATTI  
+
+
+  91  MCB  58N1557  57     C   SLF 10.25  10.40  PALAMEDU            
+
+
+  92  ENR  58N1382  57     A   SLF 10.25  10.45  PALAMEDU            
+
+
+  93  CNI  58N1308  43B    A   EXP 10.30  10.45  SURUVALAI           
+
+
+  94  PON  58N1328  43N    B   EXP 10.35  10.50  CHELLANAGOUNDANPATTI
+
+
+  95  ENR  58N1671  43K    A   EXP 10.50  10.55  VAVIDAMARUTHUR      
+
+
+  96  ENR  58N1381  59D    C   EXP 11.00  11.05  MUDUVARPATTI        
+
+
+  97  PON  58N2217  95B    A   SLF  7.30  11.05  T.KOZHINJIPATTI     
+
+
+  98  PON  58N1315  43A    A   EXP 11.00  11.10  ATHALAI             
+
+
+  99  ENR  58N0594  70A    A   EXP 10.45  11.10  THATHAGOUNDANPATTI  
+
+
+ 100  ENR  58N1374  57E    A   EXP 11.05  11.15  VALAYAPATTI         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOODALUR           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  ENR  58N1413  60C    A   EXP 11.15  11.20  VAIKASIPATTI        
+
+
+ 102  PON  58N1800  8BJ    A   SLF 11.20  11.25  J.J.NAGAR           
+
+
+ 103  PON  58N1672  57V    A   EXP 11.15  11.30  VELLAIYAMPATTI      
+
+
+ 104  ENR  58N2038  57K    B   EXP 11.10  11.35  MARAVARPATTI        
+
+
+ 105  ENR  58N1420  69A    A   EXP 11.20  11.35  KONDAYAMPATTI       
+
+
+ 106  PON  58N1326  43H    A   EXP 11.30  11.45  KOVILPAPPAKUDI      
+
+
+ 107  PON  58N2040  43A    B   EXP 11.45  11.50  ATHALAI             
+
+
+ 108  ENR  58N1336  60B    A   EXP 11.15  11.50  A.KOVILPATTI        
+
+
+ 109  ENR  58N1293  43B    A   EXP 11.55  12.00  SIRUVALAI           
+
+
+ 110  ENR  58N1372  43C    D   EXP 11.40  12.00  A.PUDUPATTI         
+
+
+ 111  ENR  58N1353  60     A   EXP 11.55  12.05  KURAVANKULAM        
+
+
+ 112  ENR  58N1469  95     A   SLF 12.00  12.05  THETHUR             
+
+
+ 113  ENR  58N1342  59C    A   EXP 11.40  12.10  SARANTHANGI         
+
+
+ 114  ENR  58N1674  59D    A   SLF 12.05  12.10  MUDUVARPATTI        
+
+
+ 115  ENR  58N1369  60A    A   EXP 11.50  12.15  ERRAMPATTI          
+
+
+ 116  ENR  58N1352  70     A   EXP  7.50  12.20  PERIAILANDAIKULAM   
+
+
+ 117  PON  58N1315  43A    A   EXP 12.25  12.30  ATHALAI             
+
+
+ 118  BCB  58N1776  43M    A   EXP 12.15  12.30  KEELANEDUNKULAM     
+
+
+ 119  PON  58N1328  43B    B   EXP 12.35  12.40  SIRUVALAI           
+
+
+ 120  MCB  58N1557  700    C   SLF 12.35  12.40  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOODALUR           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 121  ENR  58N1382  57     A   SLF 12.40  12.45  PALAMEDU            
+
+
+ 122  ENR  58N2202  69     A   EXP 12.35  12.50  MELACHINNANAMPATTI  
+
+
+ 123  ENR  58N1302  57E    B   EXP 12.10  13.00  VALAYAPATTI         
+
+
+ 124  PON  58N1326  43H    A   EXP 13.05  13.10  KOVILPAPPAKUDI      
+
+
+ 125  ENR  58N1368  57B/   A   EXP 11.55  13.15  66M USILAMPATTI     
+
+
+ 126  PON  58N2040  43A    B   EXP 13.15  13.20  ATHALAI             
+
+
+ 127  ENR  58N1612  59B    B   SLF 13.10  13.20  SENDHAMANGALAM      
+
+
+ 128  PON  58N1800  8BJ    A   SLF 12.50  13.30  J.J.NAGAR           
+
+
+ 129  ENR  58N0593  95A    A   EXP 13.05  13.30  T.METTUPATTI        
+
+
+ 130  ENR  58N1420  69A    A   EXP 13.30  13.35  KONDAYAMPATTI       
+
+
+ 131  ENR  58N1381  59B    C   EXP 13.10  13.50  SENDHAMANGALAM      
+
+
+ 132  PON  58N2217  95B    A   SLF 13.40  13.50  T.KOZHINJIPATTI     
+
+
+ 133  ENR  58N1293  43B    A   EXP 13.35  13.50  SIRUVALAI           
+
+
+ 134  BCB  58N2077  95C    A   EXP 13.45  14.00  RAMAGOUNDANPATTI    
+
+
+ 135  ENR  58N1419  43A    A   EXP 13.40  14.05  ATHALAI             
+
+
+ 136  ENR  58N1336  70C    A   EXP 13.40  14.05  AYYUR               
+
+
+ 137  PON  58N1672  57V    A   EXP 13.55  14.10  VELLAIYAMPATTI      
+
+
+ 138  ENR  58N1353  60     A   EXP 13.55  14.10  KURAVANKULAM        
+
+
+ 139  PON  58N1686  8/     C   SLF 14.20  14.25  ANAIYUR             
+
+
+ 140  MCB  58N1557  57X    C   SLF 13.35  14.25  PALAMEDU SATHA NAGAR
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOODALUR           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 141  ENR  58N1352  70     A   EXP 14.15  14.25  PERIAILANDAIKULAM   
+
+
+ 142  PON  58N1315  43A    A   EXP 13.45  14.30  ATHALAI             
+
+
+ 143  ENR  58N1374  57E    A   EXP 14.05  14.30  VALAYAPATTI         
+
+
+ 144  PON  58N1326  43H    A   EXP 14.25  14.35  KOVILPAPPAKUDI      
+
+
+ 145  ENR  58N1671  43K    A   EXP 12.40  14.40  VAVIDAMARUTHUR      
+
+
+ 146  ENR  58N1382  57     A   SLF 14.30  14.45  PALAMEDU            
+
+
+ 147  ENR  58N2038  57B    B   EXP 14.10  14.45  SENDHAMANGALAM      
+
+
+ 148  ENR  58N1369  60E    A   EXP 14.10  14.50  PALAMEDU            
+
+
+ 149  ENR  58N2202  69     A   EXP 14.45  14.50  MELACHINNANAMPATTI  
+
+
+ 150  PON  58N1800  8BJ    A   SLF 14.50  14.55  J.J.NAGAR           
+
+
+ 151  PON  58N1328  43B    B   EXP 14.15  14.55  SIRUVALAI           
+
+
+ 152  ENR  58N1674  59F    A   SLF 14.20  14.55  KODANGIPATTI        
+
+
+ 153  PON  58N2040  43A    B   EXP 14.35  15.00  ATHALAI             
+
+
+ 154  ENR  58N1469  95     A   SLF 14.40  15.00  THETHUR             
+
+
+ 155  ENR  58N1342  59C    A   EXP 14.55  15.05  SARANTHANGI         
+
+
+ 156  ENR  58N0594  70A    A   EXP 13.15  15.10  THATHAGOUNDANPATTI  
+
+
+ 157  PDR  58N2211  98     A   EXP 14.40  15.10  SHOLAVANDAN         
+
+
+ 158  ENR  58N0599  57B    A   EXP 12.50  15.15  SENDHAMANGALAM      
+
+
+ 159  ENR  58N1372  43C    D   EXP 13.35  15.20  A.PUDUPATTI         
+
+
+ 160  ENR  58N1413  60C    A   EXP 13.35  15.30  VAIKASIPATTI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOODALUR           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 161  PON  58N1798  59A    D   SLF 15.25  15.30  PONDHUGAMPATTI      
+
+
+ 162  ENR  58N1419  59B    A   EXP 15.20  15.35  SENDHAMANGALAM      
+
+
+ 163  ENR  58N1293  43B    A   EXP 15.25  15.40  SIRUVALAI           
+
+
+ 164  BCB  58N1417  57J    J   EXP 15.45  15.50  V.PUDUR             
+
+
+ 165  PON  58N1315  43A    A   EXP 15.45  15.55  ATHALAI             
+
+
+ 166  ENR  58N1420  69A    A   EXP 15.35  15.55  KONDAYAMPATTI       
+
+
+ 167  ENR  58N1302  57E    B   EXP 15.45  16.00  VALAYAPATTI         
+
+
+ 168  PON  58N1326  43H    A   EXP 15.55  16.15  KOVILPAPPAKUDI      
+
+
+ 169  ENR  58N0593  95A    A   EXP 16.05  16.15  T.METTUPATTI        
+
+
+ 170  ENR  58N1368  43F    A   EXP 15.40  16.20  THANDALAI           
+
+
+ 171  ENR  58N1612  59D    B   SLF 16.00  16.20  MUDUVARPATTI        
+
+
+ 172  ENR  58N1336  60B    A   EXP 16.00  16.25  A.KOVILPATTI        
+
+
+ 173  MCB  58N1557  57     C   SLF 16.20  16.25  PALAMEDU            
+
+
+ 174  ENR  58N1352  70     A   EXP 16.15  16.25  PERIAILANDAIKULAM   
+
+
+ 175  PON  58N2040  43A    B   EXP 16.25  16.30  ATHALAI             
+
+
+ 176  PON  58N1328  43B    B   EXP 16.20  16.30  SIRUVALAI           
+
+
+ 177  ENR  58N1671  43K    A   EXP 16.25  16.30  VAVIDAMARUTHUR      
+
+
+ 178  ENR  58N2202  69     A   EXP 16.35  16.40  MELACHINNANAMPATTI  
+
+
+ 179  ENR  58N1382  43N    A   SLF 16.40  16.45  CHELLANAGOUNDANPATTI
+
+
+ 180  PON  58N1672  57G    A   EXP 16.40  16.45  MANICKKAMPATTI      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOODALUR           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 181  PON  58N2217  95B    A   SLF 16.25  16.45  T.KOZHINJIPATTI     
+
+
+ 182  ENR  58N1381  59B    C   EXP 16.35  16.50  SENDHAMANGALAM      
+
+
+ 183  BCB  58N2077  57H    A   EXP 16.45  17.00  RAMAGOUNDANPATTI    
+
+
+ 184  PON  58N1315  43A    A   EXP 17.10  17.15  ATHALAI             
+
+
+ 185  PDR  58N1463  59G    D   SLF 17.15  17.20  DEVASERI            
+
+
+ 186  ENR  58N0594  70A    A   EXP 17.15  17.20  THATHAGOUNDANPATTI  
+
+
+ 187  ENR  58N1372  57B    D   EXP 17.05  17.20  SENDHAMANGALAM      
+
+
+ 188  ENR  58N1374  57E    A   EXP 17.20  17.25  VALAYAPATTI         
+
+
+ 189  ENR  58N1369  43D    A   EXP 17.25  17.30  KALLANAI            
+
+
+ 190  ENR  58N1293  43B    A   EXP 17.15  17.30  SIRUVALAI           
+
+
+ 191  PON  58N1326  43H    A   EXP 17.30  17.35  KOVILPAPPAKUDI      
+
+
+ 192  ENR  58N1674  59D    A   SLF 17.30  17.35  MUDUVARPATTI        
+
+
+ 193  PON  58N1309  70/    A   EXP 17.30  17.40  KUTTIMEIKKIPATTI    
+
+
+ 194  PON  58N2040  43A    B   EXP 17.45  17.50  ATHALAI             
+
+
+ 195  ENR  58N1368  57C    A   EXP 17.45  17.50  SARANTHANGI         
+
+
+ 196  ENR  58N2038  59K    B   EXP 14.45  17.55  OORSERI             
+
+
+ 197  ENR  58N1413  70C    A   EXP 17.45  17.55  AYYUR               
+
+
+ 198  ENR  58N1420  69A    A   EXP 17.50  17.55  KONDAYAMPATTI       
+
+
+ 199  ENR  58N1342  59C    A   EXP 17.45  17.55  SARANTHANGI         
+
+
+ 200  PON  58N1792  43J    D   SLF 17.50  18.00  MILAGARANAI         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOODALUR           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 201  ENR  58N1469  95     A   SLF 17.45  18.00  THETHUR             
+
+
+ 202  PON  58N1328  43B    B   EXP 18.05  18.10  SIRUVALAI           
+
+
+ 203  ENR  58N1336  43F    A   EXP 18.15  18.20  THANDALAI           
+
+
+ 204  ENR  58N1302  57E    B   EXP 18.25  18.30  VALAYAPATTI         
+
+
+ 205  CNI  58N1978  43M    A   EXP 18.15  18.30  KEELANEDUNKULAM     
+
+
+ 206  ENR  58N1419  59D    A   EXP 18.10  18.35  MUDUVARPATTI        
+
+
+ 207  ENR  58N0599  57A    A   EXP 18.35  18.40  66P METTUPATTI      
+
+
+ 208  PON  58N1315  43A    A   EXP 18.30  18.45  ATHALAI             
+
+
+ 209  ENR  58N1671  43K    A   EXP 18.40  18.45  VAVIDAMARUTHUR      
+
+
+ 210  PON  58N1326  43H    A   EXP 18.50  18.55  KOVILPAPPAKUDI      
+
+
+ 211  ENR  58N2202  69     A   EXP 18.30  18.55  MELACHINNANAMPATTI  
+
+
+ 212  PON  58N1800  8BJ    A   SLF 18.55  19.00  J.J.NAGAR           
+
+
+ 213  ENR  58N1382  57     A   SLF 18.45  19.00  PALAMEDU            
+
+
+ 214  ENR  58N1612  59B    B   SLF 18.30  19.00  SENDHAMANGALAM      
+
+
+ 215  ENR  58N1353  43     A   EXP 18.55  19.10  ALANGANALLUR        
+
+
+ 216  ENR  58N1369  60A    A   EXP 18.55  19.10  ERRAMPATTI          
+
+
+ 217  BCB  58N1417  57J    J   EXP 18.35  19.15  V.PUDUR             
+
+
+ 218  PON  58N1672  57V    A   EXP 19.05  19.15  VELLAIYAMPATTI      
+
+
+ 219  PON  58N2040  43A    B   EXP 19.10  19.25  ATHALAI             
+
+
+ 220  PON  58N1688  59L    B   SLF  0.00  19.30  LINAGAVADI          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOODALUR           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 221  ENR  58N1293  43B    A   EXP 19.05  19.30  SIRUVALAI           
+
+
+ 222  ENR  58N0594  70A    A   EXP 19.35  19.40  THATHAGOUNDANPATTI  
+
+
+ 223  PON  58N1798  69B    D   SLF 19.45  19.55  VITTANGULAM         
+
+
+ 224  PON  58N1328  43N    B   EXP 19.45  20.00  CHELLANAGOUNDANPATTI
+
+
+ 225  BCB  58N2077  57J    A   EXP 19.40  20.00  V.PUDUR             
+
+
+ 226  PON  58N2217  95B    A   SLF 16.45  20.00  T.KOZHINJIPATTI     
+
+
+ 227  PON  58N1315  43A    A   EXP 20.00  20.05  ATHALAI             
+
+
+ 228  ENR  58N1336  70C    A   EXP 19.45  20.10  AYYUR               
+
+
+ 229  ENR  58N1372  60D    D   EXP 19.55  20.10  KEELACHINNANAMPATTI 
+
+
+ 230  CNI  58N1308  43B    A   EXP 20.05  20.10  SIRUVALAI           
+
+
+ 231  ENR  58N1674  59B    A   SLF 19.40  20.10  SENDHAMANGALAM      
+
+
+ 232  ENR  58N2038  57K    B   EXP 19.50  20.20  MARAVARPATTI        
+
+
+ 233  ENR  58N1381  43M    C   EXP 19.35  20.25  KEELANEDUNKULAM     
+
+
+ 234  ENR  58N1413  43F    A   EXP 20.10  20.25  THANDALAI           
+
+
+ 235  PON  58N1800  8AV    A   SLF 20.15  20.30  ANAIYURVAIGAIVADAKAR
+
+
+ 236  PON  58N1326  43H    A   EXP 20.10  20.30  KOVILPAPPAKUDI      
+
+
+ 237  ENR  58N1374  57E    A   EXP 20.15  20.35  VALAYAPATTI         
+
+
+ 238  ENR  58N1352  70     A   EXP 16.25  20.45  PERIAILANDAIKULAM   
+
+
+ 239  ENR  58N1469  95     A   SLF 20.45  20.55  THETHUR             
+
+
+ 240  MCB  58N1426  69J    A   EXP 20.45  20.55  NADUPATTI           
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOODALUR           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 241  MCB  58N1653  59D    A   SLF 19.45  21.00  MUDUVARPATTI        
+
+
+ 242  ENR  58N1382  57     A   SLF 20.50  21.00  PALAMEDU            
+
+
+ 243  PDR  58N2211  59DX   A   EXP 20.45  21.00  OORSERI             
+
+
+ 244  MCB  58N1325  57H    B   EXP 18.55  21.05  RAMAGOUNDANPATTI    
+
+
+ 245  ENR  58N2202  69     A   EXP 20.45  21.10  MELACHINNANAMPATTI  
+
+
+ 246  ENR  58N0599  57B    A   EXP 21.10  21.15  SENDHAMANGALAM      
+
+
+ 247  ENR  58N1353  60     A   EXP 20.45  21.15  KURAVANKULAM        
+
+
+ 248  ENR  58N1293  43B    A   EXP 21.10  21.15  SIRUVALAI           
+
+
+ 249  PON  58N1315  43A    A   EXP 21.20  21.25  ATHALAI             
+
+
+ 250  ENR  58N1671  43K    A   EXP 20.35  21.25  VAVIDAMARUTHUR      
+
+
+ 251  ENR  58N1369  60A    A   EXP 21.10  21.30  ERRAMPATTI          
+
+
+ 252  ENR  58N1342  59C    A   EXP 20.35  21.40  SARANTHANGI         
+
+
+ 253  PON  58N1326  43H    A   EXP 21.40  21.45  KOVILPAPPAKUDI      
+
+
+ 254  ENR  58N1420  69A    A   EXP 19.50  21.50  KONDAYAMPATTI       
+
+
+ 255  PON  58N1328  43F    B   EXP 21.45  21.55  THANDALAI           
+
+
+ 256  ENR  58N1368  57     A   EXP 20.15  21.55  PALAMEDU            
+
+
+ 257  ENR  58N0593  95A    A   EXP 18.50  21.55  T.METTUPATTI        
+
+
+ 258  PON  58N2040  43A    B   EXP 22.00  22.05  ATHALAI             
+
+
+ 259  ENR  58N1419  59B    A   EXP 20.50  22.05  SENDHAMANGALAM      
+
+
+ 260  ENR  58N0594  70A    A   EXP 21.40  22.10  THATHAGOUNDANPATTI  
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA - KOODALUR           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 261  ENR  58N1413  60C    A   EXP 21.50  22.20  VAIKASIPATTI        
+
+
+ 262  ENR  58N1372  57     D   EXP 21.55  22.20  PALAMEDU            
+
+
+ 263  ENR  58N1302  57E    B   EXP 21.05  22.30  VALAYAPATTI         
+
+
+ 264  ENR  58N2200  43     A   EXP 20.35  22.45  ALANGANALLUR        
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

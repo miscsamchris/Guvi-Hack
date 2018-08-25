@@ -1,0 +1,1448 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  PON  58N1665  77B    G   EXP  0.00   4.35  M.G.R.BUSSTAND      
+
+
+   2  BCB  58N1717  77B    P   SLF  4.43   4.45  M.G.R.BUSSTAND      
+
+
+   3  ENR  58N1450  77BA   B   SLF  4.50   4.55  M.G.R.BUSSTAND      
+
+
+   4  ENR  58N2361  A1     G   EXP  0.00   5.00  ARAPPALAYAM BUS STAN
+
+
+   5  PON  58N1762  77BA   S   SLF  0.00   5.00  M.G.R.BUSSTAND      
+
+
+   6  PON  58N1807  77B    R   ORD  0.00   5.05  M.G.R.BUSSTAND      
+
+
+   7  PDR  58N1445  77B    X   SLF  5.15   5.20  M.G.R.BUSSTAND      
+
+
+   8  PDR  58N1494  77B    L   SLF  5.20   5.25  M.G.R.BUSSTAND      
+
+
+   9  PDR  58N1482  77B    N   SLF  5.25   5.27  M.G.R.BUSSTAND      
+
+
+  10  ENR  58N2347  77BA   F   SLF  0.00   5.28  M.G.R.BUSSTAND      
+
+
+  11  PON  58N1665  77B    G   EXP  5.20   5.30  M.G.R.BUSSTAND      
+
+
+  12  PON  58N2333  77B    G   ORD  0.00   5.30  M.G.R.BUSSTAND      
+
+
+  13  BCB  58N1780  66J    A   SLF  5.33   5.35  THIRUVATHAVUR       
+
+
+  14  PON  58N1797  77B    J   SLF  0.00   5.35  M.G.R.BUSSTAND      
+
+
+  15  PON  58N1708  77BA   I   SLF  5.33   5.35  M.G.R.BUSSTAND      
+
+
+  16  SIP  58N1681  77BA   A   SLF  5.37   5.42  M.G.R.BUSSTAND      
+
+
+  17  BCB  58N1747  77B    H   SLF  5.40   5.45  M.G.R.BUSSTAND      
+
+
+  18  ENR  58N2361  A1     G   EXP  5.00   5.45  ARAPPALAYAM BUS STAN
+
+
+  19  MCB  58N2346  77B    U   SLF  0.00   5.53  M.G.R.BUSSTAND      
+
+
+  20  PDK  58N1576  77B    K   SLF  5.50   5.55  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  PON  58N1789  77BA   B   SLF  0.00   5.56  M.G.R.BUSSTAND      
+
+
+  22  PDR  58N1635  7P     Q   SLF  5.55   6.02  M.G.R.BUSSTAND      
+
+
+  23  PON  58N2329  77B    D   SLF  0.00   6.05  M.G.R.BUSSTAND      
+
+
+  24  BCB  58N1717  77B    P   SLF  5.45   6.05  M.G.R.BUSSTAND      
+
+
+  25  PON  58N1807  77B    R   ORD  6.00   6.05  M.G.R.BUSSTAND      
+
+
+  26  BCB  58N2362  A1     D   EXP  0.00   6.05  ARAPPALAYAM BUS STAN
+
+
+  27  PON  58N1762  77BA   S   SLF  6.05   6.10  M.G.R.BUSSTAND      
+
+
+  28  PDK  58N1441  77B    E   SLF  6.05   6.10  M.G.R.BUSSTAND      
+
+
+  29  PDR  58N1433  77B    Y   SLF  6.10   6.15  M.G.R.BUSSTAND      
+
+
+  30  MLR  58N1654  75A    D   SLF  6.15   6.20  MELUR               
+
+
+  31  TPK  58N2334  77BA   E   SLF  6.19   6.24  M.G.R.BUSSTAND      
+
+
+  32  ENR  58N1642  77B    M   SLF  0.00   6.25  M.G.R.BUSSTAND      
+
+
+  33  PDR  58N1482  77B    N   SLF  6.20   6.25  M.G.R.BUSSTAND      
+
+
+  34  PDR  58N1494  77B    L   SLF  6.20   6.30  M.G.R.BUSSTAND      
+
+
+  35  ENR  58N2361  A1     G   EXP  5.45   6.30  ARAPPALAYAM BUS STAN
+
+
+  36  PDR  58N1445  77B    X   SLF  6.25   6.35  M.G.R.BUSSTAND      
+
+
+  37  ENR  58N2347  77BA   F   SLF  6.33   6.38  M.G.R.BUSSTAND      
+
+
+  38  PDR  58N1460  77A    E   SLF  6.35   6.40  VANDIYUR            
+
+
+  39  PON  58N2333  77B    G   ORD  6.30   6.40  M.G.R.BUSSTAND      
+
+
+  40  PON  58N1708  77BA   I   SLF  6.35   6.45  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  PON  58N1797  77B    J   SLF  6.37   6.50  M.G.R.BUSSTAND      
+
+
+  42  BCB  58N2362  A1     D   EXP  6.05   6.50  ARAPPALAYAM BUS STAN
+
+
+  43  SIP  58N1681  77BA   A   SLF  6.47   6.52  M.G.R.BUSSTAND      
+
+
+  44  PDK  58N2340  77B    T   SLF  6.35   6.53  M.G.R.BUSSTAND      
+
+
+  45  BCB  58N1747  77B    H   SLF  6.45   6.55  M.G.R.BUSSTAND      
+
+
+  46  BCB  58N1713  66J    B   SLF  6.50   7.00  THIRUVATHAVUR       
+
+
+  47  PDR  58N1543  77B    O   SLF  6.50   7.00  M.G.R.BUSSTAND      
+
+
+  48  PDK  58N1576  77B    K   SLF  6.55   7.05  M.G.R.BUSSTAND      
+
+
+  49  PON  58N1789  77BA   B   SLF  7.01   7.06  M.G.R.BUSSTAND      
+
+
+  50  MCB  58N2346  77B    U   SLF  6.48   7.08  M.G.R.BUSSTAND      
+
+
+  51  PDR  58N1433  77B    Y   SLF  7.15   7.20  M.G.R.BUSSTAND      
+
+
+  52  ENR  58N2361  A1     G   EXP  6.30   7.20  ARAPPALAYAM BUS STAN
+
+
+  53  PDR  58N1635  77G    Q   SLF  7.10   7.22  VALAR NAGAR         
+
+
+  54  PON  58N1762  77BA   S   SLF  7.20   7.23  M.G.R.BUSSTAND      
+
+
+  55  PON  58N2329  77B    D   SLF  7.10   7.25  M.G.R.BUSSTAND      
+
+
+  56  PON  58N1807  77B    R   ORD  7.20   7.25  M.G.R.BUSSTAND      
+
+
+  57  PDK  58N1441  77B    E   SLF  7.25   7.30  M.G.R.BUSSTAND      
+
+
+  58  ENR  58N1642  77B    M   SLF  7.25   7.35  M.G.R.BUSSTAND      
+
+
+  59  PDR  58N1482  77B    N   SLF  7.30   7.35  M.G.R.BUSSTAND      
+
+
+  60  BCB  58N2362  A1     D   EXP  6.50   7.35  ARAPPALAYAM BUS STAN
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  TPK  58N2334  77BA   E   SLF  7.34   7.37  M.G.R.BUSSTAND      
+
+
+  62  PDR  58N1494  77B    L   SLF  7.35   7.40  M.G.R.BUSSTAND      
+
+
+  63  PDR  58N1445  77B    X   SLF  7.40   7.45  M.G.R.BUSSTAND      
+
+
+  64  PON  58N2333  77B    G   ORD  7.40   7.50  M.G.R.BUSSTAND      
+
+
+  65  ENR  58N2347  77BA   F   SLF  7.48   7.51  M.G.R.BUSSTAND      
+
+
+  66  PDK  58N2340  77B    T   SLF  7.58   8.00  M.G.R.BUSSTAND      
+
+
+  67  BCB  58N1747  77B    H   SLF  8.00   8.05  M.G.R.BUSSTAND      
+
+
+  68  ENR  58N2361  A1     G   EXP  7.20   8.05  ARAPPALAYAM BUS STAN
+
+
+  69  SIP  58N1681  77BA   A   SLF  8.02   8.05  M.G.R.BUSSTAND      
+
+
+  70  BCB  58N1780  66J    A   SLF  8.05   8.10  THIRUVATHAVUR       
+
+
+  71  PDR  58N1460  77A    E   SLF  8.05   8.10  VANDIYUR            
+
+
+  72  PDR  58N1543  77B    O   SLF  8.05   8.10  M.G.R.BUSSTAND      
+
+
+  73  PDK  58N1576  77B    K   SLF  8.10   8.15  M.G.R.BUSSTAND      
+
+
+  74  MCB  58N2346  77B    U   SLF  8.13   8.18  M.G.R.BUSSTAND      
+
+
+  75  PON  58N1789  77BA   B   SLF  8.16   8.19  M.G.R.BUSSTAND      
+
+
+  76  PON  58N1762  77BA   S   SLF  8.26   8.29  M.G.R.BUSSTAND      
+
+
+  77  PON  58N2329  77B    D   SLF  8.25   8.30  M.G.R.BUSSTAND      
+
+
+  78  BCB  58N2362  A1     D   EXP  7.35   8.30  ARAPPALAYAM BUS STAN
+
+
+  79  PDR  58N1433  77B    Y   SLF  8.30   8.35  M.G.R.BUSSTAND      
+
+
+  80  PON  58N1807  77B    R   ORD  8.30   8.35  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  PDK  58N1441  77B    E   SLF  8.35   8.40  M.G.R.BUSSTAND      
+
+
+  82  TPK  58N2334  77BA   E   SLF  8.40   8.43  M.G.R.BUSSTAND      
+
+
+  83  ENR  58N1642  77B    M   SLF  8.35   8.45  M.G.R.BUSSTAND      
+
+
+  84  PDR  58N1482  77B    N   SLF  8.40   8.45  M.G.R.BUSSTAND      
+
+
+  85  MLR  58N1654  75A    D   SLF  8.35   8.50  MELUR               
+
+
+  86  PDR  58N1494  77B    L   SLF  8.45   8.50  M.G.R.BUSSTAND      
+
+
+  87  PDR  58N1635  7P     Q   SLF  8.47   8.52  M.G.R.BUSSTAND      
+
+
+  88  PDR  58N1445  77B    X   SLF  8.50   8.55  M.G.R.BUSSTAND      
+
+
+  89  ENR  58N2347  77BA   F   SLF  8.54   8.57  M.G.R.BUSSTAND      
+
+
+  90  PON  58N2333  77B    G   ORD  8.55   9.00  M.G.R.BUSSTAND      
+
+
+  91  ENR  58N2361  A1     G   EXP  8.05   9.00  ARAPPALAYAM BUS STAN
+
+
+  92  PON  58N1708  77BA   I   SLF  9.05   9.10  M.G.R.BUSSTAND      
+
+
+  93  SIP  58N1681  77BA   A   SLF  9.08   9.11  M.G.R.BUSSTAND      
+
+
+  94  PDK  58N2340  77B    T   SLF  9.05   9.13  M.G.R.BUSSTAND      
+
+
+  95  BCB  58N1747  77B    H   SLF  9.10   9.15  M.G.R.BUSSTAND      
+
+
+  96  BCB  58N2362  A1     D   EXP  8.30   9.15  ARAPPALAYAM BUS STAN
+
+
+  97  PDR  58N1543  77B    O   SLF  9.15   9.20  M.G.R.BUSSTAND      
+
+
+  98  PON  58N1789  77BA   B   SLF  9.22   9.25  M.G.R.BUSSTAND      
+
+
+  99  PDK  58N1576  77B    K   SLF  9.20   9.25  M.G.R.BUSSTAND      
+
+
+ 100  MCB  58N2346  77B    U   SLF  9.23   9.28  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  PDR  58N1460  77A    E   SLF  9.25   9.30  VANDIYUR            
+
+
+ 102  PON  58N1762  77BA   S   SLF  9.32   9.35  M.G.R.BUSSTAND      
+
+
+ 103  PON  58N1688  77B    B   SLF  9.35   9.40  M.G.R.BUSSTAND      
+
+
+ 104  PON  58N2329  77B    D   SLF  9.35   9.40  M.G.R.BUSSTAND      
+
+
+ 105  BCB  58N1713  66J    B   SLF  9.40   9.45  THIRUVATHAVUR       
+
+
+ 106  PDR  58N1433  77B    Y   SLF  9.40   9.45  M.G.R.BUSSTAND      
+
+
+ 107  PON  58N1807  77B    R   ORD  9.40   9.45  M.G.R.BUSSTAND      
+
+
+ 108  ENR  58N2361  A1     G   EXP  9.00   9.45  ARAPPALAYAM BUS STAN
+
+
+ 109  TPK  58N2334  77BA   E   SLF  9.46   9.49  M.G.R.BUSSTAND      
+
+
+ 110  CNI  58N1341  77B    A   EXP  9.45   9.50  M.G.R.BUSSTAND      
+
+
+ 111  ENR  58N1570  77B    R   SLF  9.45   9.50  M.G.R.BUSSTAND      
+
+
+ 112  PDK  58N1441  77B    E   SLF  9.45   9.50  M.G.R.BUSSTAND      
+
+
+ 113  ENR  58N1642  77B    M   SLF  9.50   9.55  M.G.R.BUSSTAND      
+
+
+ 114  PDR  58N1494  77B    L   SLF  9.55  10.00  M.G.R.BUSSTAND      
+
+
+ 115  PDR  58N1482  77B    N   SLF  9.50  10.00  M.G.R.BUSSTAND      
+
+
+ 116  BCB  58N2362  A1     D   EXP  9.15  10.00  ARAPPALAYAM BUS STAN
+
+
+ 117  BCB  58N1717  77E    P   SLF 10.00  10.02  HIGH COURT          
+
+
+ 118  ENR  58N2347  77BA   F   SLF 10.00  10.03  M.G.R.BUSSTAND      
+
+
+ 119  PDR  58N1445  77B    X   SLF 10.00  10.05  M.G.R.BUSSTAND      
+
+
+ 120  MCB  58N1384  77BA   A   EXP 10.00  10.06  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 121  PON  58N2333  77B    G   ORD 10.05  10.10  M.G.R.BUSSTAND      
+
+
+ 122  PDR  58N1635  77G    Q   SLF 10.03  10.12  VALAR NAGAR         
+
+
+ 123  SIP  58N1681  77BA   A   SLF 10.14  10.17  M.G.R.BUSSTAND      
+
+
+ 124  PON  58N1708  77BA   I   SLF 10.15  10.20  M.G.R.BUSSTAND      
+
+
+ 125  PDK  58N2340  77B    T   SLF 10.18  10.23  M.G.R.BUSSTAND      
+
+
+ 126  BCB  58N1747  77B    H   SLF 10.20  10.25  M.G.R.BUSSTAND      
+
+
+ 127  PDR  58N1543  77B    O   SLF 10.25  10.30  M.G.R.BUSSTAND      
+
+
+ 128  ENR  58N2361  A1     G   EXP  9.45  10.30  ARAPPALAYAM BUS STAN
+
+
+ 129  PON  58N1789  77BA   B   SLF 10.28  10.31  M.G.R.BUSSTAND      
+
+
+ 130  ENR  58N1467  77BA   A   SLF 10.30  10.35  M.G.R.BUSSTAND      
+
+
+ 131  PDK  58N1576  77B    K   SLF 10.30  10.35  M.G.R.BUSSTAND      
+
+
+ 132  MCB  58N2346  77B    U   SLF 10.33  10.38  M.G.R.BUSSTAND      
+
+
+ 133  PDR  58N0966  77BA   A   SLF 10.35  10.38  M.G.R.BUSSTAND      
+
+
+ 134  PON  58N1762  77BA   S   SLF 10.38  10.41  M.G.R.BUSSTAND      
+
+
+ 135  BCB  58N2362  A1     D   EXP 10.00  10.45  ARAPPALAYAM BUS STAN
+
+
+ 136  PDR  58N0991  77BA   A   SLF 10.40  10.45  M.G.R.BUSSTAND      
+
+
+ 137  PON  58N1688  75A    B   SLF 10.45  10.50  MELUR               
+
+
+ 138  PDR  58N1460  77A    E   SLF 10.45  10.50  VANDIYUR            
+
+
+ 139  TPK  58N2334  77BA   E   SLF 10.52  10.55  M.G.R.BUSSTAND      
+
+
+ 140  BCB  58N1780  66J    A   SLF 10.50  11.00  THIRUVATHAVUR       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 141  PON  58N2329  77B    D   SLF 10.45  11.00  M.G.R.BUSSTAND      
+
+
+ 142  ENR  58N1570  *25B   R   SLF 10.55  11.00  ANAIYUR             
+
+
+ 143  PDR  58N1433  77B    Y   SLF 10.50  11.05  M.G.R.BUSSTAND      
+
+
+ 144  PON  58N1807  77B    R   ORD 10.50  11.05  M.G.R.BUSSTAND      
+
+
+ 145  ENR  58N2347  77BA   F   SLF 11.06  11.09  M.G.R.BUSSTAND      
+
+
+ 146  MLR  58N1654  75A    D   SLF 11.05  11.10  MELUR               
+
+
+ 147  PDK  58N1441  77B    E   SLF 10.55  11.10  M.G.R.BUSSTAND      
+
+
+ 148  MCB  58N1384  77BA   A   EXP 11.10  11.12  M.G.R.BUSSTAND      
+
+
+ 149  ENR  58N1642  77B    M   SLF 11.00  11.15  M.G.R.BUSSTAND      
+
+
+ 150  ENR  58N2361  A1     G   EXP 10.30  11.15  ARAPPALAYAM BUS STAN
+
+
+ 151  PDR  58N1494  77B    L   SLF 11.05  11.20  M.G.R.BUSSTAND      
+
+
+ 152  PON  58N1797  77B    J   SLF 11.05  11.22  M.G.R.BUSSTAND      
+
+
+ 153  SIP  58N1681  77BA   A   SLF 11.20  11.23  M.G.R.BUSSTAND      
+
+
+ 154  PDR  58N1445  77B    X   SLF 11.10  11.25  M.G.R.BUSSTAND      
+
+
+ 155  PON  58N2333  77B    G   ORD 11.15  11.30  M.G.R.BUSSTAND      
+
+
+ 156  PDR  58N1482  77B    N   SLF 11.15  11.30  M.G.R.BUSSTAND      
+
+
+ 157  BCB  58N2362  A1     D   EXP 10.45  11.30  ARAPPALAYAM BUS STAN
+
+
+ 158  PON  58N1708  77BA   I   SLF 11.25  11.35  M.G.R.BUSSTAND      
+
+
+ 159  PON  58N1789  77BA   B   SLF 11.34  11.37  M.G.R.BUSSTAND      
+
+
+ 160  PDK  58N2340  77B    T   SLF 11.38  11.43  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 161  BCB  58N1747  77B    H   SLF 11.30  11.45  M.G.R.BUSSTAND      
+
+
+ 162  PDR  58N1543  77B    O   SLF 11.35  11.50  M.G.R.BUSSTAND      
+
+
+ 163  BCB  58N1717  77B    P   SLF 11.30  11.52  M.G.R.BUSSTAND      
+
+
+ 164  PDR  58N0991  77BA   A   SLF 11.50  11.55  M.G.R.BUSSTAND      
+
+
+ 165  PDK  58N1576  77B    K   SLF 11.40  11.55  M.G.R.BUSSTAND      
+
+
+ 166  PON  58N1762  77BA   S   SLF 11.51  11.56  M.G.R.BUSSTAND      
+
+
+ 167  MCB  58N2346  77B    U   SLF 11.53  11.58  M.G.R.BUSSTAND      
+
+
+ 168  ENR  58N2361  A1     G   EXP 11.15  12.00  ARAPPALAYAM BUS STAN
+
+
+ 169  PDR  58N1635  7P     Q   SLF 11.45  12.08  M.G.R.BUSSTAND      
+
+
+ 170  PON  58N2329  77B    D   SLF 12.05  12.10  M.G.R.BUSSTAND      
+
+
+ 171  TPK  58N2334  77BA   E   SLF 12.05  12.10  M.G.R.BUSSTAND      
+
+
+ 172  PDR  58N1433  77B    Y   SLF 12.10  12.15  M.G.R.BUSSTAND      
+
+
+ 173  PON  58N1807  77B    R   ORD 12.10  12.15  M.G.R.BUSSTAND      
+
+
+ 174  BCB  58N2362  A1     D   EXP 11.30  12.15  ARAPPALAYAM BUS STAN
+
+
+ 175  PDK  58N1441  77B    E   SLF 12.15  12.20  M.G.R.BUSSTAND      
+
+
+ 176  ENR  58N2347  77BA   F   SLF 12.19  12.24  M.G.R.BUSSTAND      
+
+
+ 177  ENR  58N1642  77B    M   SLF 12.20  12.25  M.G.R.BUSSTAND      
+
+
+ 178  PDR  58N1494  77B    L   SLF 12.25  12.30  M.G.R.BUSSTAND      
+
+
+ 179  BCB  58N1713  66J    B   SLF 12.20  12.35  THIRUVATHAVUR       
+
+
+ 180  PDR  58N1445  77B    X   SLF 12.30  12.35  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 181  PON  58N1797  77B    J   SLF 12.32  12.38  M.G.R.BUSSTAND      
+
+
+ 182  SIP  58N1681  77BA   A   SLF 12.33  12.38  M.G.R.BUSSTAND      
+
+
+ 183  PON  58N2333  77B    G   ORD 12.35  12.40  M.G.R.BUSSTAND      
+
+
+ 184  PDR  58N1482  77B    N   SLF 12.35  12.40  M.G.R.BUSSTAND      
+
+
+ 185  PON  58N1708  77BA   I   SLF 12.40  12.45  M.G.R.BUSSTAND      
+
+
+ 186  ENR  58N2361  A1     G   EXP 12.00  12.50  ARAPPALAYAM BUS STAN
+
+
+ 187  PON  58N1789  77BA   B   SLF 12.47  12.50  M.G.R.BUSSTAND      
+
+
+ 188  PDK  58N2340  77B    T   SLF 12.48  12.53  M.G.R.BUSSTAND      
+
+
+ 189  BCB  58N1747  77B    H   SLF 12.50  12.55  M.G.R.BUSSTAND      
+
+
+ 190  PDR  58N1543  77B    O   SLF 12.55  13.00  M.G.R.BUSSTAND      
+
+
+ 191  ENR  58N1570  77J    R   SLF 12.45  13.00  ANAIYUR             
+
+
+ 192  BCB  58N2362  A1     D   EXP 12.15  13.00  ARAPPALAYAM BUS STAN
+
+
+ 193  PDR  58N0991  77BA   A   SLF 13.00  13.05  M.G.R.BUSSTAND      
+
+
+ 194  PDK  58N1576  77B    K   SLF 13.00  13.05  M.G.R.BUSSTAND      
+
+
+ 195  MCB  58N2346  77B    U   SLF 13.03  13.08  M.G.R.BUSSTAND      
+
+
+ 196  PON  58N2329  77B    D   SLF 13.15  13.20  M.G.R.BUSSTAND      
+
+
+ 197  PON  58N1762  77BA   S   SLF 13.06  13.20  M.G.R.BUSSTAND      
+
+
+ 198  PDR  58N1433  77B    Y   SLF 13.20  13.25  M.G.R.BUSSTAND      
+
+
+ 199  PDR  58N1635  7P     Q   SLF 13.23  13.28  M.G.R.BUSSTAND      
+
+
+ 200  PDR  58N1460  77BA   E   SLF 12.00  13.35  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 201  ENR  58N1642  77B    M   SLF 13.30  13.35  M.G.R.BUSSTAND      
+
+
+ 202  PON  58N1807  77B    R   ORD 13.20  13.35  M.G.R.BUSSTAND      
+
+
+ 203  ENR  58N2361  A1     G   EXP 12.50  13.35  ARAPPALAYAM BUS STAN
+
+
+ 204  PDK  58N1441  77B    E   SLF 13.25  13.40  M.G.R.BUSSTAND      
+
+
+ 205  ENR  58N2347  77BA   F   SLF 13.34  13.44  M.G.R.BUSSTAND      
+
+
+ 206  MLR  58N1654  75A    D   SLF 13.25  13.45  MELUR               
+
+
+ 207  BCB  58N2362  A1     D   EXP 13.00  13.45  ARAPPALAYAM BUS STAN
+
+
+ 208  PDR  58N1494  77B    L   SLF 13.45  13.50  M.G.R.BUSSTAND      
+
+
+ 209  PDR  58N1445  77B    X   SLF 13.50  13.55  M.G.R.BUSSTAND      
+
+
+ 210  PON  58N1797  77B    J   SLF 13.43  13.58  M.G.R.BUSSTAND      
+
+
+ 211  BCB  58N1780  66J    A   SLF 13.35  14.00  THIRUVATHAVUR       
+
+
+ 212  PON  58N2333  77B    G   ORD 13.45  14.00  M.G.R.BUSSTAND      
+
+
+ 213  PDR  58N1482  77B    N   SLF 14.00  14.05  M.G.R.BUSSTAND      
+
+
+ 214  PON  58N1708  77BA   I   SLF 13.50  14.05  M.G.R.BUSSTAND      
+
+
+ 215  BCB  58N1717  77B    P   SLF 12.57  14.08  M.G.R.BUSSTAND      
+
+
+ 216  PDR  58N1543  77B    O   SLF 14.05  14.10  M.G.R.BUSSTAND      
+
+
+ 217  PON  58N1789  77BA   B   SLF 14.02  14.12  M.G.R.BUSSTAND      
+
+
+ 218  PDK  58N2340  77B    T   SLF 14.08  14.13  M.G.R.BUSSTAND      
+
+
+ 219  PON  58N1688  77B    B   SLF 12.55  14.15  M.G.R.BUSSTAND      
+
+
+ 220  BCB  58N1747  77B    H   SLF 14.00  14.15  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 221  ENR  58N2361  A1     G   EXP 13.35  14.20  ARAPPALAYAM BUS STAN
+
+
+ 222  PDK  58N1576  77B    K   SLF 14.10  14.25  M.G.R.BUSSTAND      
+
+
+ 223  MCB  58N2346  77B    U   SLF 14.23  14.28  M.G.R.BUSSTAND      
+
+
+ 224  PON  58N1762  77BA   S   SLF 14.21  14.30  M.G.R.BUSSTAND      
+
+
+ 225  BCB  58N2362  A1     D   EXP 13.45  14.35  ARAPPALAYAM BUS STAN
+
+
+ 226  TPK  58N2334  77BA   E   SLF 14.38  14.40  M.G.R.BUSSTAND      
+
+
+ 227  PON  58N1801  77BA   Q   SLF 14.25  14.45  M.G.R.BUSSTAND      
+
+
+ 228  PDR  58N1635  7P     Q   SLF 14.42  14.47  M.G.R.BUSSTAND      
+
+
+ 229  PON  58N2329  77B    D   SLF 14.25  14.50  M.G.R.BUSSTAND      
+
+
+ 230  ENR  58N1570  77J    R   SLF 14.25  14.50  ANAIYUR             
+
+
+ 231  ENR  58N2347  77BA   F   SLF 14.49  14.54  M.G.R.BUSSTAND      
+
+
+ 232  PDR  58N1433  77B    Y   SLF 14.35  14.55  M.G.R.BUSSTAND      
+
+
+ 233  PON  58N1807  77B    R   ORD 14.40  14.55  M.G.R.BUSSTAND      
+
+
+ 234  PDR  58N1460  77A    E   SLF 14.53  15.00  VANDIYUR            
+
+
+ 235  PDK  58N1441  77B    E   SLF 14.45  15.00  M.G.R.BUSSTAND      
+
+
+ 236  PON  58N1797  77B    J   SLF 14.53  15.03  M.G.R.BUSSTAND      
+
+
+ 237  BCB  58N1713  66J    B   SLF 15.00  15.05  THIRUVATHAVUR       
+
+
+ 238  ENR  58N1642  77B    M   SLF 14.40  15.05  M.G.R.BUSSTAND      
+
+
+ 239  ENR  58N2361  A1     G   EXP 14.20  15.05  ARAPPALAYAM BUS STAN
+
+
+ 240  PDR  58N0966  77BA   A   SLF 15.00  15.05  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 241  SIP  58N1681  77BA   A   SLF 15.03  15.08  M.G.R.BUSSTAND      
+
+
+ 242  PDR  58N1494  77B    L   SLF 14.55  15.10  M.G.R.BUSSTAND      
+
+
+ 243  PDR  58N1482  77B    N   SLF 15.10  15.15  M.G.R.BUSSTAND      
+
+
+ 244  PDR  58N1445  77B    X   SLF 15.00  15.15  M.G.R.BUSSTAND      
+
+
+ 245  PON  58N1708  77BA   I   SLF 15.10  15.15  M.G.R.BUSSTAND      
+
+
+ 246  PON  58N2333  77B    G   ORD 15.05  15.20  M.G.R.BUSSTAND      
+
+
+ 247  BCB  58N2362  A1     D   EXP 14.35  15.20  ARAPPALAYAM BUS STAN
+
+
+ 248  BCB  58N1717  77B    P   SLF 15.18  15.22  M.G.R.BUSSTAND      
+
+
+ 249  PON  58N1789  77BA   B   SLF 15.17  15.22  M.G.R.BUSSTAND      
+
+
+ 250  PON  58N1688  77B    B   SLF 15.20  15.25  M.G.R.BUSSTAND      
+
+
+ 251  PDK  58N2340  77B    T   SLF 15.28  15.33  M.G.R.BUSSTAND      
+
+
+ 252  BCB  58N1747  77B    H   SLF 15.20  15.35  M.G.R.BUSSTAND      
+
+
+ 253  PON  58N1762  77BA   S   SLF 15.36  15.39  M.G.R.BUSSTAND      
+
+
+ 254  PDR  58N1543  77B    O   SLF 15.25  15.40  M.G.R.BUSSTAND      
+
+
+ 255  PDK  58N1576  77B    K   SLF 15.30  15.45  M.G.R.BUSSTAND      
+
+
+ 256  MCB  58N2346  77B    U   SLF 15.43  15.48  M.G.R.BUSSTAND      
+
+
+ 257  ENR  58N2361  A1     G   EXP 15.05  15.50  ARAPPALAYAM BUS STAN
+
+
+ 258  PON  58N1801  77BA   Q   SLF 15.45  15.50  M.G.R.BUSSTAND      
+
+
+ 259  TPK  58N2334  77BA   E   SLF 15.50  15.53  M.G.R.BUSSTAND      
+
+
+ 260  PON  58N2329  77B    D   SLF 15.55  16.00  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 261  MLR  58N1654  75A    D   SLF 16.00  16.05  MELUR               
+
+
+ 262  PDR  58N1433  77B    Y   SLF 16.00  16.05  M.G.R.BUSSTAND      
+
+
+ 263  PON  58N1797  77E    J   SLF 16.03  16.05  HIGH COURT          
+
+
+ 264  PON  58N1807  77B    R   ORD 16.00  16.05  M.G.R.BUSSTAND      
+
+
+ 265  BCB  58N2362  A1     D   EXP 15.20  16.05  ARAPPALAYAM BUS STAN
+
+
+ 266  PDR  58N1635  77G    Q   SLF 16.00  16.07  VALAR NAGAR         
+
+
+ 267  ENR  58N2347  77BA   F   SLF 16.04  16.07  M.G.R.BUSSTAND      
+
+
+ 268  PDK  58N1441  77B    E   SLF 16.05  16.10  M.G.R.BUSSTAND      
+
+
+ 269  PDR  58N1494  77B    L   SLF 16.15  16.20  M.G.R.BUSSTAND      
+
+
+ 270  SIP  58N1681  77BA   A   SLF 16.18  16.21  M.G.R.BUSSTAND      
+
+
+ 271  PDR  58N1482  77B    N   SLF 16.20  16.25  M.G.R.BUSSTAND      
+
+
+ 272  PDR  58N1445  77B    X   SLF 16.20  16.25  M.G.R.BUSSTAND      
+
+
+ 273  PON  58N2333  77B    G   ORD 16.25  16.30  M.G.R.BUSSTAND      
+
+
+ 274  ENR  58N1570  77B    R   SLF 16.15  16.30  M.G.R.BUSSTAND      
+
+
+ 275  PDR  58N1460  77A    E   SLF 16.30  16.35  VANDIYUR            
+
+
+ 276  ENR  58N2361  A1     G   EXP 15.50  16.35  ARAPPALAYAM BUS STAN
+
+
+ 277  PON  58N1789  77BA   B   SLF 16.32  16.35  M.G.R.BUSSTAND      
+
+
+ 278  PON  58N1708  77BA   I   SLF 16.30  16.35  M.G.R.BUSSTAND      
+
+
+ 279  BCB  58N1717  77E    P   SLF 16.25  16.40  HIGH COURT          
+
+
+ 280  PDK  58N2340  77B    T   SLF 16.38  16.43  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 281  PON  58N1688  77B    B   SLF 16.40  16.45  M.G.R.BUSSTAND      
+
+
+ 282  BCB  58N1780  66J    A   SLF 16.30  16.45  THIRUVATHAVUR       
+
+
+ 283  BCB  58N1747  77B    H   SLF 16.40  16.45  M.G.R.BUSSTAND      
+
+
+ 284  PON  58N1762  77BA   S   SLF 16.42  16.45  M.G.R.BUSSTAND      
+
+
+ 285  PDR  58N1543  77B    O   SLF 16.45  16.50  M.G.R.BUSSTAND      
+
+
+ 286  BCB  58N2362  A1     D   EXP 16.05  16.50  ARAPPALAYAM BUS STAN
+
+
+ 287  PDK  58N1576  77B    K   SLF 16.50  16.55  M.G.R.BUSSTAND      
+
+
+ 288  MCB  58N2346  77B    U   SLF 16.53  16.58  M.G.R.BUSSTAND      
+
+
+ 289  TPK  58N2334  77BA   E   SLF 16.56  16.59  M.G.R.BUSSTAND      
+
+
+ 290  PON  58N2329  77B    D   SLF 17.05  17.10  M.G.R.BUSSTAND      
+
+
+ 291  ENR  58N2347  77BA   F   SLF 17.10  17.13  M.G.R.BUSSTAND      
+
+
+ 292  PDR  58N1433  77B    Y   SLF 17.10  17.15  M.G.R.BUSSTAND      
+
+
+ 293  PON  58N1807  77B    R   ORD 17.10  17.15  M.G.R.BUSSTAND      
+
+
+ 294  ENR  58N2361  A1     G   EXP 16.35  17.20  ARAPPALAYAM BUS STAN
+
+
+ 295  PDK  58N1441  77B    E   SLF 17.15  17.20  M.G.R.BUSSTAND      
+
+
+ 296  ENR  58N1642  77B    M   SLF 17.20  17.25  M.G.R.BUSSTAND      
+
+
+ 297  SIP  58N1681  77BA   A   SLF 17.24  17.27  M.G.R.BUSSTAND      
+
+
+ 298  PDR  58N1494  77B    L   SLF 17.25  17.30  M.G.R.BUSSTAND      
+
+
+ 299  PDR  58N1482  77B    N   SLF 17.30  17.35  M.G.R.BUSSTAND      
+
+
+ 300  PDR  58N1445  77B    X   SLF 17.30  17.35  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 301  BCB  58N2362  A1     D   EXP 16.50  17.35  ARAPPALAYAM BUS STAN
+
+
+ 302  PDR  58N0991  77BA   A   SLF 17.30  17.35  M.G.R.BUSSTAND      
+
+
+ 303  PON  58N2333  77B    G   ORD 17.35  17.40  M.G.R.BUSSTAND      
+
+
+ 304  ENR  58N1570  77B    R   SLF 17.35  17.40  M.G.R.BUSSTAND      
+
+
+ 305  PON  58N1789  77BA   B   SLF 17.38  17.41  M.G.R.BUSSTAND      
+
+
+ 306  PON  58N1708  77BA   I   SLF 17.40  17.45  M.G.R.BUSSTAND      
+
+
+ 307  PDR  58N1635  7P     Q   SLF 17.30  17.47  M.G.R.BUSSTAND      
+
+
+ 308  PON  58N1762  77BA   S   SLF 17.48  17.51  M.G.R.BUSSTAND      
+
+
+ 309  PDK  58N2340  77B    T   SLF 17.48  17.53  M.G.R.BUSSTAND      
+
+
+ 310  PON  58N1688  77B    B   SLF 17.50  17.55  M.G.R.BUSSTAND      
+
+
+ 311  PDR  58N1460  77A    E   SLF 17.50  17.55  VANDIYUR            
+
+
+ 312  BCB  58N1747  77B    H   SLF 17.50  17.55  M.G.R.BUSSTAND      
+
+
+ 313  PDR  58N1543  77B    O   SLF 17.55  18.00  M.G.R.BUSSTAND      
+
+
+ 314  ENR  58N2361  A1     G   EXP 17.20  18.05  ARAPPALAYAM BUS STAN
+
+
+ 315  TPK  58N2334  77BA   E   SLF 18.02  18.05  M.G.R.BUSSTAND      
+
+
+ 316  PDK  58N1576  77B    K   SLF 18.00  18.05  M.G.R.BUSSTAND      
+
+
+ 317  MCB  58N2346  77B    U   SLF 18.03  18.08  M.G.R.BUSSTAND      
+
+
+ 318  BCB  58N1717  77B    P   SLF 18.05  18.15  M.G.R.BUSSTAND      
+
+
+ 319  ENR  58N2347  77BA   F   SLF 18.16  18.19  M.G.R.BUSSTAND      
+
+
+ 320  PON  58N2329  77B    D   SLF 18.15  18.20  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 321  BCB  58N2362  A1     D   EXP 17.35  18.20  ARAPPALAYAM BUS STAN
+
+
+ 322  MLR  58N1654  75A    D   SLF 18.20  18.25  MELUR               
+
+
+ 323  PDR  58N1433  77B    Y   SLF 18.20  18.25  M.G.R.BUSSTAND      
+
+
+ 324  PON  58N1807  77B    R   ORD 18.20  18.25  M.G.R.BUSSTAND      
+
+
+ 325  BCB  58N1713  66J    B   SLF 18.00  18.30  THIRUVATHAVUR       
+
+
+ 326  PDK  58N1441  77B    E   SLF 18.25  18.30  M.G.R.BUSSTAND      
+
+
+ 327  SIP  58N1681  77BA   A   SLF 18.30  18.33  M.G.R.BUSSTAND      
+
+
+ 328  ENR  58N1642  77B    M   SLF 18.30  18.35  M.G.R.BUSSTAND      
+
+
+ 329  CNI  58N1341  77B    A   EXP 18.35  18.40  M.G.R.BUSSTAND      
+
+
+ 330  PDR  58N1494  77B    L   SLF 18.35  18.40  M.G.R.BUSSTAND      
+
+
+ 331  PDR  58N1482  77B    N   SLF 18.40  18.45  M.G.R.BUSSTAND      
+
+
+ 332  PDR  58N1445  77B    X   SLF 18.40  18.45  M.G.R.BUSSTAND      
+
+
+ 333  PON  58N1789  77BA   B   SLF 18.44  18.47  M.G.R.BUSSTAND      
+
+
+ 334  PON  58N2333  77B    G   ORD 18.45  18.50  M.G.R.BUSSTAND      
+
+
+ 335  ENR  58N2361  A1     G   EXP 18.05  18.50  ARAPPALAYAM BUS STAN
+
+
+ 336  BCB  58N1757  77B    F   SLF  0.00  18.55  M.G.R.BUSSTAND      
+
+
+ 337  PON  58N1708  77BA   I   SLF 18.50  18.55  M.G.R.BUSSTAND      
+
+
+ 338  PON  58N1762  77BA   S   SLF 18.54  18.57  M.G.R.BUSSTAND      
+
+
+ 339  PDK  58N2340  77B    T   SLF 18.58  19.03  M.G.R.BUSSTAND      
+
+
+ 340  BCB  58N1747  77B    H   SLF 19.00  19.05  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 341  BCB  58N2362  A1     D   EXP 18.20  19.05  ARAPPALAYAM BUS STAN
+
+
+ 342  PDR  58N1543  77B    O   SLF 19.05  19.10  M.G.R.BUSSTAND      
+
+
+ 343  TPK  58N2334  77BA   E   SLF 19.08  19.11  M.G.R.BUSSTAND      
+
+
+ 344  PDR  58N1460  77A    E   SLF 19.10  19.15  VANDIYUR            
+
+
+ 345  PDK  58N1576  77B    K   SLF 19.10  19.15  M.G.R.BUSSTAND      
+
+
+ 346  MCB  58N2346  77B    U   SLF 19.13  19.18  M.G.R.BUSSTAND      
+
+
+ 347  PDR  58N1635  7P     Q   SLF 19.00  19.20  M.G.R.BUSSTAND      
+
+
+ 348  ENR  58N2347  77BA   F   SLF 19.22  19.25  M.G.R.BUSSTAND      
+
+
+ 349  PON  58N1801  77BA   Q   SLF 19.10  19.25  M.G.R.BUSSTAND      
+
+
+ 350  ENR  58N2361  A1     G   EXP 18.50  19.35  ARAPPALAYAM BUS STAN
+
+
+ 351  SIP  58N1681  77BA   A   SLF 19.36  19.39  M.G.R.BUSSTAND      
+
+
+ 352  BCB  58N1780  66J    A   SLF 19.15  19.40  THIRUVATHAVUR       
+
+
+ 353  PON  58N2329  77B    D   SLF 19.25  19.40  M.G.R.BUSSTAND      
+
+
+ 354  PDR  58N1433  77B    Y   SLF 19.30  19.45  M.G.R.BUSSTAND      
+
+
+ 355  PON  58N1807  77B    R   ORD 19.30  19.45  M.G.R.BUSSTAND      
+
+
+ 356  PDK  58N1441  77B    E   SLF 19.35  19.50  M.G.R.BUSSTAND      
+
+
+ 357  PON  58N1789  77BA   B   SLF 19.50  19.53  M.G.R.BUSSTAND      
+
+
+ 358  ENR  58N1642  77B    M   SLF 19.40  19.55  M.G.R.BUSSTAND      
+
+
+ 359  BCB  58N2362  A1     D   EXP 19.05  19.55  ARAPPALAYAM BUS STAN
+
+
+ 360  PDR  58N1494  77B    L   SLF 19.45  20.00  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 361  BCB  58N1757  77B    F   SLF 20.00  20.05  M.G.R.BUSSTAND      
+
+
+ 362  PDR  58N1482  77B    N   SLF 19.50  20.05  M.G.R.BUSSTAND      
+
+
+ 363  PDR  58N1445  77B    X   SLF 19.50  20.05  M.G.R.BUSSTAND      
+
+
+ 364  PON  58N2333  77B    G   ORD 19.55  20.10  M.G.R.BUSSTAND      
+
+
+ 365  PON  58N1762  77BA   S   SLF 20.07  20.12  M.G.R.BUSSTAND      
+
+
+ 366  PON  58N1708  77BA   I   SLF 20.00  20.15  M.G.R.BUSSTAND      
+
+
+ 367  PDK  58N2340  77B    T   SLF 20.18  20.23  M.G.R.BUSSTAND      
+
+
+ 368  BCB  58N1747  77B    H   SLF 20.10  20.25  M.G.R.BUSSTAND      
+
+
+ 369  TPK  58N2334  77BA   E   SLF 20.21  20.26  M.G.R.BUSSTAND      
+
+
+ 370  PDR  58N1543  77B    O   SLF 20.15  20.30  M.G.R.BUSSTAND      
+
+
+ 371  ENR  58N2361  A1     G   EXP 19.35  20.30  ARAPPALAYAM BUS STAN
+
+
+ 372  PDR  58N1460  77A    E   SLF 20.30  20.35  VANDIYUR            
+
+
+ 373  PDK  58N1576  77B    K   SLF 20.20  20.35  M.G.R.BUSSTAND      
+
+
+ 374  MCB  58N2346  77B    U   SLF 20.33  20.38  M.G.R.BUSSTAND      
+
+
+ 375  BCB  58N2362  A1     D   EXP 19.55  20.40  ARAPPALAYAM BUS STAN
+
+
+ 376  ENR  58N2347  77BA   F   SLF 20.35  20.40  M.G.R.BUSSTAND      
+
+
+ 377  PON  58N1801  77BA   Q   SLF 20.40  20.45  M.G.R.BUSSTAND      
+
+
+ 378  PDR  58N1635  77G    Q   SLF 20.32  20.50  VALAR NAGAR         
+
+
+ 379  PON  58N2329  77B    D   SLF 20.45  20.50  M.G.R.BUSSTAND      
+
+
+ 380  SIP  58N1681  77BA   A   SLF 20.49  20.54  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 381  PDR  58N1433  77B    Y   SLF 20.50  20.55  M.G.R.BUSSTAND      
+
+
+ 382  PON  58N1807  77B    R   ORD 20.50  20.55  M.G.R.BUSSTAND      
+
+
+ 383  MLR  58N1654  75A    D   SLF 20.40  21.00  MELUR               
+
+
+ 384  PDK  58N1441  77B    E   SLF 20.55  21.00  M.G.R.BUSSTAND      
+
+
+ 385  BCB  58N1713  66J    B   SLF 21.00  21.05  THIRUVATHAVUR       
+
+
+ 386  ENR  58N1642  77B    M   SLF 21.00  21.05  M.G.R.BUSSTAND      
+
+
+ 387  PON  58N1797  77B    J   SLF 20.25  21.05  M.G.R.BUSSTAND      
+
+
+ 388  PON  58N1789  77BA   B   SLF 21.03  21.08  M.G.R.BUSSTAND      
+
+
+ 389  PDR  58N1494  77B    L   SLF 21.05  21.10  M.G.R.BUSSTAND      
+
+
+ 390  PDR  58N1482  77B    N   SLF 21.10  21.15  M.G.R.BUSSTAND      
+
+
+ 391  PDR  58N1445  77B    X   SLF 21.10  21.15  M.G.R.BUSSTAND      
+
+
+ 392  ENR  58N2361  A1     G   EXP 20.30  21.15  ARAPPALAYAM BUS STAN
+
+
+ 393  BCB  58N1757  77B    F   SLF 21.15  21.20  M.G.R.BUSSTAND      
+
+
+ 394  PON  58N2333  77B    G   ORD 21.15  21.20  M.G.R.BUSSTAND      
+
+
+ 395  BCB  58N2362  A1     D   EXP 20.40  21.25  ARAPPALAYAM BUS STAN
+
+
+ 396  PON  58N1708  77BA   I   SLF 21.20  21.25  M.G.R.BUSSTAND      
+
+
+ 397  PDK  58N2340  77B    T   SLF 21.28  21.33  M.G.R.BUSSTAND      
+
+
+ 398  BCB  58N1747  77B    H   SLF 21.30  21.35  M.G.R.BUSSTAND      
+
+
+ 399  PDR  58N1543  77B    O   SLF 21.35  21.40  M.G.R.BUSSTAND      
+
+
+ 400  PDK  58N1576  77B    K   SLF 21.40  21.45  M.G.R.BUSSTAND      
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          ARA - VIA - SIMMAKKAL    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 401  MCB  58N2346  77B    U   SLF 21.43  21.48  M.G.R.BUSSTAND      
+
+
+ 402  PON  58N1801  77BA   Q   SLF 21.47  21.50  M.G.R.BUSSTAND      
+
+
+ 403  PDR  58N1460  77BA   E   SLF 21.50  21.55  M.G.R.BUSSTAND      
+
+
+ 404  PON  58N2329  77B    D   SLF 21.55  22.00  M.G.R.BUSSTAND      
+
+
+ 405  PDR  58N1433  77B    Y   SLF 22.00  22.05  M.G.R.BUSSTAND      
+
+
+ 406  SIP  58N1681  77BA   A   SLF 22.04  22.09  M.G.R.BUSSTAND      
+
+
+ 407  BCB  58N2362  A1     D   EXP 21.25  22.10  ARAPPALAYAM BUS STAN
+
+
+ 408  PDK  58N1441  77B    E   SLF 22.05  22.10  M.G.R.BUSSTAND      
+
+
+ 409  ENR  58N1642  77B    M   SLF 22.10  22.15  M.G.R.BUSSTAND      
+
+
+ 410  PDR  58N1635  7P     Q   SLF 22.15  22.20  M.G.R.BUSSTAND      
+
+
+ 411  PDK  58N2340  77B    T   SLF 22.40  22.45  M.G.R.BUSSTAND      
+
+
+ 412  PDR  58N1543  77B    O   SLF 22.45  22.50  M.G.R.BUSSTAND      
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

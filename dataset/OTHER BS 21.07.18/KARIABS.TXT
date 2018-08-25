@@ -1,0 +1,447 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART        KARIYAPATTI SECTOR                           
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  KPI  58N0407  76     A  EXP  0.00   5.00  PBS                 
+
+
+   2  PON  58N1716  76     D  SLF  0.00   5.25  PBS                 
+
+
+   3  KPI  58N0907  72KP   A  EXP  0.00   5.30  T.PUDUPATTI         
+
+
+   4  PON  58N1733  76     C  SLF  5.40   5.50  PBS                 
+
+
+   5  PON  58N1737  76     H  SLF  5.50   6.00  PBS                 
+
+
+   6  TMG  58N1201  T11    C  LSS  6.00   6.05  THIRUMANGALAM       
+
+
+   7  BCB  58N1693  76     A  SLF  6.05   6.10  PBS                 
+
+
+   8  PON  58N1724  76     L  SLF  6.00   6.10  PBS                 
+
+
+   9  KPI  58N0275  76R/   A  EXP  0.00   6.25  MELAKALLANKULAM     
+
+
+  10  MCB  58N1580  76     I  SLF  6.20   6.30  PBS                 
+
+
+  11  MCB  58N1577  76     A  SLF  6.40   6.50  PBS                 
+
+
+  12  TKP  58N1190  K6A    A  LSS  6.55   7.00  T.KALLUPATTI        
+
+
+  13  TMG  58N0851  T11    A  LSS  7.05   7.15  THIRUMANGALAM       
+
+
+  14  PON  58N1716  76     D  SLF  7.35   7.40  PBS                 
+
+
+  15  MCB  58N1580  76     I  SLF  8.35   8.40  PBS                 
+
+
+  16  TMG  58N0841  T11A*  B  LSS  8.50   8.55  THIRUMANGALAM       
+
+
+  17  MCB  58N1577  76     A  SLF  8.55   9.00  PBS                 
+
+
+  18  KPI           76     A  EXP 20.30   9.00  PBS                 
+
+
+  19  TMG  58N0647  T11    A  LSS  9.20   9.25  THIRUMANGALAM       
+
+
+  20  PON  58N1716  76     D  SLF  9.35   9.40  PBS                 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART                                   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  TPK  58N1370  76SV   A  EXP  9.45   9.50  S.VELLAKULAM        
+
+
+  22  PON  58N1728  76     G  EXP  9.45   9.50  PBS                 
+
+
+  23  MCB  58N1581  76     B  SLF  9.50   9.55  PBS                 
+
+
+  24  PON  58N1733  76     C  SLF  9.55  10.00  PBS                 
+
+
+  25  TMG  58N0851  T11    A  LSS  9.50  10.00  THIRUMANGALAM       
+
+
+  26  TKP  58N1190  K6A    A  LSS 10.00  10.05  T.KALLUPATTI        
+
+
+  27  PON  58N1737  76     H  SLF 10.05  10.10  PBS                 
+
+
+  28  KPI  58N0407  76     A  EXP 10.10  10.15  PBS                 
+
+
+  29  PON  58N1724  76     L  SLF 10.15  10.20  PBS                 
+
+
+  30  KPI  58N0275  76     A  EXP 10.25  10.30  PBS                 
+
+
+  31  TMG  58N0974  T11E   A  LSS 10.20  10.30  THIRUMANGALAM       
+
+
+  32  MCB  58N1623  76     C  SLF 10.25  10.35  PBS                 
+
+
+  33  MCB  58N1580  76     I  SLF 10.35  10.40  PBS                 
+
+
+  34  MCB  58N1579  76     F  SLF 10.45  10.50  PBS                 
+
+
+  35  TPK  58N1370  76     A  EXP 10.50  10.55  PBS                 
+
+
+  36  MCB  58N1577  76     A  SLF 10.55  11.00  PBS                 
+
+
+  37  TPK  58N2212  76     J  EXP 11.05  11.10  PBS                 
+
+
+  38  KPI           76     A  EXP 11.05  11.10  PBS                 
+
+
+  39  MCB  58N1444  76     A  SLF 11.15  11.20  PBS                 
+
+
+  40  MCB  58N1578  76     E  SLF 11.25  11.30  PBS                 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART                                   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  TMG  58N0841  T11A   B  LSS 11.30  11.35  THIRUMANGALAM       
+
+
+  42  MCB  58N1568  76     A  SLF 11.35  11.40  PBS                 
+
+
+  43  PON  58N1716  76     D  SLF 11.45  11.50  PBS                 
+
+
+  44  PON  58N1728  76     G  EXP 11.55  12.00  PBS                 
+
+
+  45  TMG  58N1201  T6K    C  LSS 11.55  12.00  THIRUMANGALAM       
+
+
+  46  KPI           76     A  EXP 20.50  12.00  PBS                 
+
+
+  47  KPI           76     A  EXP 22.20  12.05  PBS                 
+
+
+  48  PON  58N1733  76     C  SLF 12.05  12.10  PBS                 
+
+
+  49  PON  58N1737  76     H  SLF 12.10  12.20  PBS                 
+
+
+  50  KPI  58N0907  76     A  EXP 12.00  12.20  PBS                 
+
+
+  51  TMG  58N0851  T11    A  LSS 12.15  12.20  THIRUMANGALAM       
+
+
+  52  PON  58N1724  76     L  SLF 12.25  12.30  PBS                 
+
+
+  53  MCB  58N1580  76     I  SLF 12.45  12.50  PBS                 
+
+
+  54  MCB  58N1579  76     F  SLF 12.55  13.00  PBS                 
+
+
+  55  MCB  58N1577  76     A  SLF 13.05  13.10  PBS                 
+
+
+  56  TMG  74N1264  T11    C  LSS 13.15  13.20  THIRUMANGALAM       
+
+
+  57  MCB  58N1548  76     A  SLF 13.15  13.20  PBS                 
+
+
+  58  MCB  58N1444  76     A  SLF 13.25  13.30  PBS                 
+
+
+  59  KPI  58N0407  76     A  EXP 12.20  13.35  PBS                 
+
+
+  60  MCB  58N1578  76     E  SLF 13.35  13.40  PBS                 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART                                   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  PON  58N1716  76     D  SLF 13.55  14.00  PBS                 
+
+
+  62  TMG  58N0841  T11A*  B  LSS 14.05  14.10  THIRUMANGALAM       
+
+
+  63  PON  58N1733  76     C  SLF 14.10  14.20  PBS                 
+
+
+  64  KPI           76     A  EXP 13.35  14.20  PBS                 
+
+
+  65  PON  58N1737  76     H  SLF 14.25  14.30  PBS                 
+
+
+  66  PON  58N1724  76     L  SLF 14.30  14.40  PBS                 
+
+
+  67  MCB  58N1568  76     A  SLF 14.40  14.50  PBS                 
+
+
+  68  TKP  58N1190  K6A    A  LSS 14.45  14.50  T.KALLUPATTI        
+
+
+  69  TMG  58N0851  T11    A  LSS 14.50  14.55  THIRUMANGALAM       
+
+
+  70  MCB  58N1580  76     I  SLF 14.50  15.00  PBS                 
+
+
+  71  MCB  58N1579  76     F  SLF 15.00  15.10  PBS                 
+
+
+  72  MCB  58N1577  76     A  SLF 15.10  15.20  PBS                 
+
+
+  73  TPK  58N2193  76     N  EXP 15.20  15.25  PBS                 
+
+
+  74  KPI  58N0275  76     A  EXP 15.05  15.30  PBS                 
+
+
+  75  TMG  58N1201  T6K    C  LSS 15.25  15.30  THIRUMANGALAM       
+
+
+  76  MCB  58N1548  76     A  SLF 15.20  15.30  PBS                 
+
+
+  77  MCB  58N1444  76     A  SLF 15.35  15.40  PBS                 
+
+
+  78  KPI  58N0407  76     A  EXP 15.40  15.45  PBS                 
+
+
+  79  MCB  58N1581  76     B  SLF 15.45  15.50  PBS                 
+
+
+  80  MCB  58N1578  76     E  SLF 15.50  16.00  PBS                 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART                                   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  TPK  58N2212  76     J  EXP 15.50  16.00  PBS                 
+
+
+  82  PON  58N1716  76     D  SLF 16.05  16.10  PBS                 
+
+
+  83  KPI           76     A  EXP  0.00  16.10  PBS                 
+
+
+  84  PON  58N1733  76     C  SLF 16.25  16.30  PBS                 
+
+
+  85  PON  58N1737  76     H  SLF 16.35  16.40  PBS                 
+
+
+  86  PON  58N1724  76     L  SLF 16.45  16.50  PBS                 
+
+
+  87  TMG  58N0841  T11A*  B  LSS 16.45  16.55  THIRUMANGALAM       
+
+
+  88  KPI           76     A  EXP 16.50  17.00  PBS                 
+
+
+  89  MCB  58N1568  76     A  SLF 16.55  17.00  S.VELLAKULAM        
+
+
+  90  MCB  58N1580  76     I  SLF 17.05  17.10  PBS                 
+
+
+  91  MCB  58N1579  76     F  SLF 17.15  17.20  PBS                 
+
+
+  92  TMG  58N0647  T11    A  LSS 17.10  17.20  THIRUMANGALAM       
+
+
+  93  MCB  58N1577  76     A  SLF 17.25  17.30  PBS                 
+
+
+  94  MCB  58N1548  76     A  SLF 17.30  17.40  PBS                 
+
+
+  95  KPI  58N0275  76     A  EXP 17.35  17.50  PBS                 
+
+
+  96  TMG  58N0974  T11E   A  LSS 17.50  17.55  THIRUMANGALAM       
+
+
+  97  MCB  58N1568  76     A  SLF 17.55  18.00  PBS                 
+
+
+  98  PON  58N1716  76     D  SLF 18.05  18.10  PBS                 
+
+
+  99  PON  58N1728  76     G  EXP 18.15  18.20  PBS                 
+
+
+ 100  KPI           76     A  EXP 22.30  18.20  PBS                 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART                                   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  PON  58N1733  76     C  SLF 18.25  18.30  PBS                 
+
+
+ 102  PON  58N1737  76     H  SLF 18.35  18.40  PBS                 
+
+
+ 103  KPI           76     A  EXP 14.15  18.45  PBS                 
+
+
+ 104  PON  58N1724  76     L  SLF 18.45  18.50  PBS                 
+
+
+ 105  TMG  58N0851  T11    A  LSS 18.55  19.00  THIRUMANGALAM       
+
+
+ 106  MCB  58N1580  76     I  SLF 19.05  19.10  PBS                 
+
+
+ 107  TKP  58N1190  K6A    A  LSS 19.05  19.10  T.KALLUPATTI        
+
+
+ 108  KPI           76     A  EXP 19.10  19.25  PBS                 
+
+
+ 109  MCB  58N1577  76     A  SLF 19.25  19.30  PBS                 
+
+
+ 110  KPI           76     A  EXP 21.40  19.35  PBS                 
+
+
+ 111  TMG  58N0841  T11A   B  LSS 19.30  19.40  THIRUMANGALAM       
+
+
+ 112  TPK  58N1370  76SV   A  EXP 20.10  20.10  S.VELLAKULAM        
+
+
+ 113  KPI           76     A  EXP 18.20  20.10  PBS                 
+
+
+ 114  TMG  58N0647  T11    A  LSS 20.10  20.15  THIRUMANGALAM       
+
+
+ 115  PON  58N1716  76     D  SLF 20.15  20.20  PBS                 
+
+
+ 116  KPI           76     A  EXP 14.20  20.20  PBS                 
+
+
+ 117  BCB  58N1693  76     A  SLF 20.20  20.25  PBS                 
+
+
+ 118  PON  58N1737  76     H  SLF 20.45  20.50  PBS                 
+
+
+ 119  PON  58N1724  76     L  SLF 20.55  21.00  PBS                 
+
+
+ 120  TPK  58N1370  76     A  EXP 21.10  21.15  PBS                 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART                                   
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 121  MCB  58N1580  76     I  SLF 21.15  21.20  PBS                 
+
+
+ 122  TMG  58N0851  T11    A  LSS 21.20  21.25  THIRUMANGALAM       
+
+
+ 123  MCB  58N1577  76     A  SLF 21.40  21.45  PBS                 
+
+
+ 124  BCB  58N1693  76     A  SLF 22.20  22.25  PBS                 
+
+
+ 125  MCB  58N1578  76     E  SLF 22.40  22.45  PBS                 
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

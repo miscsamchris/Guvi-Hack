@@ -1,0 +1,261 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+15/03/2016  Vehicle Timing details           VIA CHECKANURANI TOWN    
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+No   Br. Bus No.  Rou.No     Dep.time  From              Arr.time  To
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  1  C9  58N0861  L4    C EXP   5.00  SHOLAVANDAN        5.55   THIRUMANGALAM  
+
+  2  C7  58N0816  L4    A LSS   5.20  THIRUMANGALAM      6.15   SHOLAVANDAN    
+
+  3  C7  58N1189  T4E   B LSS   5.35  THIRUMANGALAM      6.30   OORMECHIKULAM  
+
+  4  T5  58N0975  L4/   A LSS   5.40  CHECKANURANI       6.05   THIRUMANGALAM  
+
+  5  C9  58N1283  L4    A LSS   5.55  SHOLAVANDAN        6.50   THIRUMANGALAM  
+
+  6  C9  58N0861  L4    C EXP   6.00  THIRUMANGALAM      6.55   SHOLAVANDAN    
+
+  7  T5  58N0975  L4    A LSS   6.10  THIRUMANGALAM      7.05   SHOLAVANDAN    
+
+  8  C7  58N0816  L4    A LSS   6.20  SHOLAVANDAN        7.15   THIRUMANGALAM  
+
+  9  C7  58N0846  L4    A LSS   6.25  THIRUMANGALAM      7.20   SHOLAVANDAN    
+
+ 10  T5  58N0963  T4D   A LSS   6.35  THIRUMANGALAM      7.35   VIKKIRAMANGALAM
+
+ 11  C7  58N1189  T4E   B LSS   6.45  OORMECHIKULAM      7.40   THIRUMANGALAM  
+
+ 12  C9  58N1283  L4    A LSS   7.05  THIRUMANGALAM      8.05   SHOLAVANDAN    
+
+ 13  T5  58N0975  L8X   A LSS   7.10  SHOLAVANDAN        7.25   VADIPATTI      
+
+ 14  C7  58N0846  L4    A LSS   7.25  SHOLAVANDAN        8.25   THIRUMANGALAM  
+
+ 15  T5  58N0698  T4C/  A LSS   7.30  THIRUMANGALAM      8.35   KURAVAKUDI     
+
+ 16  T5  58N0963  T4D   A LSS   7.40  VIKKIRAMANGALAM    8.50   THIRUMANGALAM  
+
+ 17  C7  58N0819  T4A   A LSS   7.45  THIRUMANGALAM      8.35   NAGAMALAI PUDUK
+
+ 18  M7  58N1065  U1V   D LSS   8.05  USILAMPATTI        9.00   V.N.COLLEGE    
+
+ 19  C9  58N1283  L4    A LSS   8.10  SHOLAVANDAN        9.10   THIRUMANGALAM  
+
+ 20  T5  58N0975  L8    A LSS   8.25  VADIPATTI          9.30   M.K.UNIVERSITY 
+
+ 21  C7  58N0846  T4E   A LSS   8.40  THIRUMANGALAM      9.35   OORMECHIKULAM  
+
+ 22  C7  58N0819  21N   A LSS   8.40  NAGAMALAI PUDUK    9.05   PBS            
+
+ 23  M7  58N1102  U1    A LSS   8.40  USILAMPATTI        9.25   CHECKANURANI   
+
+ 24  C5  58N0810  5J    A LSS   8.45  PBS                9.50   CHECKANURANI   
+
+ 25  C7  58N0816  L4    A LSS   8.50  THIRUMANGALAM      9.50   SHOLAVANDAN    
+
+ 26  T5  58N0698  T4C/  A LSS   8.50  KURAVAKUDI        10.05   THIRUMANGALAM  
+
+ 27  M7  58N1065  U1V   D LSS   9.05  V.N.COLLEGE       10.00   USILAMPATTI    
+
+ 28  T5  58N0963  T4D   A LSS   9.10  THIRUMANGALAM     10.20   VIKKIRAMANGALAM
+
+ 29  C9  58N1283  L4    A LSS   9.30  THIRUMANGALAM     10.30   SHOLAVANDAN    
+
+ 30  M7  58N1102  U1    A LSS   9.30  CHECKANURANI      10.15   USILAMPATTI    
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+15/03/2016    Vehicle Timing  details        VIA CHECKANURANI TOWN    
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+No   Br. Bus No.  Rou.No     Dep.time  From              Arr.time  To
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 31  T5  58N0975  L8A   A LSS   9.35  M.K.UNIVERSITY    10.15   SHOLAVANDAN    
+
+ 32  C7  58N0846  T4E   A LSS   9.40  OORMECHIKULAM     10.35   THIRUMANGALAM  
+
+ 33  C5  58N0810  5JJ   A LSS   9.55  CHECKANURANI      11.20   INTEGRATED B.S.
+
+ 34  C7  58N0816  L4    A LSS  10.00  SHOLAVANDAN       11.00   THIRUMANGALAM  
+
+ 35  C7  58N1189  L4    B LSS  10.05  THIRUMANGALAM     11.05   SHOLAVANDAN    
+
+ 36  C7  58N0539  T4C   B EXP  10.10  THIRUMANGALAM     11.30   AYYANARKULAM   
+
+ 37  T5  58N0975  L4    A LSS  10.20  SHOLAVANDAN       11.20   THIRUMANGALAM  
+
+ 38  T5  58N0963  T4D   A LSS  10.35  VIKKIRAMANGALAM   11.45   THIRUMANGALAM  
+
+ 39  C7  58N0846  L4    A LSS  10.40  THIRUMANGALAM     11.35   SHOLAVANDAN    
+
+ 40  T5  58N1949  27    A EXP  10.40  INTEGRATED B.S.   11.40   CHECKANURANI   
+
+ 41  C9  58N1283  L4    A LSS  11.00  SHOLAVANDAN       12.00   THIRUMANGALAM  
+
+ 42  C7  58N0816  L4    A LSS  11.15  THIRUMANGALAM     12.15   SHOLAVANDAN    
+
+ 43  C9  58N0861  L4V   C EXP  11.15  VADIPATTI         12.30   THIRUMANGALAM  
+
+ 44  C7  58N1189  L4    B LSS  11.20  SHOLAVANDAN       12.20   THIRUMANGALAM  
+
+ 45  C7  58N0539  T4C   B EXP  11.35  AYYANARKULAM      12.55   THIRUMANGALAM  
+
+ 46  T5  58N0975  L4    A LSS  11.35  THIRUMANGALAM     12.35   SHOLAVANDAN    
+
+ 47  C7  58N0846  L4    A LSS  11.50  SHOLAVANDAN       12.45   THIRUMANGALAM  
+
+ 48  T5  58N0963  T4D   A LSS  12.00  THIRUMANGALAM     13.10   VIKKIRAMANGALAM
+
+ 49  C9  58N1283  L4    A LSS  12.05  THIRUMANGALAM     13.05   SHOLAVANDAN    
+
+ 50  C7  58N0816  L4    A LSS  12.30  SHOLAVANDAN       13.30   THIRUMANGALAM  
+
+ 51  T5  58N0975  L4/   A LSS  12.40  SHOLAVANDAN       13.05   CHECKANURANI   
+
+ 52  C9  58N0861  L4    C EXP  12.45  THIRUMANGALAM     13.45   SHOLAVANDAN    
+
+ 53  C7  58N1189  L4    B LSS  13.10  THIRUMANGALAM     14.10   SHOLAVANDAN    
+
+ 54  T5  58N0963  T4D   A LSS  13.15  VIKKIRAMANGALAM   14.25   THIRUMANGALAM  
+
+ 55  C9  58N1283  L4    A LSS  13.20  SHOLAVANDAN       14.20   THIRUMANGALAM  
+
+ 56  C7  58N0846  T4E   A LSS  13.30  THIRUMANGALAM     14.25   OORMECHIKULAM  
+
+ 57  C7  58N0816  L4    A LSS  13.50  THIRUMANGALAM     14.50   SHOLAVANDAN    
+
+ 58  T5  58N0698  T4C   A LSS  13.55  AYYANARKULAM      15.05   THIRUMANGALAM  
+
+ 59  T5  58N1949  27    A EXP  14.00  CHECKANURANI      15.00   INTEGRATED B.S.
+
+ 60  M7  58N1265  U1    C LSS  14.10  USILAMPATTI       15.00   CHECKANURANI   
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+15/03/2016    Vehicle Timing  details        VIA CHECKANURANI TOWN    
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+No   Br. Bus No.  Rou.No     Dep.time  From              Arr.time  To
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 61  C7  58N1189  L4    B LSS  14.15  SHOLAVANDAN       15.15   THIRUMANGALAM  
+
+ 62  C9  58N0861  L4    C EXP  14.25  SHOLAVANDAN       15.25   THIRUMANGALAM  
+
+ 63  T5  58N0963  T4D   A LSS  14.30  THIRUMANGALAM     15.40   VIKKIRAMANGALAM
+
+ 64  C7  58N0846  T4E   A LSS  14.40  OORMECHIKULAM     15.35   THIRUMANGALAM  
+
+ 65  C9  58N1283  L4    A LSS  14.40  THIRUMANGALAM     15.40   SHOLAVANDAN    
+
+ 66  C7  58N0816  L4    A LSS  15.00  SHOLAVANDAN       16.00   THIRUMANGALAM  
+
+ 67  T5  58N0975  L4    A LSS  15.00  THIRUMANGALAM     16.00   SHOLAVANDAN    
+
+ 68  M7  58N1265  U1    C LSS  15.05  CHECKANURANI      15.55   USILAMPATTI    
+
+ 69  T5  58N0698  T4C   A LSS  15.20  THIRUMANGALAM     16.30   AYYANARKULAM   
+
+ 70  M7  58N1065  U1V   D LSS  15.25  USILAMPATTI       16.25   V.N.COLLEGE    
+
+ 71  C9  58N0861  L4    C EXP  15.30  THIRUMANGALAM     16.30   SHOLAVANDAN    
+
+ 72  C9  58N1283  L4    A LSS  15.45  SHOLAVANDAN       16.45   THIRUMANGALAM  
+
+ 73  C7  58N1189  L4    B LSS  15.50  THIRUMANGALAM     16.50   SHOLAVANDAN    
+
+ 74  C7  58N0846  T4E   A LSS  16.00  THIRUMANGALAM     16.55   OORMECHIKULAM  
+
+ 75  T5  58N0963  T4D   A LSS  16.00  VIKKIRAMANGALAM   17.10   THIRUMANGALAM  
+
+ 76  C7  58N0819  T4A   A LSS  16.05  NAGAMALAI PUDUK   16.55   THIRUMANGALAM  
+
+ 77  T5  58N0975  L8A   A LSS  16.10  SHOLAVANDAN       16.50   M.K.UNIVERSITY 
+
+ 78  M7  58N1065  U1V   D LSS  16.30  V.N.COLLEGE       17.30   USILAMPATTI    
+
+ 79  T5  58N0698  T4C   A LSS  16.35  AYYANARKULAM      17.45   THIRUMANGALAM  
+
+ 80  C7  58N1189  L4    B LSS  16.55  SHOLAVANDAN       17.55   THIRUMANGALAM  
+
+ 81  C9  58N1283  L4    A LSS  16.55  THIRUMANGALAM     17.55   SHOLAVANDAN    
+
+ 82  T5  58N0975  L8    A LSS  16.55  M.K.UNIVERSITY    18.00   VADIPATTI      
+
+ 83  C7  58N0846  T4E   A LSS  17.15  OORMECHIKULAM     18.10   THIRUMANGALAM  
+
+ 84  T5  58N0963  T4D   A LSS  17.15  THIRUMANGALAM     18.25   VIKKIRAMANGALAM
+
+ 85  T5  58N0698  T4/FF A LSS  17.50  THIRUMANGALAM     18.25   CHECKANURANI   
+
+ 86  C7  58N1189  L4    B LSS  18.00  THIRUMANGALAM     19.00   SHOLAVANDAN    
+
+ 87  C9  58N1283  L4    A LSS  18.00  SHOLAVANDAN       19.00   THIRUMANGALAM  
+
+ 88  T5  58N0975  L8C   A LSS  18.05  VADIPATTI         18.45   CHECKANURANI   
+
+ 89  M7  58N1265  U2L   C LSS  18.10  USILAMPATTI       18.50   ELUMALAI       
+
+ 90  C7  58N0846  T4E   A LSS  18.25  THIRUMANGALAM     19.20   OORMECHIKULAM  
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+15/03/2016    Vehicle Timing  details        VIA CHECKANURANI TOWN    
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+No   Br. Bus No.  Rou.No     Dep.time  From              Arr.time  To
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 91  T5  58N0698  T4/FF A LSS  18.30  CHECKANURANI      19.05   THIRUMANGALAM  
+
+ 92  T5  58N0963  T4D   A LSS  18.30  VIKKIRAMANGALAM   19.40   THIRUMANGALAM  
+
+ 93  T5  58N0975  L8D   A LSS  18.50  CHECKANURANI      19.20   SHOLAVANDAN    
+
+ 94  M7  58N1265  U2L   C LSS  19.00  ELUMALAI          19.50   USILAMPATTI    
+
+ 95  C7  58N1189  L4    B LSS  19.05  SHOLAVANDAN       20.05   THIRUMANGALAM  
+
+ 96  C9  58N1283  L4    A LSS  19.05  THIRUMANGALAM     20.05   SHOLAVANDAN    
+
+ 97  C9  58N0861  L4V   C EXP  19.10  VADIPATTI         20.30   THIRUMANGALAM  
+
+ 98  C7  58N0846  T4E   A LSS  19.25  OORMECHIKULAM     20.20   THIRUMANGALAM  
+
+ 99  T5  58N0963  T4D   A LSS  19.45  THIRUMANGALAM     20.55   VIKKIRAMANGALAM
+
+100  T5  58N0975  L4    A LSS  19.50  SHOLAVANDAN       20.50   THIRUMANGALAM  
+
+101  C7  58N0816  L4    A LSS  20.00  THIRUMANGALAM     21.00   SHOLAVANDAN    
+
+102  C7  58N1189  T6S   B LSS  20.10  THIRUMANGALAM     21.05   SOLAPURAM      
+
+103  C7  58N0846  L4    A LSS  20.30  THIRUMANGALAM     21.25   SHOLAVANDAN    
+
+104  C9  58N1283  L4    A LSS  20.35  SHOLAVANDAN       21.35   THIRUMANGALAM  
+
+105  C9  58N0861  L4    C EXP  20.50  THIRUMANGALAM     21.50   SHOLAVANDAN    
+
+106  C7  58N0816  L4    A LSS  21.05  SHOLAVANDAN       22.05   THIRUMANGALAM  
+
+107  T5  58N0975  L4    A LSS  21.05  THIRUMANGALAM     22.00   SHOLAVANDAN    
+
+108  C7  58N1189  T6S   B LSS  21.15  SOLAPURAM         22.10   THIRUMANGALAM  
+
+109  T5  58N0963  T4D   A LSS  21.15  VIKKIRAMANGALAM   21.45   CHECKANURANI   
+
+110  C7  58N0846  L4    A LSS  21.30  SHOLAVANDAN       22.20   THIRUMANGALAM  
+
+111  C9  58N1283  L4    A LSS  21.40  THIRUMANGALAM     22.35   SHOLAVANDAN    
+
+112  T5  58N0975  L4/   A LSS  22.05  SHOLAVANDAN       22.30   CHECKANURANI   
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+G:\SECTIME\CITYTIM1.PRG
+

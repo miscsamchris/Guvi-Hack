@@ -1,0 +1,891 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          PBS - MELUR              
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  BCB  58N1786  75     Q   SLF  0.00   4.40  MELUR               
+
+
+   2  MCB  58N1465  24D    A   SLF  0.00   4.45  ARITTAPATTI         
+
+
+   3  BCB  58N1291  66/    A   EXP  4.40   4.45  ELANGIPATTI         
+
+
+   4  PON  58N1161  75     M   EXP  0.00   4.50  MELUR               
+
+
+   5  BCB  58N1782  66     B   SLF  0.00   4.50  THIRUVATHAVUR       
+
+
+   6  PON  58N1710  75D    A   SLF  0.00   4.55  MELUR               
+
+
+   7  PON  58N1750  75     L   SLF  0.00   5.10  MELUR               
+
+
+   8  MCB  58N1327  24M    A   EXP  0.00   5.25  74 MEENAKSHIPURAM   
+
+
+   9  MLR  58N1942  75     S   ORD  5.20   5.25  MELUR               
+
+
+  10  MLR  58N1434  75     A   SLF  5.15   5.35  MELUR               
+
+
+  11  BCB  58N1699  75     J   SLF  0.00   5.40  MELUR               
+
+
+  12  MLR  58N1643  75D    B   SLF  5.35   5.45  MELUR               
+
+
+  13  MCB  58N1678  24G    A   SLF  0.00   5.50  MARUTHUR            
+
+
+  14  MCB  58N1509  75     G   SLF  0.00   5.50  MELUR               
+
+
+  15  MLR  58N1636  75     C   SLF  5.50   5.55  MELUR               
+
+
+  16  PDR  58N1685  24H    A   SLF  5.40   6.00  MANGULAM            
+
+
+  17  BCB  58N1698  75     D   SLF  0.00   6.00  MELUR               
+
+
+  18  PDR  58N1613  66     C   SLF  6.00   6.05  THIRUVATHAVUR       
+
+
+  19  MLR  58N1256  24X    A   EXP  6.00   6.05  MELUR               
+
+
+  20  PON  58N1311  24K    A   EXP  6.05   6.10  TVS SRICHAKRA       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - MELUR              
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  PON  58N1756  75     H   SLF  0.00   6.10  MELUR               
+
+
+  22  BCB  58N0796  24F    A   EXP  0.00   6.10  T.MANICKAMPATTI     
+
+
+  23  MCB  58N1624  24R    A   SLF  6.05   6.10  GANDHI NAGAR        
+
+
+  24  BCB  58N1291  66A    A   EXP  6.10   6.15  AMOOR               
+
+
+  25  MLR  58N1542  75     I   SLF  6.10   6.20  MELUR               
+
+
+  26  PDR  58N1534  66     A   SLF  6.25   6.30  THIRUVATHAVUR       
+
+
+  27  MLR  58N1513  75     A   SLF  6.20   6.30  MELUR               
+
+
+  28  PON  58N1364  66F    A   EXP  0.00   6.40  THIRUKANAI          
+
+
+  29  MLR  58N1474  75     F   SLF  6.30   6.40  MELUR               
+
+
+  30  PDR  58N1488  66B    D   SLF  6.40   6.45  KOTTAKUDI           
+
+
+  31  MLR  58N1477  24     A   SLF  6.45   6.50  AGRI.COLLEGE        
+
+
+  32  ENR  58N1515  75     B   SLF  0.00   6.50  MELUR               
+
+
+  33  MCB  58N1651  24B    B   SLF  6.00   6.52  MANGULAM            
+
+
+  34  MCB  58N1465  24D    A   SLF  6.55   7.00  ARITTAPATTI         
+
+
+  35  MLR  58N1585  75D    D   SLF  6.50   7.05  MELUR               
+
+
+  36  BCB  58N1786  75     Q   SLF  6.50   7.10  MELUR               
+
+
+  37  BCB  58N1782  700    B   SLF  7.05   7.15  M.G.R.BUSSTAND      
+
+
+  38  PON  58N1161  75     M   EXP  7.00   7.20  MELUR               
+
+
+  39  MCB  58N1327  24M    A   EXP  7.20   7.25  74 MEENAKSHIPURAM   
+
+
+  40  MLR  58N1490  75     C   SLF  7.10   7.30  MELUR               
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - MELUR              
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  PON  58N1751  66S    C   EXP  7.30   7.35  MUKKAMPATTI         
+
+
+  42  PON  58N1750  75     L   SLF  7.20   7.40  MELUR               
+
+
+  43  PON  58N1710  75D    A   SLF  7.30   7.45  MELUR               
+
+
+  44  MLR  58N1600  75     E   SLF  7.30   7.50  MELUR               
+
+
+  45  PDR  58N1485  66C    A   SLF  7.50   7.55  KATTAYAMPATTI       
+
+
+  46  MCB  58N1354  24R    A   EXP  7.30   8.00  GANDHI NAGAR        
+
+
+  47  MLR  58N1644  75     R   SLF  7.40   8.00  MELUR               
+
+
+  48  MCB  58N1678  24G    A   SLF  7.55   8.10  MARUTHUR            
+
+
+  49  PON  58N1311  24K    A   EXP  8.05   8.10  TVS SRICHAKRA       
+
+
+  50  BCB  58N1699  75     J   SLF  7.55   8.10  MELUR               
+
+
+  51  TPM  58N1154  66N    A   EXP  7.55   8.10  MUNDANAYAGAM        
+
+
+  52  MCB  58N1509  75     G   SLF  8.15   8.20  MELUR               
+
+
+  53  MLR  58N1477  24     A   SLF  8.10   8.25  AGRI.COLLEGE        
+
+
+  54  MLR  58N1643  75D    B   SLF  8.20   8.25  MELUR               
+
+
+  55  PDR  58N1685  24H    A   SLF  8.15   8.27  MANGULAM            
+
+
+  56  BCB  58N1291  66A    A   EXP  8.05   8.30  AMOOR               
+
+
+  57  BCB  58N1698  75     D   SLF  8.25   8.30  MELUR               
+
+
+  58  PDR  58N1613  66     C   SLF  8.35   8.40  THIRUVATHAVUR       
+
+
+  59  PON  58N1756  75     H   SLF  8.35   8.40  MELUR               
+
+
+  60  MLR  58N1542  75     I   SLF  8.45   8.50  MELUR               
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - MELUR              
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  MCB  58N1651  24J    B   SLF  8.50   9.00  KIDARIPATTI         
+
+
+  62  MLR  58N1513  75     A   SLF  8.55   9.00  MELUR               
+
+
+  63  BCB  58N0796  75     A   EXP  8.45   9.05  MELUR               
+
+
+  64  PDR  58N1534  66G    A   SLF  9.05   9.10  KILATHIRI           
+
+
+  65  MLR  58N1474  75     F   SLF  9.05   9.10  MELUR               
+
+
+  66  ENR  58N1515  75     B   SLF  9.15   9.20  MELUR               
+
+
+  67  PDR  58N1462  66BP   A   SLF  9.10   9.30  PANANGADI           
+
+
+  68  BCB  58N1786  75     Q   SLF  9.25   9.30  MELUR               
+
+
+  69  MCB  58N1465  24D    A   SLF  9.25   9.40  ARITTAPATTI         
+
+
+  70  MCB  58N1327  24M    A   EXP  9.25   9.40  74 MEENAKSHIPURAM   
+
+
+  71  PDR  58N1488  66     D   SLF  9.25   9.40  THIRUVATHAVUR       
+
+
+  72  PON  58N1161  75     M   EXP  9.35   9.40  MELUR               
+
+
+  73  MLR  58N1585  75D    D   SLF  9.40   9.45  MELUR               
+
+
+  74  MLR  58N1490  75     C   SLF  9.45   9.50  MELUR               
+
+
+  75  MLR  58N1477  75     A   SLF  9.50   9.55  MELUR               
+
+
+  76  PON  58N1750  75     L   SLF  9.55  10.00  MELUR               
+
+
+  77  MLR  58N1895  75     U   EXP  9.55  10.05  MELUR               
+
+
+  78  MLR  58N1600  75     E   SLF 10.05  10.10  MELUR               
+
+
+  79  MCB  58N1678  24G    A   SLF 10.15  10.20  MARUTHUR            
+
+
+  80  MLR  58N1644  75     R   SLF 10.15  10.20  MELUR               
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - MELUR              
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  MLR  58N1256  75     A   EXP 10.15  10.25  MELUR               
+
+
+  82  BCB  58N1699  75     J   SLF 10.25  10.30  MELUR               
+
+
+  83  PON  58N1710  75D    A   SLF 10.20  10.35  MELUR               
+
+
+  84  BCB  58N1300  24F    B   EXP 10.25  10.40  T.MANICKAMPATTI     
+
+
+  85  MCB  58N1509  75     G   SLF 10.35  10.40  MELUR               
+
+
+  86  BCB  58N1291  66A    A   EXP 10.40  10.50  AMOOR               
+
+
+  87  BCB  58N1698  75     D   SLF 10.45  10.50  MELUR               
+
+
+  88  MLR  58N1261  75     B   EXP 10.50  10.55  MELUR               
+
+
+  89  PDR  58N1685  24H    A   SLF 10.35  11.00  MANGULAM            
+
+
+  90  PON  58N1756  75     H   SLF 10.55  11.00  MELUR               
+
+
+  91  BCB  58N1865  66     O   EXP 10.45  11.00  THIRUVATHAVUR       
+
+
+  92  MLR  58N1636  75     C   SLF 11.00  11.05  MELUR               
+
+
+  93  MLR  58N1542  75     I   SLF 11.05  11.08  MELUR               
+
+
+  94  PDR  58N1485  66C    A   SLF 10.55  11.10  KATTAYAMPATTI       
+
+
+  95  MLR  58N1656  75     D   EXP 11.10  11.10  MELUR               
+
+
+  96  MLR  58N1942  75     S   ORD 11.05  11.13  MELUR               
+
+
+  97  MLR  58N1643  75D    B   SLF 11.00  11.15  MELUR               
+
+
+  98  MLR  58N1513  75     A   SLF 11.15  11.20  MELUR               
+
+
+  99  MLR  58N1434  75     A   SLF 11.20  11.23  MELUR               
+
+
+ 100  MLR  58N0724  75     N   EXP 11.10  11.25  MELUR               
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - MELUR              
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  PDR  58N1613  66     C   SLF 11.10  11.30  THIRUVATHAVUR       
+
+
+ 102  MLR  58N1474  75     F   SLF 11.25  11.30  MELUR               
+
+
+ 103  BCB  58N1782  700    B   SLF 11.15  11.30  M.G.R.BUSSTAND      
+
+
+ 104  MLR  58N1003  75     B   SLF 11.30  11.35  MELUR               
+
+
+ 105  ENR  58N1515  75     B   SLF 11.35  11.40  MELUR               
+
+
+ 106  MCB  58N1651  24B    B   SLF 11.25  11.45  MANGULAM            
+
+
+ 107  BCB  58N1786  75     Q   SLF 11.45  11.55  MELUR               
+
+
+ 108  PON  58N1161  75     M   EXP 11.55  12.05  MELUR               
+
+
+ 109  PDR  58N1534  66     A   SLF 11.55  12.10  THIRUVATHAVUR       
+
+
+ 110  MLR  58N1477  75     A   SLF 12.10  12.15  MELUR               
+
+
+ 111  PDR  58N1488  66     D   SLF 12.00  12.20  THIRUVATHAVUR       
+
+
+ 112  MLR  58N1490  75     C   SLF 12.05  12.20  MELUR               
+
+
+ 113  MCB  58N1678  24G    A   SLF 12.25  12.30  MARUTHUR            
+
+
+ 114  PON  58N1750  75     L   SLF 12.15  12.30  MELUR               
+
+
+ 115  MLR  58N1138  75     B   EXP 12.30  12.33  MELUR               
+
+
+ 116  MLR  58N1585  75D    D   SLF 12.30  12.35  MELUR               
+
+
+ 117  MLR  58N1600  75     E   SLF 12.30  12.40  MELUR               
+
+
+ 118  MLR  58N1644  75     R   SLF 12.35  12.50  MELUR               
+
+
+ 119  MCB  58N1354  24B    A   EXP 12.55  13.00  MANGULAM            
+
+
+ 120  BCB  58N1699  75     J   SLF 12.45  13.00  MELUR               
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - MELUR              
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 121  MCB  58N1509  75     G   SLF 12.55  13.10  MELUR               
+
+
+ 122  BCB  58N1698  75     D   SLF 13.05  13.20  MELUR               
+
+
+ 123  PON  58N1710  75D    A   SLF 13.10  13.25  MELUR               
+
+
+ 124  BCB  58N1782  66     B   SLF 12.25  13.25  THIRUVATHAVUR       
+
+
+ 125  PON  58N1756  75     H   SLF 13.15  13.30  MELUR               
+
+
+ 126  MLR  58N1542  75     I   SLF 13.25  13.35  MELUR               
+
+
+ 127  MLR  58N1434  75     A   SLF 13.35  13.40  MELUR               
+
+
+ 128  MCB  58N1465  24D    A   SLF 13.05  13.45  ARITTAPATTI         
+
+
+ 129  PDR  58N1485  66C    A   SLF 13.45  13.50  KATTAYAMPATTI       
+
+
+ 130  MLR  58N1513  75     A   SLF 13.35  13.50  MELUR               
+
+
+ 131  MLR  58N1474  75     F   SLF 13.45  13.55  MELUR               
+
+
+ 132  BCB  58N1291  66A    A   EXP 12.45  14.00  AMOOR               
+
+
+ 133  MLR  58N1656  75     D   EXP 13.55  14.00  MELUR               
+
+
+ 134  MCB  58N1651  24B    B   SLF 14.00  14.05  MANGULAM            
+
+
+ 135  MLR  58N1643  75D    B   SLF 13.50  14.05  MELUR               
+
+
+ 136  ENR  58N1515  75     B   SLF 13.55  14.10  MELUR               
+
+
+ 137  MCB  58N1361  66F    A   EXP 13.55  14.15  THIRUKANAI          
+
+
+ 138  PON  58N1311  24K    A   EXP 14.10  14.15  TVS SRICHAKRA       
+
+
+ 139  MLR  58N1636  75     C   SLF 14.05  14.15  MELUR               
+
+
+ 140  BCB  58N1786  75     Q   SLF 14.15  14.20  MELUR               
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - MELUR              
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 141  MCB  58N1327  24M    A   EXP 14.25  14.30  74 MEENAKSHIPURAM   
+
+
+ 142  PON  58N1161  75     M   EXP 14.25  14.35  MELUR               
+
+
+ 143  PDR  58N1613  66     C   SLF 13.55  14.45  THIRUVATHAVUR       
+
+
+ 144  PDR  58N1685  24H    A   SLF 14.40  14.47  MANGULAM            
+
+
+ 145  MLR  58N1490  75     C   SLF 14.35  14.50  MELUR               
+
+
+ 146  MLR  58N1942  75     S   ORD 14.35  14.55  MELUR               
+
+
+ 147  BCB  58N1397  24D    I   EXP 14.00  15.00  ARITTAPATTI         
+
+
+ 148  PON  58N1750  75     L   SLF 14.45  15.00  MELUR               
+
+
+ 149  MLR  58N1477  24     A   SLF 14.50  15.05  AGRI.COLLEGE        
+
+
+ 150  MCB  58N1678  24G    A   SLF 14.35  15.05  MARUTHUR            
+
+
+ 151  MLR  58N0834  75     B   EXP 14.55  15.05  MELUR               
+
+
+ 152  MLR  58N1600  75     E   SLF 14.55  15.10  MELUR               
+
+
+ 153  MLR  58N1644  75     R   SLF 15.05  15.15  MELUR               
+
+
+ 154  MCB  58N1354  24R    A   EXP 15.15  15.20  GANDHI NAGAR        
+
+
+ 155  PDR  58N1534  66     A   SLF 14.25  15.20  THIRUVATHAVUR       
+
+
+ 156  MLR  58N0724  75     N   EXP 15.10  15.20  MELUR               
+
+
+ 157  MLR  58N1585  75D    D   SLF 15.10  15.23  MELUR               
+
+
+ 158  MLR  58N1261  75     B   EXP 15.20  15.25  MELUR               
+
+
+ 159  PDR  58N1488  66B    D   SLF 14.55  15.30  KOTTAKUDI           
+
+
+ 160  BCB  58N1699  75     J   SLF 15.15  15.30  MELUR               
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - MELUR              
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 161  MLR  58N1003  75     B   SLF 15.30  15.35  PATHINETTANGUDI     
+
+
+ 162  MCB  58N1509  75     G   SLF 15.25  15.45  MELUR               
+
+
+ 163  BCB  58N1698  75     D   SLF 15.35  15.55  MELUR               
+
+
+ 164  BCB  58N1782  700    B   SLF 15.40  15.55  M.G.R.BUSSTAND      
+
+
+ 165  PON  58N1756  75     H   SLF 15.45  16.00  MELUR               
+
+
+ 166  BCB  58N1291  66A    A   EXP 15.55  16.10  AMOOR               
+
+
+ 167  MLR  58N1542  75     I   SLF 15.55  16.10  MELUR               
+
+
+ 168  PON  58N1311  24K    A   EXP 16.10  16.15  TVS SRICHAKRA       
+
+
+ 169  PON  58N1710  75D    A   SLF 16.00  16.15  MELUR               
+
+
+ 170  MLR  58N1513  75     A   SLF 16.05  16.20  MELUR               
+
+
+ 171  MCB  58N1651  24J    B   SLF 16.20  16.25  KIDARIPATTI         
+
+
+ 172  MLR  58N1656  75     D   EXP 16.15  16.25  MELUR               
+
+
+ 173  MLR  58N1474  75     F   SLF 16.15  16.30  MELUR               
+
+
+ 174  MLR  58N1477  24     A   SLF 16.30  16.35  AGRI.COLLEGE        
+
+
+ 175  PON  58N1751  66     C   EXP 16.35  16.40  THIRUVATHAVUR       
+
+
+ 176  ENR  58N1515  75     B   SLF 16.25  16.40  MELUR               
+
+
+ 177  MLR  58N1636  75     C   SLF 16.35  16.45  MELUR               
+
+
+ 178  PON  58N1364  66F    A   EXP 16.45  16.50  THIRUKANAI          
+
+
+ 179  BCB  58N1786  75     Q   SLF 16.45  16.50  MELUR               
+
+
+ 180  BCB  58N0796  24F    A   EXP 16.45  16.50  T.MANICKAMPATTI     
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - MELUR              
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 181  MLR  58N1643  75D    B   SLF 16.40  16.55  MELUR               
+
+
+ 182  MCB  58N1327  24M    A   EXP 16.35  17.00  74 MEENAKSHIPURAM   
+
+
+ 183  PON  58N1161  75     M   EXP 16.55  17.00  MELUR               
+
+
+ 184  PDR  58N1613  66     C   SLF 17.05  17.10  THIRUVATHAVUR       
+
+
+ 185  MLR  58N1490  75     C   SLF 17.05  17.10  MELUR               
+
+
+ 186  MCB  58N1678  24G    A   SLF 17.10  17.20  MARUTHUR            
+
+
+ 187  PDR  58N1485  66C    A   SLF 16.30  17.20  KATTAYAMPATTI       
+
+
+ 188  PON  58N1750  75     L   SLF 17.15  17.20  MELUR               
+
+
+ 189  MCB  58N1465  24D    A   SLF 17.15  17.30  ARITTAPATTI         
+
+
+ 190  PDR  58N1685  24H    A   SLF 17.00  17.30  MANGULAM            
+
+
+ 191  MLR  58N1600  75     E   SLF 17.25  17.30  MELUR               
+
+
+ 192  MLR  58N1644  75     R   SLF 17.35  17.40  MELUR               
+
+
+ 193  PDR  58N1534  66     A   SLF 17.45  17.50  THIRUVATHAVUR       
+
+
+ 194  BCB  58N1699  75     J   SLF 17.45  17.50  MELUR               
+
+
+ 195  MCB  58N1509  75     G   SLF 17.55  18.00  MELUR               
+
+
+ 196  MLR  58N1477  75     A   SLF 18.00  18.05  MELUR               
+
+
+ 197  BCB  58N1698  75     D   SLF 18.05  18.10  MELUR               
+
+
+ 198  MCB  58N1354  24B    A   EXP 17.35  18.15  MANGULAM            
+
+
+ 199  MLR  58N1585  75D    D   SLF 18.10  18.15  MELUR               
+
+
+ 200  PON  58N1756  75     H   SLF 18.15  18.20  MELUR               
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - MELUR              
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 201  PDR  58N1488  66     D   SLF 18.20  18.25  THIRUVATHAVUR       
+
+
+ 202  MLR  58N1542  75     I   SLF 18.25  18.30  MELUR               
+
+
+ 203  BCB  58N1291  66A    A   EXP 18.15  18.35  AMOOR               
+
+
+ 204  MLR  58N1513  75     A   SLF 18.35  18.40  MELUR               
+
+
+ 205  MLR  58N1256  24X    A   EXP 18.35  18.45  MELUR               
+
+
+ 206  MLR  58N1474  75     F   SLF 18.45  18.50  MELUR               
+
+
+ 207  ENR  58N1515  75     B   SLF 18.55  19.00  MELUR               
+
+
+ 208  PON  58N1710  75D    A   SLF 18.50  19.05  MELUR               
+
+
+ 209  BCB  58N1300  66     B   EXP 18.50  19.10  THIRUVATHAVUR       
+
+
+ 210  MCB  58N1624  24R    A   SLF 19.00  19.10  GANDHI NAGAR        
+
+
+ 211  MLR  58N1636  75     C   SLF 19.10  19.15  MELUR               
+
+
+ 212  MCB  58N1327  24M    A   EXP 19.05  19.20  74 MEENAKSHIPURAM   
+
+
+ 213  BCB  58N1786  75     Q   SLF 19.05  19.20  MELUR               
+
+
+ 214  PON  58N1751  66     C   EXP 19.05  19.20  THIRUVATHAVUR       
+
+
+ 215  MLR  58N1895  75     U   EXP 19.15  19.25  MELUR               
+
+
+ 216  PON  58N1161  75     M   EXP 19.15  19.30  MELUR               
+
+
+ 217  MLR  58N1490  75     C   SLF 19.25  19.40  MELUR               
+
+
+ 218  BCB  58N0796  24F    A   EXP 19.20  19.40  T.MANICKAMPATTI     
+
+
+ 219  PDR  58N1462  66BP   A   SLF 19.40  19.45  PANANGADI           
+
+
+ 220  MLR  58N1643  75D    B   SLF 19.30  19.45  MELUR               
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - MELUR              
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 221  MCB  58N1678  24G    A   SLF 19.25  19.50  MARUTHUR            
+
+
+ 222  PON  58N1750  75     L   SLF 19.35  19.50  MELUR               
+
+
+ 223  PDR  58N1685  24H    A   SLF 19.45  20.00  MANGULAM            
+
+
+ 224  MLR  58N1600  75     E   SLF 19.45  20.00  MELUR               
+
+
+ 225  BCB  58N1782  66     B   SLF 19.45  20.00  THIRUVATHAVUR       
+
+
+ 226  MCB  58N1465  24D    A   SLF 20.05  20.10  ARITTAPATTI         
+
+
+ 227  PDR  58N1613  66     C   SLF 19.40  20.10  THIRUVATHAVUR       
+
+
+ 228  MLR  58N1644  75     R   SLF 19.55  20.10  MELUR               
+
+
+ 229  PDR  58N1485  66C    A   SLF 19.55  20.20  KATTAYAMPATTI       
+
+
+ 230  BCB  58N1699  75     J   SLF 20.05  20.20  MELUR               
+
+
+ 231  MLR  58N0542  75     T   ORD 20.15  20.25  MELUR               
+
+
+ 232  MLR  58N1477  75     A   SLF 20.20  20.28  MELUR               
+
+
+ 233  MCB  58N1651  24B    B   SLF 18.50  20.30  MANGULAM            
+
+
+ 234  PDR  58N1534  66G    A   SLF 20.15  20.30  KILATHIRI           
+
+
+ 235  MCB  58N1509  75     G   SLF 20.15  20.30  MELUR               
+
+
+ 236  BCB  58N1698  75     D   SLF 20.25  20.40  MELUR               
+
+
+ 237  MLR  58N1434  75     A   SLF 20.40  20.45  MELUR               
+
+
+ 238  PON  58N1756  75     H   SLF 20.35  20.50  MELUR               
+
+
+ 239  BCB  58N1291  66/    A   EXP 20.30  20.57  ELANGIPATTI         
+
+
+ 240  MLR  58N1542  75     I   SLF 20.45  21.00  MELUR               
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PBS - MELUR              
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 241  MLR  58N1942  75     S   ORD 21.00  21.05  MELUR               
+
+
+ 242  MLR  58N1585  75D    D   SLF 21.00  21.10  MELUR               
+
+
+ 243  PDR  58N1488  66     D   SLF 20.50  21.15  THIRUVATHAVUR       
+
+
+ 244  MLR  58N1513  75     A   SLF 20.55  21.15  MELUR               
+
+
+ 245  MCB  58N1354  24B    A   EXP 21.20  21.25  MANGULAM            
+
+
+ 246  MLR  58N1474  75     F   SLF 21.05  21.25  MELUR               
+
+
+ 247  MLR  58N1636  75     C   SLF 21.25  21.35  MELUR               
+
+
+ 248  ENR  58N1515  75     B   SLF 21.15  21.45  MELUR               
+
+
+ 249  MLR  58N0705  75     B   ORD 21.55  22.00  MELUR               
+
+
+ 250  MLR  58N1490  75     C   SLF 21.55  22.10  MELUR               
+
+
+ 251  MLR  58N1600  75     E   SLF 22.15  22.20  MELUR               
+
+
+ 252  MLR  58N1644  75     R   SLF 22.25  22.40  MELUR               
+
+
+ 253  MLR  58N0542  75     T   ORD 22.35  22.45  MELUR               
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

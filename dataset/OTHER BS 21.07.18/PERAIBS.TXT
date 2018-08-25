@@ -1,0 +1,264 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          PERAIYUR B/S             
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  TKP  58N0603  K13    A   ORD  5.00   5.05  WATRAP              
+
+
+   2  TKP  58N1083  K15A   A   ORD  5.05   5.10  GOPALAPURAM         
+
+
+   3  TKP  58N1209  K14    A   ORD  5.45   5.50  ELUMALAI            
+
+
+   4  TKP  58N1310  K5V    A   ORD  0.00   6.10  T.KALLUPATTI        
+
+
+   5  TKP  58N1018  K16    A   ORD  6.05   6.10  ELUMALAI(SEDAPATTI) 
+
+
+   6  TKP  58N0630  K4S    A   ORD  6.20   6.25  PERAIYUR            
+
+
+   7  USI  58N1284  U9A    A   ORD  0.00   6.35  USILAMPATTI         
+
+
+   8  TKP  58N0603  K13A   A   ORD  7.20   7.30  SETHU NARAYANAPURAM 
+
+
+   9  TKP  58N1083  K15E   A   ORD  7.20   7.30  E.PERUMALAPTTI      
+
+
+  10  TKP  58N0630  K17    A   ORD  6.25   7.40  VIRUDHUNAGAR        
+
+
+  11  TKP  58N1209  K5V    A   ORD  8.00   8.05  T.KALLUPATTI        
+
+
+  12  TKP  74N1260  T2B    A   ORD  0.00   8.10  THIRUMANGALAM       
+
+
+  13  TKP  58N0609  T2B    A   ORD  8.20   8.25  THIRUMANGALAM       
+
+
+  14  TKP  58N1603  T2P    K   SLF  0.00   8.35  T.KALLUPATTI        
+
+
+  15  TKP  58N1018  K16A   A   ORD  8.40   8.45  ELUMALAI(SEDAPATTI) 
+
+
+  16  USI  58N1284  U9     A   ORD  6.35   8.45  USILAMPATTI         
+
+
+  17  TKP  58N1209  K14    A   ORD  8.55   9.15  ELUMALAI            
+
+
+  18  USI  58N1207  U9     B   ORD  8.45   9.50  USILAMPATTI         
+
+
+  19  TKP  58N0630  K4T    A   ORD 10.00  10.15  PERAIYUR            
+
+
+  20  TKP  58N0603  K13    A   ORD 10.15  10.20  WATRAP              
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PERAIYUR B/S             
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  TKP  58N1083  K15    A   ORD 10.10  10.20  ELUMALAI            
+
+
+  22  TMG  58N0985  T18    A   ORD 10.15  10.40  THIRUMANGALAM       
+
+
+  23  TKP  58N0847  T2V    B   ORD 10.55  11.00  THIRUMANGALAM       
+
+
+  24  USI  58N1284  U9     A   ORD  8.45  11.05  USILAMPATTI         
+
+
+  25  TKP  58N0609  K5C    A   ORD 11.05  11.10  T.KALLUPATTI        
+
+
+  26  TKP  58N0630  K17    A   ORD 10.15  11.20  VIRUDHUNAGAR        
+
+
+  27  TKP  58N1018  K16    A   ORD 11.25  11.30  ELUMALAI(SEDAPATTI) 
+
+
+  28  TKP  58N1209  K14A   A   ORD 11.40  11.50  NALLATHADHUNAICKEN  
+
+
+  29  TKP  58N1603  T2P    K   SLF  8.35  12.00  T.KALLUPATTI        
+
+
+  30  USI  58N1207  U9     B   ORD  9.50  12.10  USILAMPATTI         
+
+
+  31  TKP  58N1083  K15A   A   ORD 12.45  12.50  GOPALAPURAM         
+
+
+  32  TKP  74N1260  T2B    A   ORD 12.45  12.50  THIRUMANGALAM       
+
+
+  33  USI  58N1284  U9     A   ORD 11.05  13.10  USILAMPATTI         
+
+
+  34  TKP  58N0603  K13    A   ORD 12.50  13.20  WATRAP              
+
+
+  35  TKP  58N0630  K4S    A   ORD 13.40  13.50  PERAIYUR            
+
+
+  36  TKP  58N0622  T2V    A   ORD 13.50  13.55  THIRUMANGALAM       
+
+
+  37  TKP  58N1018  K16    A   ORD 13.55  14.00  ELUMALAI(SEDAPATTI) 
+
+
+  38  TKP  58N1603  T2P    K   SLF 14.00  14.05  T.KALLUPATTI        
+
+
+  39  USI  58N1207  U9     B   ORD 12.10  14.30  USILAMPATTI         
+
+
+  40  TKP  58N1209  K14    A   ORD 14.25  14.45  ELUMALAI            
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PERAIYUR B/S             
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  TKP  58N0609  K5V    A   ORD 14.50  14.55  T.KALLUPATTI        
+
+
+  42  TMG  58N0985  T18    A   ORD 14.50  14.55  THIRUMANGALAM       
+
+
+  43  TKP  58N0630  K17    A   ORD 13.50  15.10  VIRUDHUNAGAR        
+
+
+  44  TKP  58N1083  K15E   A   ORD 15.15  15.20  E.PERUMALAPTTI      
+
+
+  45  USI  58N1284  U9     A   ORD 13.10  15.25  USILAMPATTI         
+
+
+  46  TKP  58N0609  K5C    A   ORD 15.45  15.50  T.KALLUPATTI        
+
+
+  47  TKP  58N0857  T5D    B   ORD 16.00  16.10  THIRUMANGALAM       
+
+
+  48  TKP  58N0603  K5C    A   ORD 16.15  16.20  T.KALLUPATTI        
+
+
+  49  TKP  58N1310  K2V    A   ORD 12.50  16.25  THIRUMANGALAM       
+
+
+  50  USI  58N1207  U9A    B   ORD 14.30  16.45  USILAMPATTI         
+
+
+  51  TKP  58N0603  K13A   A   ORD 16.55  17.00  SETHU NARAYANAPURAM 
+
+
+  52  TKP  58N1018  K16A   A   ORD 16.55  17.10  ELUMALAI(SEDAPATTI) 
+
+
+  53  TKP  74N1260  T2B    A   ORD 12.50  17.10  THIRUMANGALAM       
+
+
+  54  TKP  58N1209  K14    A   ORD 17.30  17.35  ELUMALAI            
+
+
+  55  TKP  58N0630  K17    A   ORD 17.35  17.40  VIRUDHUNAGAR        
+
+
+  56  USI  58N1284  U9     A   ORD 15.25  17.45  USILAMPATTI         
+
+
+  57  TKP  58N1603  T2P    K   SLF 14.05  17.50  T.KALLUPATTI        
+
+
+  58  TKP  58N1083  K15A   A   ORD 17.50  17.55  GOPALAPURAM         
+
+
+  59  TKP  58N1310  K19    A   ORD 16.25  18.55  M.AYYAMPATTI        
+
+
+  60  USI  58N1207  U9     B   ORD 16.45  19.15  USILAMPATTI         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          PERAIYUR B/S             
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  TKP  58N1018  K16    A   ORD 19.45  19.50  ELUMALAI(SEDAPATTI) 
+
+
+  62  USI  58N1284  U9     A   ORD 17.45  20.05  USILAMPATTI         
+
+
+  63  TKP  58N0603  K13    A   ORD 19.40  20.10  WATRAP              
+
+
+  64  TKP  58N1209  K1B/   A   ORD 20.00  20.20  SAPTUR              
+
+
+  65  TKP  58N0630  K4T    A   ORD 20.05  20.20  PERAIYUR            
+
+
+  66  TKP  58N0847  T2V    B   ORD 20.25  20.30  THIRUMANGALAM       
+
+
+  67  TKP  58N1083  K5V    A   ORD 20.45  21.00  T.KALLUPATTI        
+
+
+  68  TKP  58N1310  K2P    A   ORD 18.55  21.10  KUMARAPURAM         
+
+
+  69  TKP  58N1209  K5C    A   ORD 21.05  21.10  T.KALLUPATTI        
+
+
+  70  TKP  58N0630  K5C    A   ORD 20.20  21.30  T.KALLUPATTI        
+
+
+  71  USI  58N1207  U9A    B   ORD 19.15  21.30  USILAMPATTI         
+
+
+  72  TKP  58N1018  K5C    A   ORD 22.10  22.10  T.KALLUPATTI        
+
+
+  73  TKP  58N1249  K5C    A   ORD 22.05  22.15  T.KALLUPATTI        
+
+
+  74  TKP  58N0603  K5C    A   ORD 22.25  22.25  T.KALLUPATTI        
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

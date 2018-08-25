@@ -1,0 +1,1387 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  PDR  58N1640  26R    B   SLF  4.40   4.45  KALPULICHANPATTI    
+
+
+   2  SIP  58N1458  77BS   C   SLF  0.00   5.00  ARAPPALAYAM         
+
+
+   3  SIP  58N1681  77BA   A   SLF  0.00   5.07  ARAPPALAYAM         
+
+
+   4  CNI  58N1949  93K    A   EXP  5.05   5.10  KATCHAIKATTI        
+
+
+   5  PDR  58N1589  77BS   S   SLF  5.10   5.20  ARAPPALAYAM         
+
+
+   6  PDR  58N1607  45P    A   SLF  5.25   5.30  POTHUMBU            
+
+
+   7  ENR  58N1450  77BA   B   SLF  5.25   5.30  ARAPPALAYAM         
+
+
+   8  PON  58N1762  77BA   S   SLF  5.30   5.35  ARAPPALAYAM         
+
+
+   9  PON  58N1764  77BS   U   SLF  5.37   5.40  ARAPPALAYAM         
+
+
+  10  TPK  58N2334  77BA   E   SLF  5.45   5.49  ARAPPALAYAM         
+
+
+  11  BCB  58N1980  3X     A   EXP  5.50   5.55  PBS                 
+
+
+  12  PDR  58N1449  16B    A   SLF  5.50   5.55  PERUNGUDI           
+
+
+  13  PDK  58N1501  14B    A   SLF  0.00   5.55  THIRUNAGAR          
+
+
+  14  PON  58N1726  77BS   T   SLF  5.51   5.56  ARAPPALAYAM         
+
+
+  15  ENR  58N2347  77BA   F   SLF  5.58   6.03  ARAPPALAYAM         
+
+
+  16  TPK  58N1345  9B     A   EXP  6.00   6.05  MUTHUPATTI          
+
+
+  17  TPK  58N1409  9M     A   EXP  6.05   6.10  VILACHERI           
+
+
+  18  TPK  58N0752  19A    A   EXP  6.08   6.10  MADAKULAM           
+
+
+  19  SIP  58N1458  77BS   C   SLF  6.05   6.10  ARAPPALAYAM         
+
+
+  20  PON  58N1708  77BA   I   SLF  6.00   6.10  ARAPPALAYAM         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  BCB  58N1732  3C     B   SLF  6.13   6.15  PBS                 
+
+
+  22  SIP  58N1681  77BA   A   SLF  6.12   6.17  ARAPPALAYAM         
+
+
+  23  PDR  58N1589  77BS   S   SLF  6.22   6.24  ARAPPALAYAM         
+
+
+  24  SVN  58N1629  93     A   SLF  0.00   6.25  SHOLAVANDAN         
+
+
+  25  BCB  58N1757  21J    F   SLF  6.15   6.30  PUDUKULAM           
+
+
+  26  ENR  58N1387  89A    A   EXP  6.25   6.30  THATHAGOUNDANPATTI  
+
+
+  27  PON  58N1789  77BA   B   SLF  6.26   6.31  ARAPPALAYAM         
+
+
+  28  BCB  58N1749  3A     A   SLF  6.25   6.35  PBS                 
+
+
+  29  BCB  58N1791  77BS   V   SLF  6.33   6.38  ARAPPALAYAM         
+
+
+  30  TPK  58N1317  19     A   EXP  6.35   6.40  MUTHURAMALINGAPURAM 
+
+
+  31  PDK  58N1560  14B    B   SLF  0.00   6.40  THIRUNAGAR          
+
+
+  32  PDR  58N1481  16F    A   SLF  6.40   6.45  AIRPORT             
+
+
+  33  PON  58N1809  700    C   SLF  6.40   6.45  PBS                 
+
+
+  34  PON  58N1762  77BA   S   SLF  6.40   6.50  ARAPPALAYAM         
+
+
+  35  TPK  58N1121  16D    A   SLF  6.40   6.55  SHOLANKURUNI        
+
+
+  36  PDR  58N1900  51M    A   EXP  6.50   6.55  PALAMEDU            
+
+
+  37  PON  58N1764  77BS   U   SLF  6.47   6.57  ARAPPALAYAM         
+
+
+  38  PDR  58N1604  16CV   E   SLF  0.00   7.00  VALAYANKULAM        
+
+
+  39  ENR  58N1464  3X     A   SLF  6.45   7.00  PBS                 
+
+
+  40  TPK  58N2334  77BA   E   SLF  6.54   7.04  ARAPPALAYAM         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  PDR  58N1544  21EM   F   SLF  7.00   7.05  VELLAIPARAIPATTI    
+
+
+  42  SVN  58N0726  26Q    A   LSS  6.50   7.05  SHOLAVANDAN         
+
+
+  43  PON  58N1726  77BS   T   SLF  7.01   7.11  ARAPPALAYAM         
+
+
+  44  PDR  58N1607  16R    A   SLF  7.05   7.15  TRANSPORT NAGAR     
+
+
+  45  ENR  58N2347  77BA   F   SLF  7.08   7.18  ARAPPALAYAM         
+
+
+  46  CNI  58N1341  27C    A   EXP  7.05   7.20  MELAKUILKUDI        
+
+
+  47  BCB  58N1732  3C     B   SLF  7.23   7.25  PBS                 
+
+
+  48  PDR  58N1404  14F    A   SLF  7.15   7.25  THIRUVALLUVAR NAGAR 
+
+
+  49  SIP  58N1458  77BS   C   SLF  7.15   7.25  ARAPPALAYAM         
+
+
+  50  PDR  58N1440  16MX   A   SLF  0.00   7.30  KALUVANKULAM        
+
+
+  51  SIP  58N1681  77BA   A   SLF  7.22   7.32  ARAPPALAYAM         
+
+
+  52  PDR  58N1589  77BS   S   SLF  7.29   7.39  ARAPPALAYAM         
+
+
+  53  PDR  58N1449  16BX   A   SLF  7.20   7.45  S.N.COLLEGE         
+
+
+  54  PDR  58N1640  26K    B   SLF  7.30   7.45  VIKKIRAMANGALAM     
+
+
+  55  TPK  58N1396  19     B   EXP  7.24   7.46  MUTHURAMALINGAPURAM 
+
+
+  56  PON  58N1789  77BA   B   SLF  7.36   7.46  ARAPPALAYAM         
+
+
+  57  BCB  58N1748  3M     B   SLF  7.40   7.50  MADAKULAM           
+
+
+  58  CNI  58N1949  27E    A   EXP  7.35   7.50  A.KOKKULAM          
+
+
+  59  SVN  58N1516  93     B   SLF  7.45   7.50  SHOLAVANDAN         
+
+
+  60  BCB  58N1791  77BS   V   SLF  7.43   7.53  ARAPPALAYAM         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  PON  58N1762  77BA   S   SLF  7.53   7.56  ARAPPALAYAM         
+
+
+  62  PON  58N1764  77BS   U   SLF  8.00   8.03  ARAPPALAYAM         
+
+
+  63  TPK  58N1558  14BB   D   SLF  8.00   8.05  MAHALAKSHMI COLONY  
+
+
+  64  TPK  58N0752  19A    A   EXP  8.02   8.05  MADAKULAM           
+
+
+  65  TPK  58N1345  9B     A   EXP  8.05   8.10  MUTHUPATTI          
+
+
+  66  TPK  58N2334  77BA   E   SLF  8.07   8.10  ARAPPALAYAM         
+
+
+  67  PON  58N1726  77BS   T   SLF  8.14   8.17  ARAPPALAYAM         
+
+
+  68  ENR  58N2347  77BA   F   SLF  8.21   8.24  ARAPPALAYAM         
+
+
+  69  PDK  58N1501  14B    A   SLF  8.05   8.30  THIRUNAGAR          
+
+
+  70  SIP  58N1458  77BS   C   SLF  8.28   8.31  ARAPPALAYAM         
+
+
+  71  SIP  58N1681  77BA   A   SLF  8.35   8.38  ARAPPALAYAM         
+
+
+  72  TPK  58N1317  19     A   EXP  8.38   8.40  MUTHURAMALINGAPURAM 
+
+
+  73  PDR  58N1589  77BS   S   SLF  8.42   8.45  ARAPPALAYAM         
+
+
+  74  PON  58N1789  77BA   B   SLF  8.49   8.52  ARAPPALAYAM         
+
+
+  75  BCB  58N1791  77BS   V   SLF  8.56   8.59  ARAPPALAYAM         
+
+
+  76  CNI  58N1217  55T    A   EXP  8.55   9.00  NATTARMANGALAM      
+
+
+  77  PDK  58N1560  14B    B   SLF  8.55   9.00  THIRUNAGAR          
+
+
+  78  PON  58N1762  77BA   S   SLF  8.59   9.02  ARAPPALAYAM         
+
+
+  79  PON  58N1764  77BS   U   SLF  9.06   9.09  ARAPPALAYAM         
+
+
+  80  TPK  58N0815  19J    B   EXP  9.10   9.15  MADAKULAM           
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  ENR  58N1387  89A    A   EXP  9.00   9.15  THATHAGOUNDANPATTI  
+
+
+  82  TPK  58N2334  77BA   E   SLF  9.13   9.16  ARAPPALAYAM         
+
+
+  83  PDR  58N1449  16B    A   SLF  9.15   9.20  PERUNGUDI           
+
+
+  84  BCB  58N1749  3A     A   SLF  9.20   9.22  PBS                 
+
+
+  85  PON  58N1726  77BS   T   SLF  9.20   9.23  ARAPPALAYAM         
+
+
+  86  TPK  58N1777  5EE    A   ORD  9.20   9.25  SAMBAKULAM          
+
+
+  87  MCB  58N1384  77BA   A   EXP  9.15   9.25  ARAPPALAYAM         
+
+
+  88  PDR  58N1544  14B    F   SLF  9.20   9.30  MAHALAKSHMI COLONY  
+
+
+  89  SVN  58N1629  93     A   SLF  6.25   9.30  SHOLAVANDAN         
+
+
+  90  ENR  58N2347  77BA   F   SLF  9.27   9.30  ARAPPALAYAM         
+
+
+  91  TPK  58N1343  9B     B   EXP  9.30   9.35  MUTHUPATTI          
+
+
+  92  TPK  58N1396  19     B   EXP  9.34   9.36  MUTHURAMALINGAPURAM 
+
+
+  93  SIP  58N1458  77BS   C   SLF  9.34   9.37  ARAPPALAYAM         
+
+
+  94  BCB  58N1980  3      A   EXP  9.35   9.40  PALANGANATHAM       
+
+
+  95  SIP  58N1681  77BA   A   SLF  9.41   9.44  ARAPPALAYAM         
+
+
+  96  PDR  58N1900  51M    A   EXP  9.40   9.45  PALAMEDU            
+
+
+  97  ENR  58N2200  84A    A   EXP  9.15   9.45  THETHUR             
+
+
+  98  PON  58N1708  77BA   I   SLF  9.40   9.45  ARAPPALAYAM         
+
+
+  99  PDR  58N1523  3A     B   SLF  9.45   9.50  PBS                 
+
+
+ 100  PDR  58N1440  16MX   A   SLF  9.45   9.50  KALUVANKULAM        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  PDR  58N1589  77BS   S   SLF  9.48   9.51  ARAPPALAYAM         
+
+
+ 102  PON  58N1789  77BA   B   SLF  9.55   9.58  ARAPPALAYAM         
+
+
+ 103  TPK  58N1621  14S    C   SLF  9.55  10.00  SEENIVASA COLONY    
+
+
+ 104  PDR  58N0966  77BA   A   SLF 10.00  10.05  ARAPPALAYAM         
+
+
+ 105  BCB  58N1791  77BS   V   SLF 10.02  10.07  ARAPPALAYAM         
+
+
+ 106  PON  58N1762  77BA   S   SLF 10.05  10.08  ARAPPALAYAM         
+
+
+ 107  PDR  58N1604  14B    E   SLF 10.00  10.10  THIRUNAGAR          
+
+
+ 108  PDR  58N0991  77BA   A   SLF 10.05  10.10  ARAPPALAYAM         
+
+
+ 109  PDR  58N1463  3X     D   SLF 10.05  10.15  PBS                 
+
+
+ 110  PON  58N1764  77BS   U   SLF 10.12  10.15  ARAPPALAYAM         
+
+
+ 111  TPK  58N0752  19A    A   EXP 10.00  10.20  MADAKULAM           
+
+
+ 112  TPK  58N2334  77BA   E   SLF 10.19  10.22  ARAPPALAYAM         
+
+
+ 113  TPK  58N1345  9B     A   EXP 10.05  10.25  MUTHUPATTI          
+
+
+ 114  BCB  58N1732  3C     B   SLF 10.25  10.27  PBS                 
+
+
+ 115  PON  58N1726  77BS   T   SLF 10.26  10.29  ARAPPALAYAM         
+
+
+ 116  TPK  58N1558  14BB   D   SLF 10.20  10.35  MAHALAKSHMI COLONY  
+
+
+ 117  CNI  58N1948  3A     A   EXP 10.20  10.35  PBS                 
+
+
+ 118  ENR  58N2347  77BA   F   SLF 10.33  10.36  ARAPPALAYAM         
+
+
+ 119  CNI  58N1949  27     A   EXP 10.10  10.40  CHECKANURANI        
+
+
+ 120  MCB  58N1384  77BA   A   EXP 10.36  10.40  ARAPPALAYAM         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 121  ENR  58N1464  48Y    A   SLF  7.00  10.40  THIRUMANGALAM       
+
+
+ 122  BCB  58N1749  3A     A   SLF 10.40  10.42  PBS                 
+
+
+ 123  SIP  58N1458  77BS   C   SLF 10.40  10.43  ARAPPALAYAM         
+
+
+ 124  PDR  58N1640  26K    B   SLF 10.30  10.45  VIKKIRAMANGALAM     
+
+
+ 125  SVN  58N0726  93A    A   LSS 10.30  10.45  KURUVITHURAI        
+
+
+ 126  SIP  58N1681  77BA   A   SLF 10.47  10.50  ARAPPALAYAM         
+
+
+ 127  TPK  58N1317  19     A   EXP 10.30  10.54  MUTHURAMALINGAPURAM 
+
+
+ 128  CNI  58N1341  27D    A   EXP 10.15  10.55  NADUMUDALAIKULAM    
+
+
+ 129  PON  58N1708  77BA   I   SLF 10.50  10.55  ARAPPALAYAM         
+
+
+ 130  PDR  58N1589  77BS   S   SLF 10.54  10.57  ARAPPALAYAM         
+
+
+ 131  PON  58N1789  77BA   B   SLF 11.01  11.04  ARAPPALAYAM         
+
+
+ 132  PDR  58N1449  16B    A   SLF 11.00  11.05  PERUNGUDI           
+
+
+ 133  PDK  58N1501  14B    A   SLF 11.00  11.05  THIRUNAGAR          
+
+
+ 134  BCB  58N1980  3      A   EXP 11.00  11.10  PALANGANATHAM       
+
+
+ 135  TPK  58N0815  19J    B   EXP 11.05  11.10  MADAKULAM           
+
+
+ 136  BCB  58N1791  77BS   V   SLF 11.08  11.11  ARAPPALAYAM         
+
+
+ 137  ENR  58N1467  77BA   A   SLF 11.10  11.15  ARAPPALAYAM         
+
+
+ 138  PDR  58N0991  77BA   A   SLF 11.15  11.18  ARAPPALAYAM         
+
+
+ 139  BCB  58N1748  3X     B   SLF 11.15  11.20  PBS                 
+
+
+ 140  PON  58N1762  77BA   S   SLF 11.11  11.21  ARAPPALAYAM         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 141  TPK  58N0810  14BB   A   ORD 11.20  11.25  MAHALAKSHMI COLONY  
+
+
+ 142  PDR  58N0966  21J    A   SLF 11.10  11.25  PUDUKULAM           
+
+
+ 143  PON  58N1764  77BS   U   SLF 11.18  11.28  ARAPPALAYAM         
+
+
+ 144  PDR  58N1463  3X     D   SLF 11.20  11.30  PBS                 
+
+
+ 145  PDR  58N1523  3A     B   SLF 11.05  11.30  PBS                 
+
+
+ 146  TPK  58N2334  77BA   E   SLF 11.25  11.35  ARAPPALAYAM         
+
+
+ 147  SVN  58N1218  93     D   EXP 11.35  11.40  SHOLAVANDAN         
+
+
+ 148  PON  58N1726  77BS   T   SLF 11.32  11.42  ARAPPALAYAM         
+
+
+ 149  SVN  58N1516  28E    B   SLF 11.40  11.45  SAMAYANALLUR        
+
+
+ 150  PDK  58N1560  14B    B   SLF 11.30  11.45  THIRUNAGAR          
+
+
+ 151  ENR  58N2347  77BA   F   SLF 11.39  11.49  ARAPPALAYAM         
+
+
+ 152  TPK  58N1396  19     B   EXP 11.26  11.50  MUTHURAMALINGAPURAM 
+
+
+ 153  BCB  58N1732  3C     B   SLF 11.40  11.55  PBS                 
+
+
+ 154  SIP  58N1458  77BS   C   SLF 11.46  11.56  ARAPPALAYAM         
+
+
+ 155  SIP  58N1681  77BA   A   SLF 11.53  12.03  ARAPPALAYAM         
+
+
+ 156  BCB  58N1749  3A     A   SLF 12.00  12.05  PBS                 
+
+
+ 157  PDR  58N1607  16A    A   SLF 12.00  12.05  AVANIAPURAM         
+
+
+ 158  PDR  58N1589  77BS   S   SLF 12.00  12.10  ARAPPALAYAM         
+
+
+ 159  PON  58N1708  77BA   I   SLF 12.05  12.10  ARAPPALAYAM         
+
+
+ 160  TPK  58N1345  9B     A   EXP 12.10  12.15  MUTHUPATTI          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 161  TPK  58N1343  26HI   B   EXP 12.10  12.15  THARAPATTI          
+
+
+ 162  PON  58N1789  77BA   B   SLF 12.07  12.17  ARAPPALAYAM         
+
+
+ 163  TPK  58N0752  19A    A   EXP 12.15  12.20  MADAKULAM           
+
+
+ 164  SVN  58N1629  93     A   SLF 12.00  12.20  SHOLAVANDAN         
+
+
+ 165  BCB  58N1791  77BS   V   SLF 12.14  12.22  ARAPPALAYAM         
+
+
+ 166  BCB  58N1748  3X     B   SLF 12.15  12.30  PBS                 
+
+
+ 167  PDR  58N1604  14B    E   SLF 12.25  12.30  THIRUNAGAR          
+
+
+ 168  PDR  58N0991  77BA   A   SLF 12.25  12.30  ARAPPALAYAM         
+
+
+ 169  PON  58N1762  77BA   S   SLF 12.26  12.36  ARAPPALAYAM         
+
+
+ 170  PDR  58N1463  3X     D   SLF 12.35  12.40  PBS                 
+
+
+ 171  PON  58N1764  77BS   U   SLF 12.33  12.40  ARAPPALAYAM         
+
+
+ 172  TPK  58N1317  19     A   EXP 12.40  12.42  MUTHURAMALINGAPURAM 
+
+
+ 173  PDR  58N1449  16B    A   SLF 12.40  12.45  PERUNGUDI           
+
+
+ 174  TPK  58N2334  5      E   SLF 12.40  12.45  THIRUNAGAR          
+
+
+ 175  BCB  58N1980  3      A   EXP 12.40  12.50  PALANGANATHAM       
+
+
+ 176  PDR  58N1523  3A     B   SLF 12.45  12.50  PBS                 
+
+
+ 177  TPK  58N1621  14B    C   SLF 12.45  12.50  THIRUNAGAR          
+
+
+ 178  ENR  58N2347  77BA   F   SLF 12.54  13.04  ARAPPALAYAM         
+
+
+ 179  TPK  58N1558  14BB   D   SLF 13.00  13.05  MAHALAKSHMI COLONY  
+
+
+ 180  PON  58N1726  77BS   T   SLF 12.47  13.05  ARAPPALAYAM         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 181  TPK  58N0815  19J    B   EXP 13.05  13.10  MADAKULAM           
+
+
+ 182  PON  58N1708  77BA   I   SLF 13.15  13.20  ARAPPALAYAM         
+
+
+ 183  BCB  58N1791  77BS   V   SLF 13.22  13.25  ARAPPALAYAM         
+
+
+ 184  BCB  58N1748  3X     B   SLF 13.25  13.30  PBS                 
+
+
+ 185  BCB  58N1732  3C     B   SLF 13.25  13.30  PBS                 
+
+
+ 186  TPK  58N1332  9N     B   EXP 13.25  13.30  VILACHERI TPKUNDRAM 
+
+
+ 187  SVN  58N1516  93D    B   SLF 13.25  13.30  THENKARAI           
+
+
+ 188  PON  58N1789  77BA   B   SLF 13.20  13.32  ARAPPALAYAM         
+
+
+ 189  TPK  58N1396  19     B   EXP 13.32  13.34  MUTHURAMALINGAPURAM 
+
+
+ 190  CNI  58N1341  27D    A   EXP 13.30  13.45  NADUMUDALAIKULAM    
+
+
+ 191  PON  58N1764  77BS   U   SLF 13.42  13.45  ARAPPALAYAM         
+
+
+ 192  PDR  58N1463  3X     D   SLF 13.45  13.50  PBS                 
+
+
+ 193  PON  58N1762  77BA   S   SLF 13.50  13.51  ARAPPALAYAM         
+
+
+ 194  PDR  58N1404  14F    A   SLF 13.45  14.00  THIRUVALLUVAR NAGAR 
+
+
+ 195  PON  58N1726  77BS   T   SLF 14.00  14.05  ARAPPALAYAM         
+
+
+ 196  TPK  58N2334  77BA   E   SLF 14.00  14.10  ARAPPALAYAM         
+
+
+ 197  PDR  58N1523  3A     B   SLF 14.05  14.15  PBS                 
+
+
+ 198  PDR  58N1449  16B    A   SLF 14.10  14.15  PERUNGUDI           
+
+
+ 199  ENR  58N2347  77BA   F   SLF 14.14  14.19  ARAPPALAYAM         
+
+
+ 200  PDK  58N1501  14B    A   SLF 14.15  14.20  THIRUNAGAR          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 201  PDR  58N1460  77BA   E   SLF 14.05  14.23  ARAPPALAYAM         
+
+
+ 202  SIP  58N1458  77BS   C   SLF 13.01  14.25  ARAPPALAYAM         
+
+
+ 203  BCB  58N1980  3      A   EXP 14.25  14.30  PALANGANATHAM       
+
+
+ 204  PDR  58N0966  77BA   A   SLF 13.30  14.30  ARAPPALAYAM         
+
+
+ 205  SIP  58N1681  77BA   A   SLF 13.08  14.33  ARAPPALAYAM         
+
+
+ 206  PDR  58N1607  45P    A   SLF 14.30  14.35  POTHUMBU            
+
+
+ 207  PDR  58N1604  29M    E   SLF 14.35  14.40  OORMECHIKULAM       
+
+
+ 208  PDR  58N1589  77BS   S   SLF 13.15  14.40  ARAPPALAYAM         
+
+
+ 209  PON  58N1708  77BA   I   SLF 14.35  14.40  ARAPPALAYAM         
+
+
+ 210  BCB  58N1732  3C     B   SLF 14.40  14.42  PBS                 
+
+
+ 211  PON  58N1789  77BA   B   SLF 14.42  14.47  ARAPPALAYAM         
+
+
+ 212  BCB  58N1748  3X     B   SLF 14.45  14.50  PBS                 
+
+
+ 213  ENR  58N1387  89B    A   EXP  9.15  14.50  AYYUR               
+
+
+ 214  SVN  58N1218  93     D   EXP 14.40  14.50  SHOLAVANDAN         
+
+
+ 215  TPK  58N0752  19A    A   EXP 14.50  14.52  MADAKULAM           
+
+
+ 216  BCB  58N1791  77BS   V   SLF 14.40  14.54  ARAPPALAYAM         
+
+
+ 217  TPK  58N1409  9M     A   EXP 14.50  14.55  VILACHERI           
+
+
+ 218  PDR  58N1463  3X     D   SLF 14.55  15.00  PBS                 
+
+
+ 219  PDR  58N0991  16PX   A   SLF 13.35  15.00  SERMA.VASAN COLLEGE 
+
+
+ 220  BCB  58N1749  3A     A   SLF 15.03  15.05  PBS                 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 221  SVN  58N0726  93A    A   LSS 15.00  15.05  KURUVITHURAI        
+
+
+ 222  PDK  58N1560  14B    B   SLF 15.00  15.05  THIRUNAGAR          
+
+
+ 223  PON  58N1762  77BA   S   SLF 15.00  15.06  ARAPPALAYAM         
+
+
+ 224  PDR  58N1440  16MX   A   SLF  9.50  15.10  KALUVANKULAM        
+
+
+ 225  PON  58N1764  77BS   U   SLF 15.00  15.13  ARAPPALAYAM         
+
+
+ 226  TPK  58N1345  9B     A   EXP 15.00  15.15  MUTHUPATTI          
+
+
+ 227  SVN  58N1629  93     A   SLF 14.50  15.15  SHOLAVANDAN         
+
+
+ 228  PON  58N1801  77BA   Q   SLF 15.10  15.15  ARAPPALAYAM         
+
+
+ 229  CNI  58N1949  27E    A   EXP 15.00  15.20  A.KOKKULAM          
+
+
+ 230  TPK  58N2334  77BA   E   SLF 15.10  15.20  ARAPPALAYAM         
+
+
+ 231  TPK  58N1317  19     A   EXP 15.20  15.22  MUTHURAMALINGAPURAM 
+
+
+ 232  PON  58N1809  77BA   C   SLF 15.15  15.25  ARAPPALAYAM         
+
+
+ 233  PON  58N1726  77BS   T   SLF 15.20  15.27  ARAPPALAYAM         
+
+
+ 234  TPK  58N1621  14B    C   SLF 15.05  15.30  THIRUNAGAR          
+
+
+ 235  ENR  58N2347  77BA   F   SLF 15.24  15.34  ARAPPALAYAM         
+
+
+ 236  PDR  58N1523  3A     B   SLF 15.30  15.35  PBS                 
+
+
+ 237  MCB  58N1603  700    A   SLF 15.35  15.40  PBS                 
+
+
+ 238  SIP  58N1458  77BS   C   SLF 15.31  15.41  ARAPPALAYAM         
+
+
+ 239  PDR  58N1449  16B    A   SLF 15.40  15.45  PERUNGUDI           
+
+
+ 240  BCB  58N1732  3C     B   SLF 15.45  15.47  PBS                 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 241  SIP  58N1681  77BA   A   SLF 15.38  15.48  ARAPPALAYAM         
+
+
+ 242  PDR  58N1589  77BS   S   SLF 15.45  15.55  ARAPPALAYAM         
+
+
+ 243  BCB  58N1980  3X     A   EXP 15.55  16.00  PBS                 
+
+
+ 244  TPK  58N0815  19J    B   EXP 15.50  16.00  MADAKULAM           
+
+
+ 245  PON  58N1708  77BA   I   SLF 15.55  16.00  ARAPPALAYAM         
+
+
+ 246  PON  58N1789  77BA   B   SLF 15.52  16.02  ARAPPALAYAM         
+
+
+ 247  BCB  58N1791  77BS   V   SLF 15.59  16.09  ARAPPALAYAM         
+
+
+ 248  TPK  58N1343  9B     B   EXP 16.05  16.10  MUTHUPATTI          
+
+
+ 249  PDR  58N1640  26K    B   SLF 15.55  16.10  VIKKIRAMANGALAM     
+
+
+ 250  PDR  58N0966  21M    A   SLF 15.35  16.10  VIRATTIPATHU        
+
+
+ 251  PON  58N1762  77BA   S   SLF 16.09  16.12  ARAPPALAYAM         
+
+
+ 252  BCB  58N1749  3A     A   SLF 16.13  16.15  PBS                 
+
+
+ 253  PDR  58N1544  21EM   F   SLF 16.08  16.15  VELLAIPARAIPATTI    
+
+
+ 254  PON  58N1764  77BS   U   SLF 16.16  16.19  ARAPPALAYAM         
+
+
+ 255  SVN  58N1516  28E    B   SLF 16.05  16.20  SAMAYANALLUR        
+
+
+ 256  PDR  58N1607  16R    A   SLF 16.10  16.25  TRANSPORT NAGAR     
+
+
+ 257  CNI  58N1341  27C    A   EXP 16.20  16.25  MELAKUILKUDI        
+
+
+ 258  TPK  58N1396  19     B   EXP 16.06  16.26  MUTHURAMALINGAPURAM 
+
+
+ 259  TPK  58N2334  77BA   E   SLF 16.23  16.26  ARAPPALAYAM         
+
+
+ 260  TPK  58N1558  14BB   D   SLF 16.22  16.30  MAHALAKSHMI COLONY  
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 261  PON  58N1801  77BA   Q   SLF 16.20  16.30  ARAPPALAYAM         
+
+
+ 262  PON  58N1726  77BS   T   SLF 16.30  16.33  ARAPPALAYAM         
+
+
+ 263  ENR  58N2347  77BA   F   SLF 16.37  16.40  ARAPPALAYAM         
+
+
+ 264  PON  58N1800  16MA   A   SLF 16.40  16.45  AVIYUR              
+
+
+ 265  SIP  58N1458  77BS   C   SLF 16.44  16.47  ARAPPALAYAM         
+
+
+ 266  SVN  58N1429  93     I   SLF 16.30  16.50  SHOLAVANDAN         
+
+
+ 267  SIP  58N1681  77BA   A   SLF 16.51  16.54  ARAPPALAYAM         
+
+
+ 268  PDR  58N1481  16F    A   SLF 16.50  16.55  AIRPORT             
+
+
+ 269  BCB  58N1748  3X     B   SLF 16.55  17.00  PBS                 
+
+
+ 270  PDR  58N0991  77BA   A   SLF 16.35  17.00  ARAPPALAYAM         
+
+
+ 271  PDR  58N1589  77BS   S   SLF 16.58  17.01  ARAPPALAYAM         
+
+
+ 272  PDR  58N1523  3A     B   SLF 17.00  17.05  PBS                 
+
+
+ 273  TPK  58N1345  9B     A   EXP 17.00  17.05  MUTHUPATTI          
+
+
+ 274  PDK  58N1501  14B    A   SLF 16.40  17.05  THIRUNAGAR          
+
+
+ 275  PON  58N1789  77BA   B   SLF 17.05  17.08  ARAPPALAYAM         
+
+
+ 276  PON  58N1708  77BA   I   SLF 17.05  17.10  ARAPPALAYAM         
+
+
+ 277  BCB  58N1732  3C     B   SLF 17.13  17.15  PBS                 
+
+
+ 278  BCB  58N1791  77BS   V   SLF 17.12  17.15  ARAPPALAYAM         
+
+
+ 279  PON  58N1762  77BA   S   SLF 17.15  17.18  ARAPPALAYAM         
+
+
+ 280  TPK  58N1317  19     A   EXP 17.20  17.22  MUTHURAMALINGAPURAM 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 281  TPK  58N1121  16D    A   SLF 17.20  17.25  SHOLANKURUNI        
+
+
+ 282  PON  58N1764  77BS   U   SLF 17.22  17.25  ARAPPALAYAM         
+
+
+ 283  PDR  58N1440  16MX   A   SLF 17.25  17.30  KALUVANKULAM        
+
+
+ 284  ENR  58N1387  89A    A   EXP 17.15  17.30  THATHAGOUNDANPATTI  
+
+
+ 285  TPK  58N2334  77BA   E   SLF 17.29  17.32  ARAPPALAYAM         
+
+
+ 286  BCB  58N1749  3A     A   SLF 17.33  17.35  PBS                 
+
+
+ 287  PON  58N1726  77BS   T   SLF 17.36  17.39  ARAPPALAYAM         
+
+
+ 288  CNI  58N1949  93K    A   EXP 17.35  17.40  KATCHAIKATTI        
+
+
+ 289  PDK  58N1560  14B    B   SLF 17.20  17.40  THIRUNAGAR          
+
+
+ 290  PDR  58N1900  51M    A   EXP 17.40  17.45  PALAMEDU            
+
+
+ 291  ENR  58N2347  77BA   F   SLF 17.43  17.46  ARAPPALAYAM         
+
+
+ 292  SIP  58N1458  77BS   C   SLF 17.50  17.53  ARAPPALAYAM         
+
+
+ 293  PDR  58N1604  14B    E   SLF 17.50  17.55  THIRUNAGAR          
+
+
+ 294  TPK  58N0815  19J    B   EXP 17.50  17.55  MADAKULAM           
+
+
+ 295  PDR  58N1449  16B    A   SLF 17.20  18.00  PERUNGUDI           
+
+
+ 296  CNI  58N1217  55T    A   EXP 17.55  18.00  NATTARMANGALAM      
+
+
+ 297  SIP  58N1681  77BA   A   SLF 17.57  18.00  ARAPPALAYAM         
+
+
+ 298  TPK  58N1343  9B     B   EXP 18.00  18.05  MUTHUPATTI          
+
+
+ 299  PDR  58N1589  77BS   S   SLF 18.04  18.07  ARAPPALAYAM         
+
+
+ 300  TPK  58N1621  14S    C   SLF 17.55  18.10  SEENIVASA COLONY    
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 301  SVN  58N1629  93     A   SLF 18.00  18.10  SHOLAVANDAN         
+
+
+ 302  ENR  58N1464  21CC   A   SLF 17.55  18.10  KEELAKUILKUDI       
+
+
+ 303  PON  58N1789  77BA   B   SLF 18.11  18.14  ARAPPALAYAM         
+
+
+ 304  PDR  58N1607  16A    A   SLF 18.00  18.15  AVANIAPURAM         
+
+
+ 305  TPK  58N1396  19     B   EXP 18.16  18.18  MUTHURAMALINGAPURAM 
+
+
+ 306  PON  58N1708  77BA   I   SLF 18.15  18.20  ARAPPALAYAM         
+
+
+ 307  BCB  58N1791  77BS   V   SLF 18.18  18.21  ARAPPALAYAM         
+
+
+ 308  PON  58N1762  77BA   S   SLF 18.21  18.24  ARAPPALAYAM         
+
+
+ 309  PDR  58N1523  3A     B   SLF 18.20  18.25  PBS                 
+
+
+ 310  SVN  58N1516  28E    B   SLF 18.10  18.25  SAMAYANALLUR        
+
+
+ 311  PON  58N1764  77BS   U   SLF 18.28  18.31  ARAPPALAYAM         
+
+
+ 312  PDR  58N1544  14B    F   SLF 18.30  18.35  THIRUNAGAR          
+
+
+ 313  PON  58N1801  77BA   Q   SLF 16.30  18.35  ARAPPALAYAM         
+
+
+ 314  TPK  58N2334  77BA   E   SLF 18.35  18.38  ARAPPALAYAM         
+
+
+ 315  TPK  58N0752  19A    A   EXP 18.40  18.45  MADAKULAM           
+
+
+ 316  PON  58N1726  77BS   T   SLF 18.42  18.45  ARAPPALAYAM         
+
+
+ 317  ENR  58N2347  77BA   F   SLF 18.49  18.52  ARAPPALAYAM         
+
+
+ 318  BCB  58N1749  3A     A   SLF 18.53  18.55  PBS                 
+
+
+ 319  SVN  58N0726  93A    A   LSS 18.40  18.55  KURUVITHURAI        
+
+
+ 320  SIP  58N1458  77BS   C   SLF 18.56  18.59  ARAPPALAYAM         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 321  TPK  58N1558  14BB   D   SLF 18.45  19.00  MAHALAKSHMI COLONY  
+
+
+ 322  SIP  58N1681  77BA   A   SLF 19.03  19.06  ARAPPALAYAM         
+
+
+ 323  PDR  58N1589  77BS   S   SLF 19.10  19.13  ARAPPALAYAM         
+
+
+ 324  TPK  58N1317  19     A   EXP 19.12  19.14  MUTHURAMALINGAPURAM 
+
+
+ 325  ENR  58N2200  84A    A   EXP 18.55  19.15  THETHUR             
+
+
+ 326  TPK  58N1345  9B     A   EXP 19.00  19.20  MUTHUPATTI          
+
+
+ 327  PON  58N1789  77BA   B   SLF 19.17  19.20  ARAPPALAYAM         
+
+
+ 328  BCB  58N1791  77BS   V   SLF 19.24  19.27  ARAPPALAYAM         
+
+
+ 329  PDR  58N1640  26R    B   SLF 19.10  19.30  KALPULICHANPATTI    
+
+
+ 330  CNI  58N1341  27D    A   EXP 19.05  19.30  NADUMUDALAIKULAM    
+
+
+ 331  PON  58N1708  77BA   I   SLF 19.25  19.30  ARAPPALAYAM         
+
+
+ 332  BCB  58N1748  3X     B   SLF 19.30  19.35  PBS                 
+
+
+ 333  PON  58N1762  77BA   S   SLF 19.27  19.37  ARAPPALAYAM         
+
+
+ 334  PDR  58N1449  16B    A   SLF 19.35  19.40  PERUNGUDI           
+
+
+ 335  PON  58N1764  77BS   U   SLF 19.34  19.44  ARAPPALAYAM         
+
+
+ 336  BCB  58N1980  3      A   EXP 19.40  19.45  PALANGANATHAM       
+
+
+ 337  TPK  58N2334  77BA   E   SLF 19.41  19.51  ARAPPALAYAM         
+
+
+ 338  PON  58N1726  77BS   T   SLF 19.48  19.58  ARAPPALAYAM         
+
+
+ 339  PDR  58N1523  3A     B   SLF 19.40  20.00  PBS                 
+
+
+ 340  PON  58N1809  77BA   C   SLF 19.50  20.00  ARAPPALAYAM         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 341  SVN  58N1218  93     D   EXP 19.45  20.00  SHOLAVANDAN         
+
+
+ 342  PDR  58N1463  3X     D   SLF 20.00  20.05  PBS                 
+
+
+ 343  ENR  58N2347  77BA   F   SLF 19.55  20.05  ARAPPALAYAM         
+
+
+ 344  TPK  58N1777  5EE    A   ORD 19.50  20.10  SAMBAKULAM          
+
+
+ 345  TPK  58N0815  19J    B   EXP 19.50  20.10  MADAKULAM           
+
+
+ 346  PON  58N1801  77BA   Q   SLF 19.55  20.10  ARAPPALAYAM         
+
+
+ 347  SIP  58N1458  77BS   C   SLF 20.02  20.12  ARAPPALAYAM         
+
+
+ 348  BCB  58N1732  3C     B   SLF 20.10  20.15  PBS                 
+
+
+ 349  TPK  58N1343  26HI   B   EXP 20.10  20.15  THARAPATTI          
+
+
+ 350  CNI  58N1949  27E    A   EXP 20.05  20.15  A.KOKKULAM          
+
+
+ 351  SVN  58N1516  93     B   SLF 20.00  20.15  SHOLAVANDAN         
+
+
+ 352  ENR  58N1464  3X     A   SLF 20.05  20.15  PBS                 
+
+
+ 353  SIP  58N1681  77BA   A   SLF 20.09  20.19  ARAPPALAYAM         
+
+
+ 354  PDK  58N1501  14B    A   SLF 20.15  20.20  THIRUNAGAR          
+
+
+ 355  BCB  58N1749  3A     A   SLF 20.20  20.25  PBS                 
+
+
+ 356  PDR  58N1589  77BS   S   SLF 20.16  20.26  ARAPPALAYAM         
+
+
+ 357  PON  58N1789  77BA   B   SLF 20.23  20.33  ARAPPALAYAM         
+
+
+ 358  TPK  58N1396  19     B   EXP 20.08  20.34  MUTHURAMALINGAPURAM 
+
+
+ 359  BCB  58N1748  3X     B   SLF 20.30  20.35  PBS                 
+
+
+ 360  PDR  58N1604  14B    E   SLF 20.25  20.35  THIRUNAGAR          
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 361  BCB  58N1791  77BS   V   SLF 20.30  20.40  ARAPPALAYAM         
+
+
+ 362  PON  58N1708  77BA   I   SLF 20.45  20.50  ARAPPALAYAM         
+
+
+ 363  PON  58N1762  77BA   S   SLF 20.42  20.52  ARAPPALAYAM         
+
+
+ 364  PDK  58N1560  14B    B   SLF 22.45  20.55  THIRUNAGAR          
+
+
+ 365  PON  58N1764  77BS   U   SLF 20.49  20.59  ARAPPALAYAM         
+
+
+ 366  TPK  58N0752  19A    A   EXP 20.40  21.00  MADAKULAM           
+
+
+ 367  SVN  58N1629  93     A   SLF 20.25  21.00  SHOLAVANDAN         
+
+
+ 368  TPK  58N2334  5      E   SLF 20.56  21.00  THIRUNAGAR          
+
+
+ 369  PDR  58N1544  14B    F   SLF 21.05  21.10  THIRUNAGAR          
+
+
+ 370  TPK  58N1621  14B    C   SLF 20.55  21.10  THIRUNAGAR          
+
+
+ 371  PON  58N1809  77BA   C   SLF 21.05  21.10  ARAPPALAYAM         
+
+
+ 372  PON  58N1726  77BS   T   SLF 21.03  21.13  ARAPPALAYAM         
+
+
+ 373  PDR  58N1463  3X     D   SLF 21.10  21.15  PBS                 
+
+
+ 374  TPK  58N1345  9B     A   EXP 21.05  21.15  MUTHUPATTI          
+
+
+ 375  PON  58N1801  77BA   Q   SLF 21.15  21.17  ARAPPALAYAM         
+
+
+ 376  BCB  58N1980  3      A   EXP 21.10  21.20  PALANGANATHAM       
+
+
+ 377  PDR  58N1523  3A     B   SLF 21.15  21.20  PBS                 
+
+
+ 378  ENR  58N2347  77BA   F   SLF 21.10  21.20  ARAPPALAYAM         
+
+
+ 379  SIP  58N1458  77BS   C   SLF 21.20  21.25  ARAPPALAYAM         
+
+
+ 380  TPK  58N1317  19     A   EXP 21.00  21.26  MUTHURAMALINGAPURAM 
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          M.G.R.B/S VIA-ANNAB/S    
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 381  ENR  58N1387  89B    A   EXP 21.05  21.30  AYYUR               
+
+
+ 382  PDR  58N1449  16B    A   SLF 21.15  21.35  PERUNGUDI           
+
+
+ 383  BCB  58N1748  3X     B   SLF 21.40  21.45  PBS                 
+
+
+ 384  PDR  58N1589  77BS   S   SLF 21.40  21.45  ARAPPALAYAM         
+
+
+ 385  PON  58N1789  77BA   B   SLF 21.38  21.48  ARAPPALAYAM         
+
+
+ 386  BCB  58N1732  3C     B   SLF 21.47  21.50  PBS                 
+
+
+ 387  BCB  58N1749  3A     A   SLF 21.50  21.55  PBS                 
+
+
+ 388  TPK  58N1558  14BB   D   SLF 21.35  22.00  MAHALAKSHMI COLONY  
+
+
+ 389  TPK  58N0815  19J    B   EXP 21.57  22.00  MADAKULAM           
+
+
+ 390  BCB  58N1791  77BS   V   SLF 21.50  22.00  ARAPPALAYAM         
+
+
+ 391  PON  58N1708  77BA   I   SLF 21.55  22.00  ARAPPALAYAM         
+
+
+ 392  TPK  58N1332  9N     B   EXP 22.10  22.15  VILACHERI TPKUNDRAM 
+
+
+ 393  TPK  58N1396  19     B   EXP 22.16  22.18  MUTHURAMALINGAPURAM 
+
+
+ 394  PON  58N1809  77BA   C   SLF 22.15  22.20  ARAPPALAYAM         
+
+
+ 395  PDR  58N1589  2G/    S   SLF 22.48  22.50  PUDUR               
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+

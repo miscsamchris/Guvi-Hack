@@ -1,0 +1,797 @@
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD; 
+  TIMING CHART          VIA SAMAYANALLUR         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+   1  PON  58N2027  71     C   EXP  0.00   4.40  VADIPATTI           
+
+
+   2  BCB  58N1765  29CX   F   SLF  0.00   4.45  OORMECHIKULAM       
+
+
+   3  PON  58N2061  29F    C   EXP  0.00   5.00  VILANGUDI           
+
+
+   4  PON  58N1738  71     J   SLF  0.00   5.05  VADIPATTI           
+
+
+   5  ENR  58N1402  30B    A   EXP  0.00   5.30  VAYALUR             
+
+
+   6  PON  58N1333  29F    A   EXP  0.00   5.40  VILANGUDI           
+
+
+   7  BCB  58N1784  29C    A   SLF  0.00   5.40  SAMAYANALLUR        
+
+
+   8  SVN  58N2180  29A    B   EXP  5.40   5.45  SHOLAVANDAN         
+
+
+   9  ENR  58N1572  71     G   SLF  0.00   5.45  VADIPATTI           
+
+
+  10  BCB  58N1330  29F    A   EXP  5.45   5.50  VILANGUDI           
+
+
+  11  SVN  58N1657  71     H   SLF  6.00   6.05  VADIPATTI           
+
+
+  12  SVN  58N1658  29A    G   SLF  6.05   6.10  SHOLAVANDAN         
+
+
+  13  ENR  58N1467  67     A   SLF  0.00   6.15  KONDAYAMPATTI       
+
+
+  14  SVN  58N1218  29B    D   EXP  0.00   6.20  SHOLAVANDAN         
+
+
+  15  SVN  58N1452  71PP   B   SLF  6.15   6.25  PALLAPATTI          
+
+
+  16  SVN  58N1536  29J    A   SLF  6.20   6.30  ERUMBADI            
+
+
+  17  ENR  58N1057  71     E   SLF  0.00   6.31  VADIPATTI           
+
+
+  18  BCB  58N1383  29H    H   EXP  6.20   6.35  SATHIYAMOORTHY NAGAR
+
+
+  19  SVN  58N1557  71     F   SLF  6.30   6.44  VADIPATTI           
+
+
+  20  SVN  58N1184  29B    A   EXP  6.40   6.45  SHOLAVANDAN         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA SAMAYANALLUR         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  21  SVN  58N1275  41D    M   EXP  6.30   6.50  METTUNEERETHAN      
+
+
+  22  BCB  58N1771  29H    B   SLF  0.00   6.55  SATHIYAMOORTHY NAGAR
+
+
+  23  BCB  58N1330  29F    A   EXP  6.45   6.55  VILANGUDI           
+
+
+  24  SVN  58N1569  29K    A   ORD  6.50   6.55  KARUPPATTI          
+
+
+  25  SVN  58N1455  71     I   SLF  6.55   6.57  VADIPATTI           
+
+
+  26  SVN  58N1525  29A    F   SLF  6.55   7.10  SHOLAVANDAN         
+
+
+  27  SVN  58N0713  41A    A   LSS  6.50   7.10  C.PUDUR             
+
+
+  28  SVN  58N1519  30D    C   SLF  7.05   7.15  MOOLAKURUICHI       
+
+
+  29  SVN  58N1271  41K    A   EXP  7.00   7.20  KATCHAIKATTI        
+
+
+  30  PON  58N1738  71     J   SLF  7.05   7.20  VADIPATTI           
+
+
+  31  SVN  58N1518  71     A   SLF  7.18   7.23  VADIPATTI           
+
+
+  32  ENR  58N1402  30A    A   EXP  7.20   7.35  VAIRAVANATHAM       
+
+
+  33  BCB  58N1405  29E    A   EXP  7.05   7.45  THODANERI           
+
+
+  34  SVN  58N1517  71X    B   SLF  7.31   7.46  VADIPATTI GIRLS HSS 
+
+
+  35  SVN  58N2180  29B    B   EXP  7.45   7.50  SHOLAVANDAN         
+
+
+  36  BCB  58N1330  29F    A   EXP  7.50   7.55  VILANGUDI           
+
+
+  37  BCB  58N1383  29CX   H   EXP  7.50   7.55  OORMECHIKULAM       
+
+
+  38  SVN  58N1524  71     C   SLF  7.44   7.59  VADIPATTI           
+
+
+  39  SVN  58N1101  30C    A   LSS  7.55   8.05  THIRUVALAVAYANALLUR 
+
+
+  40  ENR  58N1572  71     G   SLF  7.57   8.12  VADIPATTI           
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA SAMAYANALLUR         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  41  SVN  58N1429  29B    I   SLF  8.15   8.20  SHOLAVANDAN         
+
+
+  42  ENR  58N1467  67     A   SLF  8.20   8.25  KONDAYAMPATTI       
+
+
+  43  SVN  58N1657  71     H   SLF  8.10   8.25  VADIPATTI           
+
+
+  44  PDR  58N1604  29CX   E   SLF  8.25   8.30  OORMECHIKULAM       
+
+
+  45  SVN  58N1658  29A    G   SLF  8.20   8.30  SHOLAVANDAN         
+
+
+  46  SVN  58N1438  71     A   SLF  8.33   8.38  VADIPATTI           
+
+
+  47  ENR  58N1057  71     E   SLF  8.46   8.51  VADIPATTI           
+
+
+  48  BCB  58N1330  29F    A   EXP  8.50   8.55  VILANGUDI           
+
+
+  49  SVN  58N1108  71C    A   EXP  8.50   8.55  KULASEKARANKOTTAI   
+
+
+  50  SVN  58N0713  41*    A   LSS  8.50   9.00  KUTLA.SAMATHUVAPURAM
+
+
+  51  SVN  58N1557  71     F   SLF  8.59   9.04  VADIPATTI           
+
+
+  52  SVN  58N1275  29A    M   EXP  8.50   9.05  SHOLAVANDAN         
+
+
+  53  SVN  74N1262  29B    B   EXP  8.55   9.10  SHOLAVANDAN         
+
+
+  54  BCB  58N1405  29D    A   EXP  9.10   9.15  PARAVAI             
+
+
+  55  SVN  58N1525  29A    F   SLF  9.05   9.15  SHOLAVANDAN         
+
+
+  56  CNI  58N1390  67A    A   ORD  9.10   9.15  MELACHINNANAMPATTI  
+
+
+  57  SVN  58N1455  71     I   SLF  9.12   9.17  VADIPATTI           
+
+
+  58  SVN  58N1519  29A    C   SLF  9.10   9.20  SHOLAVANDAN         
+
+
+  59  SVN  58N1452  71     B   SLF  9.15   9.25  VADIPATTI           
+
+
+  60  SVN  58N1271  41G    A   EXP  9.25   9.30  RAMARAJAPURAM       
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA SAMAYANALLUR         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  61  PON  58N1738  71     J   SLF  9.25   9.30  VADIPATTI           
+
+
+  62  ENR  58N1402  30     A   EXP  9.25   9.35  CHITHALANKUDI       
+
+
+  63  SVN  58N1152  71B    L   EXP  9.10   9.35  VEERALIPATTI        
+
+
+  64  SVN  58N1569  29K    A   ORD  9.35   9.40  KARUPPATTI          
+
+
+  65  SVN  58N2180  29A    B   EXP  9.40   9.45  SHOLAVANDAN         
+
+
+  66  SVN  58N1101  29A    A   LSS  9.00   9.50  SHOLAVANDAN         
+
+
+  67  BCB  58N1330  29F    A   EXP  9.50   9.55  VILANGUDI           
+
+
+  68  SVN  58N1517  71     B   SLF  9.53   9.56  VADIPATTI           
+
+
+  69  PON  58N1311  29F    A   EXP  9.55  10.05  VILANGUDI           
+
+
+  70  SVN  58N1524  71     C   SLF 10.04  10.09  VADIPATTI           
+
+
+  71  SVN  58N1516  29C    B   SLF 10.05  10.10  SAMAYANALLUR        
+
+
+  72  SVN  58N1518  71     A   SLF 10.03  10.18  VADIPATTI           
+
+
+  73  BCB  58N2050  29H    A   EXP 10.05  10.20  SATHIYAMOORTHY NAGAR
+
+
+  74  ENR  58N1572  71     G   SLF 10.17  10.22  VADIPATTI           
+
+
+  75  SVN  58N1658  29A    G   SLF 10.30  10.35  SHOLAVANDAN         
+
+
+  76  SVN  58N1657  71     H   SLF 10.30  10.35  VADIPATTI           
+
+
+  77  SVN  58N1438  71     A   SLF 10.43  10.48  VADIPATTI           
+
+
+  78  SVN  58N0639  29A    A   LSS 10.35  10.50  SHOLAVANDAN         
+
+
+  79  SVN  58N1184  29B    A   EXP 10.50  11.00  SHOLAVANDAN         
+
+
+  80  ENR  58N1057  71     E   SLF 10.56  11.01  VADIPATTI           
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA SAMAYANALLUR         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+  81  SVN  58N1275  29A    M   EXP 11.00  11.10  SHOLAVANDAN         
+
+
+  82  SVN  58N1557  71     F   SLF 11.09  11.14  VADIPATTI           
+
+
+  83  SVN  58N1519  29A    C   SLF 11.15  11.20  SHOLAVANDAN         
+
+
+  84  BCB  58N1383  29CX   H   EXP 11.15  11.20  OORMECHIKULAM       
+
+
+  85  SVN  58N1455  71     I   SLF 11.22  11.27  VADIPATTI           
+
+
+  86  SVN  58N1525  29A    F   SLF 11.25  11.30  SHOLAVANDAN         
+
+
+  87  SVN  74N1262  29B    B   EXP 11.15  11.30  SHOLAVANDAN         
+
+
+  88  SVN  58N1452  71     B   SLF 11.30  11.35  VADIPATTI           
+
+
+  89  PON  58N1738  71     J   SLF 11.35  11.40  VADIPATTI           
+
+
+  90  SVN  58N0713  41     A   LSS 11.35  11.50  KUTLADAMPATTI       
+
+
+  91  SVN  58N1101  30C    A   LSS 11.50  11.55  THIRUVALAVAYANALLUR 
+
+
+  92  PON  58N2061  29F    C   EXP 11.40  12.00  VILANGUDI           
+
+
+  93  ENR  58N1402  30B    A   EXP 11.25  12.00  VAYALUR             
+
+
+  94  TPK  58N2049  52     A   ORD 11.55  12.00  AUSTINPATTI         
+
+
+  95  SVN  58N2180  29B    B   EXP 11.40  12.05  SHOLAVANDAN         
+
+
+  96  ENR  58N1467  67     A   SLF  8.25  12.05  KONDAYAMPATTI       
+
+
+  97  SVN  58N1152  71     L   EXP 12.00  12.05  VADIPATTI           
+
+
+  98  SVN  58N1517  71     B   SLF 12.01  12.06  VADIPATTI           
+
+
+  99  SVN  58N1524  71     C   SLF 12.14  12.19  VADIPATTI           
+
+
+ 100  CNI  58N1978  40/    A   EXP 12.15  12.20  CHECKANURANI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA SAMAYANALLUR         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 101  SVN  58N1271  71D    A   EXP 11.55  12.25  KATCHAIKATTI        
+
+
+ 102  SVN  58N1518  71     A   SLF 12.23  12.28  VADIPATTI           
+
+
+ 103  SVN  58N1569  29K    A   ORD 12.25  12.30  KARUPPATTI          
+
+
+ 104  ENR  58N1572  71     G   SLF 12.27  12.32  VADIPATTI           
+
+
+ 105  SVN  58N1657  71     H   SLF 12.40  12.45  VADIPATTI           
+
+
+ 106  SVN  58N1658  29A    G   SLF 12.45  12.50  SHOLAVANDAN         
+
+
+ 107  BCB  58N0675  29F/   A   EXP 12.35  12.55  FATIMA COLLEGE      
+
+
+ 108  SVN  58N1438  71     A   SLF 12.53  12.58  VADIPATTI           
+
+
+ 109  SVN  58N1519  29A    C   SLF 13.05  13.10  SHOLAVANDAN         
+
+
+ 110  ENR  58N1057  71     E   SLF 13.06  13.11  VADIPATTI           
+
+
+ 111  PON  58N1311  29F    A   EXP 13.00  13.20  VILANGUDI           
+
+
+ 112  SVN  58N1184  29A    A   EXP 13.15  13.20  SHOLAVANDAN         
+
+
+ 113  SVN  58N1557  71     F   SLF 13.19  13.24  VADIPATTI           
+
+
+ 114  SVN  58N1101  41CV   A   LSS 13.20  13.25  VADIPATTI           
+
+
+ 115  SVN  58N1429  29A    I   SLF 13.25  13.30  SHOLAVANDAN         
+
+
+ 116  SVN  58N1525  29A    F   SLF 13.30  13.35  SHOLAVANDAN         
+
+
+ 117  SVN  58N1455  71     I   SLF 13.32  13.37  VADIPATTI           
+
+
+ 118  SVN  74N1262  29B    B   EXP 13.30  13.40  SHOLAVANDAN         
+
+
+ 119  TPK  58N0811  29C    A   EXP  9.55  13.50  SAMAYANALLUR        
+
+
+ 120  ENR  58N1467  67A    A   SLF 14.00  14.00  MELACHINNAMPATTI    
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA SAMAYANALLUR         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 121  PON  58N1738  71     J   SLF 13.45  14.00  VADIPATTI           
+
+
+ 122  SVN  58N1452  71     B   SLF 14.00  14.05  VADIPATTI           
+
+
+ 123  SVN  58N0639  29A    A   LSS 13.50  14.15  SHOLAVANDAN         
+
+
+ 124  SVN  58N1275  41*    M   EXP 14.10  14.15  KUTLA.SAMATHUVAPURAM
+
+
+ 125  ENR  58N1402  30     A   EXP 13.50  14.20  CHITHALANKUDI       
+
+
+ 126  SVN  58N1517  71     B   SLF 14.11  14.26  VADIPATTI           
+
+
+ 127  SVN  58N1518  71     A   SLF 14.33  14.38  VADIPATTI           
+
+
+ 128  SVN  58N1524  71     C   SLF 14.24  14.39  VADIPATTI           
+
+
+ 129  BCB  58N1330  29F    A   EXP 13.55  14.45  VILANGUDI           
+
+
+ 130  SVN  58N2180  29A    B   EXP 14.40  14.50  SHOLAVANDAN         
+
+
+ 131  ENR  58N1572  71     G   SLF 14.37  14.52  VADIPATTI           
+
+
+ 132  SVN  58N1658  29A    G   SLF 14.55  15.00  SHOLAVANDAN         
+
+
+ 133  TPK  58N0811  29C    A   EXP 14.55  15.00  SAMAYANALLUR        
+
+
+ 134  SVN  58N1657  71     H   SLF 14.55  15.05  VADIPATTI           
+
+
+ 135  BCB  58N1405  29D    A   EXP 12.50  15.10  PARAVAI             
+
+
+ 136  SVN  58N1438  71     A   SLF 15.03  15.18  VADIPATTI           
+
+
+ 137  SVN  58N1569  29K    A   ORD 15.15  15.20  KARUPPATTI          
+
+
+ 138  SVN  58N1271  41G    A   EXP 15.10  15.20  RAMARAJAPURAM       
+
+
+ 139  PON  58N2061  29F    C   EXP 15.20  15.25  VILANGUDI           
+
+
+ 140  SVN  58N1184  29B    A   EXP 15.20  15.25  SHOLAVANDAN         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA SAMAYANALLUR         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 141  ENR  58N1057  71     E   SLF 15.16  15.31  VADIPATTI           
+
+
+ 142  SVN  58N1557  71     F   SLF 15.29  15.44  VADIPATTI           
+
+
+ 143  SVN  58N1525  29A    F   SLF 15.40  15.45  SHOLAVANDAN         
+
+
+ 144  SVN  58N0713  41A    A   LSS 15.35  15.50  C.PUDUR             
+
+
+ 145  SVN  74N1262  29A    B   EXP 15.50  15.55  SHOLAVANDAN         
+
+
+ 146  BCB  58N1330  29F    A   EXP 15.40  15.55  VILANGUDI           
+
+
+ 147  SVN  58N1455  71X    I   SLF 15.42  15.57  VADIPATTI GIRLS HSS 
+
+
+ 148  SVN  58N1101  30C    A   LSS 16.00  16.05  THIRUVALAVAYANALLUR 
+
+
+ 149  ENR  58N1467  67     A   SLF 16.05  16.10  KONDAYAMPATTI       
+
+
+ 150  BCB  58N1405  29E    A   EXP 16.05  16.15  THODANERI           
+
+
+ 151  SVN  58N1452  71PP   B   SLF 16.10  16.15  PALLAPATTI          
+
+
+ 152  PON  58N1738  71     J   SLF 16.05  16.20  VADIPATTI           
+
+
+ 153  SVN  58N1519  30D    C   SLF 16.20  16.25  MOOLAKURUICHI       
+
+
+ 154  SVN  58N1517  71     B   SLF 16.31  16.46  VADIPATTI           
+
+
+ 155  BCB  58N1330  29F    A   EXP 16.50  16.55  VILANGUDI           
+
+
+ 156  ENR  58N1402  30A    A   EXP 16.05  16.55  VAIRAVANATHAM       
+
+
+ 157  SVN  58N1518  71     A   SLF 16.43  16.58  VADIPATTI           
+
+
+ 158  SVN  58N1524  71     C   SLF 16.44  16.59  VADIPATTI           
+
+
+ 159  SVN  58N2180  29B    B   EXP 17.05  17.10  SHOLAVANDAN         
+
+
+ 160  SVN  58N1658  29A    G   SLF 17.05  17.10  SHOLAVANDAN         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA SAMAYANALLUR         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 161  ENR  58N1572  71     G   SLF 16.57  17.12  VADIPATTI           
+
+
+ 162  SVN  58N1275  41D    M   EXP 17.00  17.15  METTUNEERETHAN      
+
+
+ 163  SVN  58N0713  41     A   LSS 17.25  17.30  KUTLADAMPATTI       
+
+
+ 164  PON  58N1801  29F/   Q   SLF  0.00  17.30  FATIMA COLLEGE      
+
+
+ 165  SVN  58N1101  29D    A   LSS 17.30  17.35  PARAVAI             
+
+
+ 166  SVN  58N1438  71     A   SLF 17.23  17.38  VADIPATTI           
+
+
+ 167  BCB  58N2050  29H    A   EXP 17.25  17.40  SATHIYAMOORTHY NAGAR
+
+
+ 168  SVN  58N1184  29     A   EXP 17.45  17.50  THENUR              
+
+
+ 169  ENR  58N1057  71     E   SLF 17.36  17.51  VADIPATTI           
+
+
+ 170  BCB  58N1330  29F    A   EXP 17.50  17.55  VILANGUDI           
+
+
+ 171  SVN  58N1557  71     F   SLF 17.49  18.04  VADIPATTI           
+
+
+ 172  SVN  58N1525  29B    F   SLF 17.50  18.05  SHOLAVANDAN         
+
+
+ 173  SVN  58N1569  29K    A   ORD 18.00  18.05  KARUPPATTI          
+
+
+ 174  SVN  58N1271  41K    A   EXP 18.00  18.05  KATCHAIKATTI        
+
+
+ 175  SVN  58N1657  71     H   SLF 17.55  18.15  VADIPATTI           
+
+
+ 176  SVN  58N1455  71     I   SLF 18.05  18.17  VADIPATTI           
+
+
+ 177  PON  58N1738  71     J   SLF 18.25  18.30  VADIPATTI           
+
+
+ 178  SVN  58N1152  71B    L   EXP 18.25  18.35  VEERALIPATTI        
+
+
+ 179  SVN  58N1101  41C    A   LSS 18.40  18.45  KATTAKULAM          
+
+
+ 180  SVN  58N1519  29     C   SLF 18.20  18.50  THENUR              
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA SAMAYANALLUR         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 181  ENR  58N1467  67     A   SLF 18.05  18.50  KONDAYAMPATTI       
+
+
+ 182  BCB  58N1330  29F    A   EXP 18.50  18.55  VILANGUDI           
+
+
+ 183  SVN  58N1517  71     B   SLF 18.51  18.56  VADIPATTI           
+
+
+ 184  SVN  58N1452  71     B   SLF 19.00  19.05  VADIPATTI           
+
+
+ 185  SVN  58N1518  71     A   SLF 19.03  19.08  VADIPATTI           
+
+
+ 186  SVN  58N1524  71     C   SLF 19.04  19.09  VADIPATTI           
+
+
+ 187  ENR  58N1402  30B    A   EXP 18.45  19.10  VAYALUR             
+
+
+ 188  SVN  58N1658  29A    G   SLF 19.15  19.20  SHOLAVANDAN         
+
+
+ 189  SVN  58N1184  29B    A   EXP 19.05  19.20  SHOLAVANDAN         
+
+
+ 190  ENR  58N1572  71     G   SLF 19.17  19.22  VADIPATTI           
+
+
+ 191  SVN  58N2180  29     B   EXP 19.25  19.30  THENUR              
+
+
+ 192  SVN  58N1275  29A    M   EXP 19.20  19.30  SHOLAVANDAN         
+
+
+ 193  SVN  58N1438  71     A   SLF 19.43  19.48  VADIPATTI           
+
+
+ 194  ENR  58N1057  71     E   SLF 19.56  20.01  VADIPATTI           
+
+
+ 195  SVN  58N1525  29A    F   SLF 20.00  20.05  SHOLAVANDAN         
+
+
+ 196  SVN  74N1262  29A    B   EXP 20.05  20.10  SHOLAVANDAN         
+
+
+ 197  SVN  58N1557  71     F   SLF 20.09  20.14  VADIPATTI           
+
+
+ 198  SVN  58N0713  41*    A   LSS 19.55  20.15  KUTLA.SAMATHUVAPURAM
+
+
+ 199  CNI  58N1978  29E    A   EXP 19.55  20.15  THODANERI           
+
+
+ 200  SVN  58N1271  71D    A   EXP 20.10  20.20  KATCHAIKATTI        
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA SAMAYANALLUR         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 201  SVN  58N1519  29A    C   SLF 20.15  20.25  SHOLAVANDAN         
+
+
+ 202  SVN  58N1657  71     H   SLF 20.20  20.25  VADIPATTI           
+
+
+ 203  SVN  58N1455  71     I   SLF 20.22  20.27  VADIPATTI           
+
+
+ 204  CNI  58N1948  67A    A   EXP 20.20  20.30  MELACHINNANAMPATTI  
+
+
+ 205  SVN  58N2180  29B    B   EXP 20.45  20.55  SHOLAVANDAN         
+
+
+ 206  SVN  58N1101  30C    A   LSS 20.30  20.55  THIRUVALAVAYANALLUR 
+
+
+ 207  ENR  58N1467  67     A   SLF 20.50  20.55  KONDAYAMPATTI       
+
+
+ 208  ENR  58N1402  30A    A   EXP 21.00  21.05  VAIRAVANATHAM       
+
+
+ 209  SVN  58N1517  71     B   SLF 21.01  21.06  VADIPATTI           
+
+
+ 210  SVN  58N1569  29K    A   ORD 20.50  21.10  KARUPPATTI          
+
+
+ 211  SVN  58N1108  29A    A   EXP 20.55  21.10  SHOLAVANDAN         
+
+
+ 212  SVN  58N1152  71     L   EXP 21.00  21.10  VADIPATTI           
+
+
+ 213  SVN  58N1429  29R    I   SLF 21.10  21.15  KADUPATTI           
+
+
+ 214  SVN  58N1524  71     C   SLF 21.14  21.19  VADIPATTI           
+
+
+ 215  SVN  58N1518  71     A   SLF 21.18  21.23  VADIPATTI           
+
+
+ 216  SVN  58N1452  71     B   SLF 21.20  21.30  VADIPATTI           
+
+
+ 217  SVN  58N0628  29B    A   EXP 21.15  21.35  SHOLAVANDAN         
+
+
+ 218  SVN  58N1658  29A    G   SLF 21.30  21.35  SHOLAVANDAN         
+
+
+ 219  SVN  58N1184  29A    A   EXP 21.15  21.50  SHOLAVANDAN         
+
+
+ 220  SVN  58N1266  29A    A   LSS 21.45  22.05  SHOLAVANDAN         
+
+
+
+
+            TAMILNADU STATE TRANSPORT CORPORATION MADURAI :LTD;
+  TIMING CHART          VIA SAMAYANALLUR         
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+  S No BR.  Bus No.  Rou.No       Sch.   Sch.  To                  ³   Act   Act   Dr.Sign                              ³  Act    Act   Dr.Sign                              ³  Act    Act   Dr.Sign                       
+                                  Arr.   Dep.                      ³   Arr   Dep                                        ³  Arr    Dep                                        ³  Arr    Dep                                 
+                                  Time   Time                      ³   Time  Time                                       ³  Time   Time                                       ³  Time   Time                                
+ ------------------------------------------------------------------³------------------------------------------- --------³------------------------------------------- --------³--------------------------------------------|
+
+ 221  SVN  58N1438  71     A   SLF 22.00  22.05  VADIPATTI           
+
+
+ 222  SVN  74N1262  29B    B   EXP 22.10  22.15  SHOLAVANDAN         
+
+
+ 223  SVN  58N1525  29A    F   SLF 22.15  22.20  SHOLAVANDAN         
+
+
+ 224  SVN  58N1516  29A    B   SLF 22.25  22.40  SHOLAVANDAN         
+
+
+ 225  SVN  58N1519  29A    C   SLF 22.45  22.55  SHOLAVANDAN         
+
+
+G:\SECTIME\ARRDEP1.prg --  FILENAME --> TSTCTIME
+
