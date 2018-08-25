@@ -5,7 +5,7 @@ import functools
 def sendmail():
     print("TODO Send mail")
 cascade_src = 'cars.xml'
-video_src = 'C:/Users/Sam Christian/Desktop/Guvi Hack/rem.mkv'
+video_src = 'C:/Users/Sam Christian/Desktop/Guvi Hack/traffic.mkv'
 cap = cv2.VideoCapture(video_src)
 car_cascade = cv2.CascadeClassifier(cascade_src)
 
@@ -31,8 +31,8 @@ cv2.imwrite("C:/Users/Sam Christian/Desktop/Guvi Hack/shotp.jpg",t)
 
 while True:
   #Display video out through the window we created
-  cv2.imshow( winName, diffImg(t_minus, t, t_plus) )
-  cv2.imshow("Video",t)
+#  cv2.imshow( winName, diffImg(t_minus, t, t_plus) )
+#  cv2.imshow("Video",t)
   #Calling function diffImg() and assign the return value to 'p'
   p=diffImg(t_minus, t, t_plus)
   ret, img = cap.read()

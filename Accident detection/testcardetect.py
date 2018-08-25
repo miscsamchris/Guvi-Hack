@@ -4,7 +4,7 @@ import cv2
 print(cv2.__version__)
 
 cascade_src = 'cars.xml'
-video_src = 'C:/Users/Sam Christian/Desktop/Guvi Hack/rem.mkv'
+video_src = 'C:/Users/Sam Christian/Desktop/Guvi Hack/traffic.mkv'
 #video_src = 'dataset/video2.avi'
 
 cap = cv2.VideoCapture(video_src)
@@ -26,5 +26,5 @@ while True:
     
     if cv2.waitKey(33) == 27:
         break
-
+cap.release()
 cv2.destroyAllWindows()
