@@ -75,4 +75,6 @@ while True:
   if key == 27:
     cv2.destroyWindow(winName)
     cv2.destroyWindow("Video")
+    cv2.destroyWindow("video")
+
     break  
