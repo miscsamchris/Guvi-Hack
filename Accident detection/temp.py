@@ -2,28 +2,13 @@
 import cv2
 import math, operator
 import functools
-import smtplib
 def sendmail():
-    sender = 'infantsamchris@gmail.com'
-    receivers = ['balavignesh25@gmail.com']
-    message = """From: From Person <from@fromdomain.com>
-    To: To Person <to@todomain.com>
-    MIME-Version: 1.0
-    Content-type: text/html
-    Subject: SMTP HTML e-mail test
-    
-    This is an e-mail message to be sent in HTML format
-    
-    <b>This is HTML message.</b>
-    <h1>This is headline.</h1>
-    """
-    
-    try:
-       smtpObj = smtplib.SMTP('localhost')
-       smtpObj.sendmail(sender, receivers, message)         
-       print ("Successfully sent email")
-    except Exception:
-       print ("Error: unable to send email")
+    print("TODO Send mail")
+cascade_src = 'cars.xml'
+video_src = 'C:/Users/Sam Christian/Desktop/Guvi Hack/rem.mkv'
+cap = cv2.VideoCapture(video_src)
+car_cascade = cv2.CascadeClassifier(cascade_src)
+
 
 #Function to find difference in frames
 def diffImg(t0, t1, t2):
@@ -50,6 +35,18 @@ while True:
   cv2.imshow("Video",t)
   #Calling function diffImg() and assign the return value to 'p'
   p=diffImg(t_minus, t, t_plus)
+  ret, img = cap.read()
+  if (type(img) == type(None)):
+        break
+    
+  gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    
+  cars = car_cascade.detectMultiScale(gray, 1.1, 1)
+
+  for (x,y,w,h) in cars:
+        cv2.rectangle(img,(x,y),(x+w,y+h),(0,0,255),2)      
+    
+  cv2.imshow('video', img)
   
   #Writing 'p' to a directory
   cv2.imwrite("C:/Users/Sam Christian/Desktop/Guvi Hack/shot.jpg",p)
@@ -65,8 +62,9 @@ while True:
   rms = math.sqrt(functools.reduce(operator.add,map(lambda a,b: (a-b)**2, h1, h2))/len(h1))  
    #If the RMS value of the images are under our limit 
   print(rms)
-  if (rms<3250):
+  if (rms<3160):
        print("Accident")
+       sendmail()
   #Updates the frames
   t_minus = t
   t = t_plus
